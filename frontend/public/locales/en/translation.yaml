@@ -1,0 +1,14 @@
+error:
+  whoops: Whoops!
+  pageUnavailable: This page is unavailable
+  pageDoesNotExist: The page does not exist, or please try again later.
+  goHome: Go to Home page
+header:
+  title: WebEvaluator
+  home: Home
+  about: About
+footer:
+  copyrightNotice: Copyright © 2021 WebEvaluator. All rights reserved
+  terms: Terms and Privacy
+  about: About
+  github: GitHub

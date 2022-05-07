@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# dependencies
+package.json
+package-lock.json
+yarn.lock
+
+# testing
+/coverage
+
+# production
+/build
+
+.github/
+/public
+.min.js
+.min.css
