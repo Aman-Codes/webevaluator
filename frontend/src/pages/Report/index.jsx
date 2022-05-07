@@ -321,6 +321,7 @@ const Report = () => {
       });
     setMapping([]);
   }, []);
+  console.log("cookieScore", cookieScore);
   const classes = useStyles();
   return (
     <div className={classes.root}>
@@ -341,7 +342,7 @@ const Report = () => {
               <Loader />
             </div>
           )}
-          {cookieScore ? (
+          {/* {cookieScore ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
                 <p className={classes.score_cookie}>{cookieScore}</p>
@@ -352,7 +353,7 @@ const Report = () => {
             <div className={classes.score_loader1}>
               <Loader />
             </div>
-          )}
+          )} */}
           {wcagScore ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
