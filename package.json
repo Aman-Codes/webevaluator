@@ -1,0 +1,26 @@
+{
+  "name": "webevaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pre-install": "npm install -g nodemon concurrently",
+    "backend-node": "cd backend && cd node && nodemon index.js",
+    "python-activate": "source backend/python/security_header/flask/bin/activate",
+    "backend-go": "cd backend && cd go && nodemon --exec go run main.go --signal SIGTERM",
+    "backend-python": "cd backend && cd python && cd security_header && python3 app.py",
+    "frontend": "cd frontend && npm start ",
+    "start": "concurrently \"npm run backend-go\" \"npm run backend-node\" \"npm run backend-python\" \"npm run frontend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-Codes/webevaluator.git"
+  },
+  "author": "Aman Dwivedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aman-Codes/webevaluator/issues"
+  },
+  "homepage": "https://github.com/Aman-Codes/webevaluator#readme"
+}

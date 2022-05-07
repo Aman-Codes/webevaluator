@@ -1,0 +1,1662 @@
+cookie_name,Placed_by,Functionality,purpose
+zrdn_unit_type,Zip Recipes,to store configuration.,Functional
+paoc_popup_sess_cookie,Popup Anything,to provide a responsive website.,Functional
+drts-voting-bookmark-post,Directories Pro,to provide persistent item display functionality.,Functional
+wpe_country,WP Engine,to store location data.,Functional
+uael_visitor,Ultimate Elementor,to store first visit to the site.,Functional
+nitropack_apwarning,Nitropack,with unknown functionality,Functional
+nitroCachedPage,Nitropack,to provide load balancing functionality.,Functional
+24230wpqa_post_stats*,WPQA Form Builder,with unknown functionality,Functional
+c_cerber_*,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+OptanonChoice,OneTrust,to store cookie consent preferences.,Functional
+__racplx*,Ruler Analytics,to provide functions across pages.,Functional
+cmplz_rt_id,Complianz,to store anonymized statistics.,Functional
+cmplz_rt_choice,Complianz,to store if a message has been dismissed.,Functional
+stonlyWidget_triggerShown_*,Stonly,to store if a message has been shown.,Functional
+cmplz_rt_event_*,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_consent_status,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_statistics-anonymous,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_preferences,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_statistics,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_marketing,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+cmplz_statistics,Complianz,to store cookie consent preferences.,Functional
+cmplz_preferences,Complianz,to store cookie consent preferences.,Functional
+cmplz_consent_status,Complianz,to store cookie consent preferences.,Functional
+cmplz_statistics-anonymous,Complianz,to store cookie consent preferences.,Functional
+cmplz_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+cmplz_functional,Complianz,to store cookie consent preferences.,Functional
+csrf_session_id,TikTok,to provide protection against hackers.,Functional
+tt_csrf_token,TikTok,to provide protection against hackers.,Functional
+_abck,TikTok,to provide protection against hackers.,Functional
+wa_lang_pref,WhatsApp,to store language settings.,Functional
+wa_ul,WhatsApp,to provide access.,Functional
+storeApiNonce,WooCommerce,to provide functions across pages.,Functional
+optimizelyOptOut,Optimizely,to store cookie consent preferences.,Functional
+webapp-newuser,TikTok,to store first visit to the site.,Functional
+autoplay-config,TikTok,to store configuration.,Functional
+webapp-video-mute,TikTok,to store configuration.,Functional
+ct_screen_info,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+ct_has_scrolled,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+rl_cookie_test,RudderStack,to read if cookies can be placed.,Functional
+_hjSessionRejected,Hotjar,to provide load balancing functionality.,Functional
+_learn_press_session_*,LearnPress,"to store a unique session ID, store a unique user ID.",Functional
+pg_height,PubGuru,to read screen resolution.,Functional
+pg_width,PubGuru,to read screen resolution.,Functional
+acgroupswithpersist,PHP,to provide persistent item display functionality.,Functional
+fm_cookie_*,10Web,to store information related to the contact form.,Functional
+pitchprint_sessId,PitchPrint,to store a unique session ID.,Functional
+debug_vis_opt_exp_*,Visual Website Optimizer,to provide functions across pages.,Functional
+debug_vis_opt_test_cookie,Visual Website Optimizer,to provide functions across pages.,Functional
+crisp-clientsocket*,Crisp Live Chat,to store the status of the chat.,Functional
+pardot,Pardot,to store and track if the browser tab is active.,Functional
+googlesitekit_*,Google Site Kit,to provide admin functions.,Functional
+google_classroom_popup,Masterstudy,to provide a responsive website.,Functional
+pi_opt_in*,Pardot,to store privacy preferences.,Functional
+uael-timer-recinterval-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-recStartTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+intercom.intercom-state-*,Intercom Messenger,to provide functions across pages.,Functional
+cmplzFormValues,Complianz,with unknown functionality,Functional
+cmplz_layout,Complianz,to read screen resolution.,Functional
+cmplz_id,Complianz,to store anonymized statistics.,Functional
+__stripe_sid,Stripe,to provide fraud prevention.,Functional
+*__stripe_,Stripe,to provide fraud prevention.,Functional
+__stripe_mid,Stripe,to provide fraud prevention.,Functional
+PHPSESSID,PHP,to provide functions across pages.,Functional
+ts,Dailymotion,with unknown functionality,Functional
+hist,Dailymotion,to store the user's usage history.,Functional
+*_wordpress_,WordPress,to Store logged in users.,Functional
+cmplz_choice,Complianz,to store if a message has been dismissed.,Functional
+actppresence,Facebook,to store and track if the browser tab is active.,Functional
+hppsession,Adyen,with unknown functionality,Functional
+aelia_cs_selected_currency,Aelia,to store currency settings.,Functional
+__atuvc,AddThis,to store performed actions on the website.,Functional
+__atuvs,AddThis,to store performed actions on the website.,Functional
+No longer active,Complianz,to store cookie consent preferences.,Functional
+cmplz_event_*,Complianz,to store cookie consent preferences.,Functional
+complianz_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+complianz_consent_status,Complianz,to store cookie consent preferences.,Functional
+cookieconsent_status,,to store cookie consent preferences.,Functional
+_hjMinimizedPolls,Hotjar,to store if a message has been dismissed.,Functional
+_hjDonePolls,Hotjar,to store performed actions on the website.,Functional
+_hjClosedSurveyInvites,Hotjar,to store if a message has been shown.,Functional
+__lc_visitor_id*,LiveChat,to store a unique user ID.,Functional
+wpfront-notification-bar-landingpage,WP Front,to provide functions across pages.,Functional
+No longer active,CloudFlare,to provide the identification of trusted web traffic.,Functional
+CONSENT,Google Ads Optimization,to store cookie consent preferences.,Functional
+HSID,Google Ads Optimization,to provide fraud prevention.,Functional
+has_js,Criteo,to provide functions across pages.,Functional
+csm,Facebook,to provide fraud prevention.,Functional
+_icl_current_admin_language_*,WPML,to store language settings.,Functional
+_icl_current_language,WPML,to store language settings.,Functional
+jetpackState,JetPack,to provide functions across pages.,Functional
+__zlcstore,Zopim,to store the status of the chat.,Functional
+__zlcprivacy,Zopim,to store cookie consent preferences.,Functional
+__zlcmid,Zopim,to store a unique user ID.,Functional
+_vis_opt_test_cookie,Visual Website Optimizer,to read if cookies can be placed.,Functional
+_vis_opt_s,Visual Website Optimizer,to store unique visits.,Functional
+_vis_opt_out,Visual Website Optimizer,to store user preferences.,Functional
+_hjDoneTestersWidgets,Hotjar,to store performed actions on the website.,Functional
+woocommerce_cart_*,WooCommerce,to store items in shopping cart.,Functional
+wpe-auth,WP Engine,to Store logged in users.,Functional
+__hssc,HubSpot,to store anonymized statistics.,Functional
+viewed_cookie_policy,GDPR Cookie Consent,to store if a message has been shown.,Functional
+wfCBLBypass,Wordfence,to provide access.,Functional
+wf_loginalerted_*,Wordfence,to provide protection against hackers.,Functional
+wfwaf-authcookie*,Wordfence,to read to determine if the user is logged in.,Functional
+wpml_admin_referer_url,WPML,to store last requested URL.,Functional
+wpml_referer_url,WPML,to store last requested URL.,Functional
+wpml_browser_redirect_test,WPML,to read if cookies can be placed.,Functional
+ssupp.chatid,Smartsupp,to store a unique session ID.,Functional
+ssupp.vid,Smartsupp,to store a unique user ID.,Functional
+AWSELB,Amazon Application Load Balancer,to provide load balancing functionality.,Functional
+vchideactivationmsg_vc11,Visual Composer,to store a version number for updates.,Functional
+tve_leads_unique,Thrive Leads,to store if the user has seen embedded content.,Functional
+twk-*,Tawk,with unknown functionality,Functional
+CookieConsent,CookieBot,to store cookie consent preferences.,Functional
+store_notice*,WooCommerce,to store if a message has been dismissed.,Functional
+woocommerce_recently_viewed,WooCommerce,to store performed actions on the website.,Functional
+woocommerce_items_in_cart,WooCommerce,to store items in shopping cart.,Functional
+gdpr_consent,Crazy Egg,to store cookie consent preferences.,Functional
+moove_gdpr_popup,GDPR Cookie Compliance,to store cookie consent preferences.,Functional
+_lscache_vary,Litespeed,to Provide the prevention of cached pages.,Functional
+ac_enable_tracking,ActiveCampaign,to store cookie consent preferences.,Functional
+ssupp.position,Smartsupp,to store configuration.,Functional
+ssupp.unreaded,Smartsupp,to store if a message has been shown.,Functional
+ssupp.message,Smartsupp,to store performed actions on the website.,Functional
+ssupp.barclicked,Smartsupp,to store the status of the chat.,Functional
+ssupp.opened,Smartsupp,to store the status of the chat.,Functional
+ssupp.group,Smartsupp,to store the status of the chat.,Functional
+cart_ts,Shopify,with unknown functionality,Functional
+cart_sig,Shopify,with unknown functionality,Functional
+Cart,Shopify,with unknown functionality,Functional
+_secure_session_id,Shopify,with unknown functionality,Functional
+_orig_referrer,Shopify,with unknown functionality,Functional
+_ab,Shopify,with unknown functionality,Functional
+__adroll_post_consent_css,Adroll,with unknown functionality,Functional
+__adroll_post_consent_html,Adroll,with unknown functionality,Functional
+__adroll_consent_paramas,Adroll,with unknown functionality,Functional
+__consent,,with unknown functionality,Functional
+qtrans_front_language,Q Translate,to store language settings.,Functional
+catAccCookies,GDPR Cookie Consent Banner,to store cookie consent preferences.,Functional
+intercom-session-*,Intercom Messenger,with unknown functionality,Functional
+intercom-id-*,Intercom Messenger,with unknown functionality,Functional
+maxmegamenu.themeeditor,Max Mega Menu,with unknown functionality,Functional
+__paypal_storage__,PayPal,to store account details.,Functional
+storefront_digest,Shopify,with unknown functionality,Functional
+Secure_customer_sig,Shopify,with unknown functionality,Functional
+Secret,Shopify,with unknown functionality,Functional
+checkout_token,Shopify,with unknown functionality,Functional
+ct_sfw_pass_key,CleanTalk Spam Protect,to provide spam protection.,Functional
+amazon-pay-connectedAuth,Amazon Pay,with unknown functionality,Functional
+incap_ses_*,Incapsula,with unknown functionality,Functional
+wp-reset-tabs,WP_Reset,with unknown functionality,Functional
+DYAMAR_POLL_*_VOTED,Dyamar Polls,to store performed actions on the website.,Functional
+pvc_visits,Posts View Counter,to store and count pageviews.,Functional
+wp-donottrack_feed,WP Do Not Track,with unknown functionality,Functional
+privacy_embeds,Avada Privacy Bar,to store user preferences.,Functional
+qtrans_edit_language,Q Translate,to store language settings.,Functional
+qtrans_admin_language,Q Translate,to store language settings.,Functional
+wpr-show-sidebar,WP Rocket,to store user preferences.,Functional
+wpr-*,WP Rocket,with unknown functionality,Functional
+ct_ps_timestamp,CleanTalk Spam Protect,to store time of visit.,Functional
+ct_timezone,CleanTalk Spam Protect,to store time of visit.,Functional
+ct_pointer_data,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+ct_fkp_timestamp,CleanTalk Spam Protect,to store time of visit.,Functional
+pbct_visible_fields_count,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_visible_fields,CleanTalk Spam Protect,with unknown functionality,Functional
+ct_checkjs,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+apbct_site_landing_ts,CleanTalk Spam Protect,with unknown functionality,Functional
+wd,Facebook,to read screen resolution.,Functional
+_hjShownFeedbackMessage,Hotjar,to store if a message has been shown.,Functional
+dont_track_me,WP Do Not Track,to store 'do not track' signals.,Functional
+wordpress_*,WordPress,with unknown functionality,Functional
+bp-activity-oldestpage,BuddyPress,to provide a responsive website.,Functional
+et-editor-available-post-*,Divi (Elegant Themes),with unknown functionality,Functional
+_wpas_session,Awesome Support,to provide functions across pages.,Functional
+uncodeAI_screen,Uncode,to read screen resolution.,Functional
+uncodeAI_images,Uncode,to provide a responsive website.,Functional
+uncodeAI_css,Uncode,to read screen resolution.,Functional
+auto_saved_sql,phpMyAdmin,with unknown functionality,Functional
+_gat_UA-*,Google Analytics,with unknown functionality,Functional
+wordpress_test_cookie,WordPress,to read if cookies can be placed.,Functional
+wp-api-schema-model*,WordPress,with unknown functionality,Functional
+wp-settings-time-*,WordPress,to store user preferences.,Functional
+wp-settings-*,WordPress,to store user preferences.,Functional
+Phpstorm-*,PhpStorm,with unknown functionality,Functional
+gmw-settings-tabs,Google Maps Widget,with unknown functionality,Functional
+MATOMO_SESSID,Matomo,to provide fraud prevention.,Functional
+wp-autosave-*,WordPress,to store performed actions on the website.,Functional
+cf_*_id,CloudFlare,with unknown functionality,Functional
+edd_items_in_cart,Easy Digital Downloads,to store items in shopping cart.,Functional
+wp-saving-post,WordPress,to store a post in the editor.,Functional
+cookie_notice_accepted,Cookie Notice for GDPR,to read if cookies can be placed.,Functional
+persist:hs-beacon-*,Help Scout,to store if a message has been shown.,Functional
+wp_woocommerce_session_*,WooCommerce,to store performed actions on the website.,Functional
+cmplz_user_data,Complianz,to determine which cookie banner to show.,Functional
+WP_DATA_USER_*,WordPress,to store user preferences.,Functional
+wpgmza-api-consent-given,WP Google Maps,to store cookie consent preferences.,Functional
+wordpress_logged_in_*,WordPress,to Store logged in users.,Functional
+themify-builder-tabs,Themify,with unknown functionality,Functional
+HS:Beacon:TopArticles:*,Shortpixel,to read user IP address.,Functional
+gdpr[allowed_cookies],GDPR Cookie Consent,to store cookie consent preferences.,Functional
+sc_anonymous_id,SoundCloud,to provide functions across pages.,Functional
+duo_secure_wordpress_auth_cookie,Duo Two-Factor Authentication,with unknown functionality,Functional
+zilla_likes_*,ZillaLikes,with unknown functionality,Functional
+paypal,PayPal,to provide fraud prevention.,Functional
+autoptimize_feed,Autoptimize,to store user preferences.,Functional
+itsec_interstitial_browser,iThemes Security,to provide fraud prevention.,Functional
+sclocale,SoundCloud,to store language settings.,Functional
+cacher-requests-Date,OnlineAfspraken,with unknown functionality,Functional
+dao-Bookable,OnlineAfspraken,with unknown functionality,Functional
+dao-AppTypeGroup,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-AppTypeGroup,OnlineAfspraken,with unknown functionality,Functional
+dao-Apptype,OnlineAfspraken,with unknown functionality,Functional
+PSecwid__*taxSettings,Ecwid,to store currency settings.,Functional
+PSecwid__*__taxIdPStaxId,Ecwid,to store currency settings.,Functional
+_jid,wpDiscuz,to Store logged in users.,Functional
+wp_consent_*,WordPress,to store cookie consent preferences.,Functional
+SS_deltaBuffer,,to provide a smoother scrolling experience.,Functional
+cacher-requests-Subscription,OnlineAfspraken,with unknown functionality,Functional
+dao-SubscriptionType,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-SubscriptionType,OnlineAfspraken,with unknown functionality,Functional
+dao-Voucher,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Voucher,OnlineAfspraken,with unknown functionality,Functional
+dao-GiftCard,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-GiftCard,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Apptype,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Resource,OnlineAfspraken,with unknown functionality,Functional
+dao-Date,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Booking-Capacity-Group,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Mailing-MailingList,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Mailing-MailingListSegment,OnlineAfspraken,with unknown functionality,Functional
+dao-Booking-Capacity-Group,OnlineAfspraken,with unknown functionality,Functional
+dao-Productgroup*,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Productgroup,OnlineAfspraken,with unknown functionality,Functional
+dao-Appointment,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Appointment,OnlineAfspraken,with unknown functionality,Functional
+dao-Product*,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Product,OnlineAfspraken,with unknown functionality,Functional
+uael-modal-popup-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-modal-popup-*,Ultimate Elementor,to provide functions across pages.,Functional
+etfb-autosave-*,Divi (Elegant Themes),to store a post in the editor.,Functional
+wsc_*_ignoreAllCapsWords,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreWordsWithNumbers,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreWordsWithMixedCases,Yoast,to store performed actions on the website.,Functional
+wsc_*_lang,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreDomainNames,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreAllCapsWords,Yoast,to store performed actions on the website.,Functional
+driftt_wmd,Drift,to store if a message has been dismissed.,Functional
+cerber_groove_x_*,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+woocommerce_current_currency,WooCommerce,to store currency settings.,Functional
+_icl_current_admin_language_*,WPML,to store language settings.,Functional
+No longer active,Wordfence,to provide fraud prevention.,Functional
+wc_cart_created,WooCommerce,to store performed actions on the website.,Functional
+HS:Beacon:TopArticles://shortpixel.helpscoutdocs.com,Shortpixel,to read user IP address.,Functional
+amp-store:*,AMP,to store browser details.,Functional
+wc_fragments_*,WooCommerce,with unknown functionality,Functional
+wc_cart_hash_*,WooCommerce,to store items in shopping cart.,Functional
+googtrans,Google Translate,to store language settings.,Functional
+jv_callback_ping_response_*,Jivochat,to store configuration.,Functional
+jv_invitation_time_*,Jivochat,to store time of visit.,Functional
+wp-rest-enabled-ping,WPML,to provide a test whether the WordPress REST API is enabled and publicly accessible.,Functional
+cookielawinfo-checkbox-necessary,GDPR Cookie Consent,to read if cookies can be placed.,Functional
+__lc.visitor_id*,LiveChat,to store a unique user ID.,Functional
+woocommerce_cart_hash,WooCommerce,to store items in shopping cart.,Functional
+wpSGCacheBypass,SiteGround,with unknown functionality,Functional
+wp-wpml_current_admin_language_*,WPML,to store language settings.,Functional
+SERVERID*,HAProxy,to provide load balancing functionality.,Functional
+twk_*,Tawk,with unknown functionality,Functional
+_iub_cs-*,iubenda Cookie Solution,to store cookie consent preferences.,Functional
+googlesitekit::total-notifications,Google Site Kit,to provide admin functions.,Functional
+googlesitekit_modules:*,Google Site Kit,to provide admin functions.,Functional
+wpgdprc-consent-*,WP GDPR Compliance,to store cookie consent preferences.,Functional
+borlabsCookie,Admin,with unknown functionality,Functional
+liveAgentPageTime_*,LiveAgent,with unknown functionality,Functional
+visitor_id*-hash,Pardot,to provide protection against hackers.,Functional
+wp-wpml_current_language,WPML,to store language settings.,Functional
+itsec-hb-login-*,iThemes Security,to provide the hiding of the WordPress login URL.,Functional
+cerber_groove,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+simcaseCurrencyConverterCachedCurrency*,,to store currency settings.,Functional
+SGPBShowingLimitationDomain*,PopUp Builder,to store if a message has been shown.,Functional
+themify_builder_clipboard_content,Themify,with unknown functionality,Functional
+vcc_element*,Visual Composer,with unknown functionality,Functional
+HS:Beacon:Suggestions:id:*,Help Scout,with unknown functionality,Functional
+uncodeAI.screen,Uncode,to read screen resolution.,Functional
+uncodeAI.css,Uncode,with unknown functionality,Functional
+uncodeAI.images,Uncode,with unknown functionality,Functional
+kalium_acfpro_gm_tab_*,Advanced Custom Fields,to provide functions across pages.,Functional
+cto_lwid,Criteo,to provide admin functions.,Functional
+cp-userdata-config_activepill_sliders_,Admin,with unknown functionality,Functional
+complianz_id,Complianz,to store cookie consent preferences.,Functional
+complianz_scan_token,Complianz,with unknown functionality,Functional
+DataTables*,NPM,with unknown functionality,Functional
+vchideactivationmsg,Visual Composer,to store a version number for updates.,Functional
+current_cur,,to store currency settings.,Functional
+_hjMinimizedTestersWidgets,Hotjar,to store if a message has been dismissed.,Functional
+ct-ultimate-gdpr-cookie,GDPR Cookie Consent,to store cookie consent preferences.,Functional
+No longer active,Wordfence,to provide fraud prevention.,Functional
+msLocalStorageTest_*,,to read if cookies can be placed.,Functional
+lepelementor_license_cookie,Elementor,to store account details.,Functional
+apbct_cookies_test,CleanTalk Spam Protect,to read if cookies can be placed.,Functional
+apbct_page_hits,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_prev_referer,CleanTalk Spam Protect,to store referrer ID's.,Functional
+apbct_timestamp,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_visible_fields_count,CleanTalk Spam Protect,with unknown functionality,Functional
+cp-impression-added-forcp_id_*,ConvertPlus,to store if a message has been dismissed.,Functional
+wmc_current_currency,Woo Multi Currency,to store currency settings.,Functional
+beeketing_currency,Beeketing,to store currency settings.,Functional
+uncode_privacy[consent_types,Uncode,to store cookie consent preferences.,Functional
+et-pb-recent-items-colors,Divi (Elegant Themes),to provide functions across pages.,Functional
+aiowps_cookie_test_*,All In One WP Security & Firewall,with unknown functionality,Functional
+qbStartCount,Quriobot,to store last visit.,Functional
+asColorPicker_palettes_*,amazingSurge,to provide functions across pages.,Functional
+jv_enter_*,Jivochat,to store first visit to the site.,Functional
+wsc_*_userID,Yoast,to store performed actions on the website.,Functional
+wsc_*_password,Yoast,to store performed actions on the website.,Functional
+themify_builder_docked,Themify,with unknown functionality,Functional
+w3tc_logged_*,W3 Total Cache,to Provide the prevention of cached pages.,Functional
+algoliasearch-client-js,Algolia,with unknown functionality,Functional
+gfc_HTTP_REFERER,Rocketgenius,with unknown functionality,Functional
+uncode_privacy[privacy_bar,Uncode,with unknown functionality,Functional
+X-Mapping-*,Riverbed,to provide load balancing functionality.,Functional
+onwbchtSound,OnWebChat,to store user preferences.,Functional
+wplc_minimize,WP-live chat,to store if a message has been dismissed.,Functional
+the7-options-preview-device,The7 Theme,with unknown functionality,Functional
+cookielawinfo-checkbox-non-necessary,GDPR Cookie Consent,to read if cookies can be placed.,Functional
+remember_web_*,Laravel php framework,to store user preferences.,Functional
+themify_popup_page_view,Themify,with unknown functionality,Functional
+et-pb-recent-items-font_family,Divi (Elegant Themes),to provide functions across pages.,Functional
+gfc_elementor_library,Rocketgenius,with unknown functionality,Functional
+gfc_customize_autosaved,Rocketgenius,with unknown functionality,Functional
+gfc_customize_messenger_channel,Rocketgenius,with unknown functionality,Functional
+gfc_complianz_scan_token,Rocketgenius,with unknown functionality,Functional
+gfc_ver,Rocketgenius,with unknown functionality,Functional
+gfc_elementor-preview,Rocketgenius,with unknown functionality,Functional
+gfc_listing_type,Rocketgenius,with unknown functionality,Functional
+gfc_preview_nonce,Rocketgenius,with unknown functionality,Functional
+gfc_customize_theme,Rocketgenius,with unknown functionality,Functional
+gfc_tab,Rocketgenius,with unknown functionality,Functional
+xf_edit_style_id,XenForo,to store user preferences.,Functional
+dt_cut_page,The7 Theme,with unknown functionality,Functional
+amazon-pay-abtesting-apa-migration,Amazon Pay,with unknown functionality,Functional
+themify_builder_lightbox_frontend_pos_size,Themify,with unknown functionality,Functional
+tb_visual_templates,Themify,with unknown functionality,Functional
+tb_form_templates_,Themify,with unknown functionality,Functional
+metaslider-vuex*,Metaslider,with unknown functionality,Functional
+_hjSessionResumed,Hotjar,with unknown functionality,Functional
+MCPopupClosed,MailChimp,to store if a message has been dismissed.,Functional
+gfc_gf_page,Rocketgenius,with unknown functionality,Functional
+gt_auto_switch,Google Translate,to provide translations.,Functional
+uncode_privacy,Uncode,to store cookie consent preferences.,Functional
+themify_builder_docked_left,Themify,with unknown functionality,Functional
+themify_builder_lightbox_backend_pos_size,Themify,with unknown functionality,Functional
+tinv_wishlistkey,Template Invaders,with unknown functionality,Functional
+xf_session,XenForo,with unknown functionality,Functional
+xf_session_admin,XenForo,with unknown functionality,Functional
+xf_session_install,XenForo,with unknown functionality,Functional
+xf_user,XenForo,to Store logged in users.,Functional
+xf_notice_dismiss,XenForo,to store if a message has been dismissed.,Functional
+local_storage_support_test,Twitter,to provide load balancing functionality.,Functional
+wordpress_sec_*,WordPress,"to provide protection against hackers, store account details.",Functional
+VISITOR_INFO1_LIVE,YouTube,to provide bandwidth estimations.,Functional
+likebtn_vote*,Likebtn,to store likes of comments or posts.,Functional
+likebtn_count*,Likebtn,to store likes of comments or posts.,Functional
+CEBlack,Cherry Framework,to provide admin functions.,Functional
+ZD-settings,Zendesk,to store user preferences.,Functional
+beeketing_cart_fragments_init,Beeketing,to store items in shopping cart.,Functional
+roundcube_sessauth,Roundcube,with unknown functionality,Functional
+mp_beeketing,Beeketing,with unknown functionality,Functional
+_hjRecordingEnabled,Hotjar,with unknown functionality,Functional
+rtk_currencies,WP Engine,to store currency settings.,Functional
+ssupp_vid,Smartsupp,to store a unique user ID.,Functional
+ssupp_visits,Smartsupp,to store number of visits.,Functional
+ssupp.visits,Smartsupp,to store number of visits.,Functional
+__smListBuilderOptOut,Sumo,with unknown functionality,Functional
+__smWelcomeMatShown,Sumo,with unknown functionality,Functional
+__smSmartBarOptOut,Sumo,with unknown functionality,Functional
+__smSmartbarShown,Sumo,with unknown functionality,Functional
+tourmaster-tour-*,Tour Master,to store performed actions on the website.,Functional
+uael-timer-seconds-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-hours-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-distance-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-minutes-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-cdTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-evgInt-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-firstTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-time-to-run-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-days-*,Ultimate Elementor,to provide functions across pages.,Functional
+tb_panel_closed,Tablepress,with unknown functionality,Functional
+_tb_t_ppg,Taboola,with unknown functionality,Functional
+_tb_sess_r,Taboola,with unknown functionality,Functional
+trc_cookie_storage,Taboola,to store a unique user ID.,Functional
+klaClosedPopup,Klaviyo,to store if a message has been dismissed.,Functional
+ifso_is_first_use,If So,to store first use.,Functional
+thx_global_guid,LexisNexis,to provide fraud prevention.,Functional
+thx_guid,LexisNexis,to provide fraud prevention.,Functional
+persist:hs-beacon-message-*,Help Scout,to store if a message has been shown.,Functional
+ast_checkout_form,Themehigh,with unknown functionality,Functional
+_wcml_booking_currency,Weglot,to store currency settings.,Functional
+Trengo_panelState,Trengo,to store the status of the chat.,Functional
+Trengo_Visitor,Trengo,to store the status of the chat.,Functional
+Trengo_Session,Trengo,to store the status of the chat.,Functional
+Trengo_VisitorToken,Trengo,with unknown functionality,Functional
+wfacp_form_values,Build WooFunnels,with unknown functionality,Functional
+wfacp_checkout_page_id,Build WooFunnels,with unknown functionality,Functional
+wf-scan-issue-expanded-*,Wordfence,to provide the identification of trusted web traffic.,Functional
+bp-notifications,BuddyPress,to store user preferences.,Functional
+bp_user-registered,BuddyPress,with unknown functionality,Functional
+bp_user-role,BuddyPress,with unknown functionality,Functional
+tm_pb_templates_settings_date,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_field,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video_slider_item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_posts,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_post_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_testimonial,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_form,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_section,,with unknown functionality,Functional
+ssupp_chatid,Smartsupp,to store a unique session ID.,Functional
+Trengo_widgetClosedTime,Trengo,to store the status of the chat.,Functional
+tm_pb_templates_tm_pb_text,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_swiper,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_column,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_counters,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_brands_showcase_module,,with unknown functionality,Functional
+tm_pb_templates_settings_product_version,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_social_media_follow,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_brands_showcase_module__item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_map_pin,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_countdown_timer,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_map,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_toggle,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_button,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_blog,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_divider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_circle_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_image,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_accordion,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_row,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_pricing_tables,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_row_inner,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_tabs,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_accordion_item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_number_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_taxonomy,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_booked_calendar,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_projects_terms,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_icon,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_form_7,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_testi,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_projects,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_link_box,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_team,,with unknown functionality,Functional
+tm_pb_clipboard_type,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_services,,with unknown functionality,Functional
+csshero_is_on,CssHero,with unknown functionality,Functional
+asgarosforum_unique_id,Asgaros Forum,to provide functions across pages.,Functional
+asgarosforum_unread_exclude,Asgaros Forum,to store if a message has been shown.,Functional
+asgarosforum_unread_cleared,Asgaros Forum,to store if a message has been shown.,Functional
+cf_use_ob,CloudFlare,with unknown functionality,Functional
+cf_ob_info,CloudFlare,with unknown functionality,Functional
+cbox_first_page_popup_was_closed,ConvertBox,to store if a message has been dismissed.,Functional
+cbox_second_page_popup_was_closed,ConvertBox,to store if a message has been dismissed.,Functional
+tm_pb_templates_tm_pb_booked_appointments,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_booked_login,,with unknown functionality,Functional
+jv_mframe_protected,Jivochat,to provide a responsive website.,Functional
+paypalplus_session_v2,PayPal,to store payment method.,Functional
+buttonizer-first-visit,Buttonizer,to store first visit to the site.,Functional
+ls_smartpush,Litespeed,with unknown functionality,Functional
+BizographicsOptOut,LinkedIn,to store privacy preferences.,Functional
+fusionPanel,Fusion Theme,with unknown functionality,Functional
+linkedin_oauth_,LinkedIn,to provide functions across pages.,Functional
+buttonizer_live_groups_opened,Buttonizer,to provide functions across pages.,Functional
+tinymce-custom-colors,TinyMCE,with unknown functionality,Functional
+yasr_visitor_vote_cookie,Yasr - Yet Another Stars Rating,with unknown functionality,Functional
+mirage_cache_manifest,CloudFlare,with unknown functionality,Functional
+mirage_network_connection,CloudFlare,with unknown functionality,Functional
+cdp-cookies-plugin-wp,Cookie Notice for GDPR,to store cookie consent preferences.,Functional
+mtsnb_lastvisited,WP Notification bar,to store last visit.,Functional
+mtsnb_lastvisit_posts,WP Notification bar,to store if a message has been shown.,Functional
+mtsnb_seen_*,WP Notification bar,to store if a message has been shown.,Functional
+ecwid_is_safari,Ecwid,to store browser details.,Functional
+et-editor-available-post,Divi (Elegant Themes),with unknown functionality,Functional
+wp-youtube-lyte_feed,WP YouTube Lyte,to store if a message has been shown.,Functional
+the7-options-preview-url,The7 Theme,with unknown functionality,Functional
+bookly-cst-info-fields,Bookly,with unknown functionality,Functional
+bookly-cst-full-name,Bookly,with unknown functionality,Functional
+bookly-cst-first-name,Bookly,with unknown functionality,Functional
+bookly-cst-email,Bookly,with unknown functionality,Functional
+bookly_cal_tab_id,Bookly,with unknown functionality,Functional
+bookly-cst-phone,Bookly,with unknown functionality,Functional
+bookly_cal_view,Bookly,with unknown functionality,Functional
+gtm4wp_orderid_cookie_expire,Google Tag Manager for Wordpress,with unknown functionality,Functional
+gtm4wp_last_weatherstatus,Google Tag Manager for Wordpress,with unknown functionality,Functional
+olark-next-convo-id,Olark,with unknown functionality,Functional
+joomla_user_state,Joomla,with unknown functionality,Functional
+wmc_current_currency_old,Woo Multi Currency,to store currency settings.,Functional
+revslider-sharing-addon-notice,Slider Revolution,with unknown functionality,Functional
+happylocaltimezone,WeDevs,to store time of visit.,Functional
+bookly-cst-additional-address,Bookly,with unknown functionality,Functional
+bookly-cst-country,Bookly,with unknown functionality,Functional
+bookly-cst-street,Bookly,with unknown functionality,Functional
+bookly-cst-city,Bookly,with unknown functionality,Functional
+bookly-cst-postcode,Bookly,with unknown functionality,Functional
+bookly-cst-last-name,Bookly,with unknown functionality,Functional
+fl-cache-app-state-*,Beaver Builder,with unknown functionality,Functional
+_webpushrPromptAction,Webpushr,to store user preferences.,Functional
+wpsi*,WP Search Insights,with unknown functionality,Functional
+uvc,AddToAny,to provide load balancing functionality.,Functional
+qm-container-width,Query Monitor,with unknown functionality,Functional
+litespeed_tab,Litespeed,with unknown functionality,Functional
+toggle_data_id_*,,to provide functions across pages.,Functional
+ZRDN_UserGUID,Zip Recipes,to store a unique user ID.,Functional
+zrdnDashboardDefaultsSet,Zip Recipes,"to store configuration, store settings.",Functional
+optimizely_data$$pending_events,Optimizely,with unknown functionality,Functional
+jwplayer.mute,JW Player,with unknown functionality,Functional
+No longer active,Complianz,to store cookie consent preferences.,Functional
+__cfruid,CloudFlare,with unknown functionality,Functional
+cmplz_marketing,Complianz,to store cookie consent preferences.,Functional
+hasConsented,All in One WP Migration,to store privacy preferences.,Functional
+_webpushrEndPoint,Webpushr,to store user preferences.,Functional
+statcounter_config,Statcounter,with unknown functionality,Functional
+_uetsid_exp,Bing Ads,with unknown functionality,Functional
+wpfront-notification-bar-keep-closed,WP Front,to provide functions across pages.,Functional
+fl-cache-updater-*,Beaver Builder,with unknown functionality,Functional
+HW_seenItems*,Headway Widget,with unknown functionality,Functional
+HW_readItems*,Headway Widget,with unknown functionality,Functional
+woodmart_cookies_1,Woodmart,to store cookie consent preferences.,Functional
+__cf_bm,CloudFlare,with unknown functionality,Functional
+SIDCC,Google Maps,to provide the identification of trusted web traffic.,Functional
+ameliaToken,Amelia,to Store logged in users.,Functional
+ameliaUserEmail,Amelia,to Store logged in users.,Functional
+displayedCookiesNotification,Several,to store cookie consent preferences.,Functional
+hasConsent,All in One WP Migration,to store privacy preferences.,Functional
+TrengoWidget_is_chatting,Trengo,to store the status of the chat.,Functional
+webmailsession,cpanel,to provide the identification of trusted web traffic.,Functional
+qm-filter-db_queries-component,Query Monitor,to store configuration.,Functional
+woodmart_popup_*,Woodmart,to store if a message has been shown.,Functional
+woozone-debugbar-row-height,WZone,with unknown functionality,Functional
+mat_tel,Matelso,to store settings.,Functional
+ameliaRangePast,Amelia,to provide functions across pages.,Functional
+ameliaRangeFuture,Amelia,to provide functions across pages.,Functional
+wpe_is_consent_required,WP Engine,with unknown functionality,Functional
+fl-builder-settings-tab,Beaver Builder,with unknown functionality,Functional
+bc.visitor_token,,with unknown functionality,Functional
+jwplayer.bandwidthEstimate,JW Player,with unknown functionality,Functional
+openSnippets,Post Snippets,to provide functions across pages.,Functional
+ct-ultimate-gdpr-cookie-level,,with unknown functionality,Functional
+cache-sprite-plyr,,with unknown functionality,Functional
+shouldRedirect,,with unknown functionality,Functional
+wsc_connected_once,Yoast,to store performed actions on the website.,Functional
+wsc_widget_last_closed,Yoast,to store performed actions on the website.,Functional
+wsc_session_started_at,Yoast,to store performed actions on the website.,Functional
+wsc_last_activity_at,Yoast,to store performed actions on the website.,Functional
+wsc_page_views,Yoast,to store performed actions on the website.,Functional
+wsc_dictionary_cache,Yoast,to store performed actions on the website.,Functional
+wsc_user_dictionary,Yoast,to store performed actions on the website.,Functional
+googlepersonalization,QuantCast,to store cookie consent preferences.,Functional
+timezone,cpanel,to provide timezone.,Functional
+jwplayerLocalId,JW Player,with unknown functionality,Functional
+buddypanel,BuddyPress,to store performed actions on the website.,Functional
+cpsession,cpanel,with unknown functionality,Functional
+loginpress_bg,LoginPress,to provide functions across pages.,Functional
+fpd-storage,Fancy Product Designer,to store configuration.,Functional
+bid_1_password_protected_auth,,with unknown functionality,Functional
+fail_url,,with unknown functionality,Functional
+joinchat_hashes,Join.chat,to store performed actions on the website.,Functional
+joinchat_views,Join.chat,to store and count pageviews.,Functional
+joinchat_country_code,Join.chat,to store location data.,Functional
+adthrive_amzn_hold_load,AdThrive,to provide load balancing functionality.,Functional
+jwplayer.volume,JW Player,with unknown functionality,Functional
+jwplayer.bitrateSelection,JW Player,with unknown functionality,Functional
+jwplayer.qualityLabel,JW Player,with unknown functionality,Functional
+drts-entity-view-list-layout-*,Directories Pro,to store and read layout.,Functional
+wsc_user_dictionary_name,Yoast,to store performed actions on the website.,Functional
+_webpushrBellNotification,Webpushr,to store settings.,Functional
+jdgm_vote_count_down_*,Judge.me,to store performed actions on the website.,Functional
+jdgm_vote_submitted_*,Judge.me,to provide fraud prevention.,Functional
+jdgm_vote_count_up_*,Judge.me,to store performed actions on the website.,Functional
+ts_c,PayPal,to provide fraud prevention.,Functional
+ts,PayPal,to provide fraud prevention.,Functional
+__tt_embed__storage_test,TikTok,to read if cookies can be placed.,Functional
+aHistoryArticles,oxid,to store items in shopping cart.,Functional
+AKA_A2,Akamai,with unknown functionality,Functional
+cmplz_tcf_consent_all,Complianz,to store cookie consent preferences.,Functional
+cmplz_tcf_consent,Complianz,to store cookie consent preferences.,Functional
+cookiehub,Cookiehub,to store cookie consent preferences.,Functional
+wplmi_active_tab,WP Last Modified Info,to store performed actions on the website.,Functional
+debug_vis_preview_*,Visual Website Optimizer,to provide functions across pages.,Functional
+ti_wishlist_data_*,WooCommerce,to store user preferences.,Functional
+_hjTLDTest,Hotjar,with unknown functionality,Functional
+zrdnFormValues,Zip Recipes,with unknown functionality,Functional
+_calendly_session,Calendly,to store user preferences.,Functional
+_uetvid_exp,Bing Ads,with unknown functionality,Functional
+na_tc,AddThis,to store dynamic variables from the browser.,Marketing/Tracking
+na_id,AddThis,to store the user's usage history.,Marketing/Tracking
+mus,AddThis,to provide functions across pages.,Marketing/Tracking
+loc,AddThis,to store location data.,Marketing/Tracking
+cw_id,AddThis,to store the user's usage history.,Marketing/Tracking
+uvc,AddThis,to store and track visits across websites.,Marketing/Tracking
+at-rand,AddThis,to provide functions across pages.,Marketing/Tracking
+at-lojson-cache-wp-*,AddThis,to provide functions across pages.,Marketing/Tracking
+cw_id,AddThis,to Store and track interaction.,Marketing/Tracking
+Google Fonts API,Google Fonts,to read user IP address.,Marketing/Tracking
+SID,Google Ads Optimization,"to provide ad delivery or retargeting, provide fraud prevention.",Marketing/Tracking
+NID,Google Ads Optimization,"to provide ad delivery or retargeting, store user preferences.",Marketing/Tracking
+PREF,YouTube,to store user preferences.,Marketing/Tracking
+_fbp,Facebook,to store and track visits across websites.,Marketing/Tracking
+datr,Facebook,to provide fraud prevention.,Marketing/Tracking
+c_user,Facebook,to store a unique user ID.,Marketing/Tracking
+sb,Facebook,to store browser details.,Marketing/Tracking
+*_fbm_,Facebook,to store account details.,Marketing/Tracking
+at-lojson-cache-ra-*,AddThis,to provide functions across pages.,Marketing/Tracking
+ouid,AddThis,to store a unique user ID.,Marketing/Tracking
+X-LI-IDC,LinkedIn,to provide functions across pages.,Marketing/Tracking
+gig_hasGmid,Gigya,with unknown functionality,Marketing/Tracking
+IDE,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+_drt_,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+___gads,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+id,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+ar_v4,Google DoubleClick,to store and track conversions.,Marketing/Tracking
+DSID,Google DoubleClick,to store user preferences.,Marketing/Tracking
+idIDE,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+SNID,Google Ads Optimization,to provide ad delivery or retargeting.,Marketing/Tracking
+_beeketing_cart_token,Beeketing,with unknown functionality,Marketing/Tracking
+__hstc,HubSpot,to store time of visit.,Marketing/Tracking
+__ar_v4,Google DoubleClick,to store and track conversions.,Marketing/Tracking
+__qca,QuantCast,to store and track audience reach.,Marketing/Tracking
+_stgmap,ShareThis,to store and track audience reach.,Marketing/Tracking
+_stamap,ShareThis,to store and track audience reach.,Marketing/Tracking
+stacxiommap,ShareThis,to store and track audience reach.,Marketing/Tracking
+stdlxmap,ShareThis,to store and track audience reach.,Marketing/Tracking
+__stid,ShareThis,to store and track audience reach.,Marketing/Tracking
+metrics_token,Twitter,to store if the user has seen embedded content.,Marketing/Tracking
+CMID,Casale Media,with unknown functionality,Marketing/Tracking
+wistia,Wistia,to store performed actions on the website.,Marketing/Tracking
+__adroll_v4,Adroll,with unknown functionality,Marketing/Tracking
+__adroll_fpc,Adroll,with unknown functionality,Marketing/Tracking
+__adroll,Adroll,with unknown functionality,Marketing/Tracking
+u,Crazy Egg,with unknown functionality,Marketing/Tracking
+s,Crazy Egg,with unknown functionality,Marketing/Tracking
+_ceg.u,Crazy Egg,with unknown functionality,Marketing/Tracking
+calltrk_session_id_*,CallRail,with unknown functionality,Marketing/Tracking
+calltrk_referrer,CallRail,with unknown functionality,Marketing/Tracking
+No longer active,Jilt,to store a unique user ID.,Marketing/Tracking
+_gcl_au,Google Adsense,to store and track conversions.,Marketing/Tracking
+fbm*,Facebook,to store account details.,Marketing/Tracking
+xs,Facebook,to store a unique session ID.,Marketing/Tracking
+fr,Facebook,to provide ad delivery or retargeting.,Marketing/Tracking
+act,Facebook,to Store logged in users.,Marketing/Tracking
+acalltrackerreferrer,AdCalls,to store referrer ID's.,Marketing/Tracking
+CMST,,with unknown functionality,Marketing/Tracking
+CMPS,,with unknown functionality,Marketing/Tracking
+CMPRO,Casale Media,with unknown functionality,Marketing/Tracking
+hubspotutk,HubSpot,to store and track a visitor's identity.,Marketing/Tracking
+Chatra.referrer,Chatra,to store referrer ID's.,Marketing/Tracking
+Chatra.lastPageViewAt,Chatra,to store and count pageviews.,Marketing/Tracking
+Chatra.hostedItems,Chatra,to store browser details.,Marketing/Tracking
+mailchimp_cart_previous_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp_cart_current_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp_user_previous_email,MailChimp,with unknown functionality,Marketing/Tracking
+mailchimp_user_email,MailChimp,with unknown functionality,Marketing/Tracking
+mailchimp.cart.previous_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp.cart.current_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+Drift.Targeting.currentPageViewStarted,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.numberOfSessions,Drift,to store number of visits.,Marketing/Tracking
+Drift.Targeting.numberOfVisits,Drift,to store number of visits.,Marketing/Tracking
+Drift.Targeting.lastVisit,Drift,to store last visit.,Marketing/Tracking
+Drift.Targeting.firstVisit,Drift,to store time of visit.,Marketing/Tracking
+DFTT_LEAD_HAS_PREV_IDENTIFIED,Drift,to store email address.,Marketing/Tracking
+DFTT_END_USER_PREV_BOOTSTRAPPED,Drift,to store last visit.,Marketing/Tracking
+driftt_sid,Drift,to store a unique session ID.,Marketing/Tracking
+driftt_aid,Drift,to store a unique user ID.,Marketing/Tracking
+Chatra.clientId,Chatra,to store a unique user ID.,Marketing/Tracking
+Drift.Targeting.referrerDomain,Drift,to store referrer ID's.,Marketing/Tracking
+Drift.Targeting.searchTerm,Drift,to store used keyword and search engine.,Marketing/Tracking
+Drift.Targeting.currentReferrer,Drift,to store referrer ID's.,Marketing/Tracking
+google_experiment_mod*,Google Ads Optimization,to store and track visits across websites.,Marketing/Tracking
+Drift.Targeting.previousPage,Drift,to store and count pageviews.,Marketing/Tracking
+Drift.Targeting.originalReferrer,Drift,to store referrer ID's.,Marketing/Tracking
+Drift.Targeting.activeSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.previousSessionEndedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.previousSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.currentSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+actppresence,Instagram,to store ad display frequency.,Marketing/Tracking
+cto_bundle,Criteo,to provide functions across pages.,Marketing/Tracking
+mixpanel_distinct_id,Mixpanel,"to store a unique user ID, store account details.",Marketing/Tracking
+google_adsense_settings,Google Adsense,to provide ad delivery or retargeting.,Marketing/Tracking
+__gads,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+liveAgentPage_*,LiveAgent,to store and count pageviews.,Marketing/Tracking
+google_pem_mod,Google Ads,to provide ad delivery or retargeting.,Marketing/Tracking
+__utmv,Google Analytics,with unknown functionality,Marketing/Tracking
+_fbc,Facebook,to store last visit.,Marketing/Tracking
+criteo_pt_cdb_bidcache_*,Criteo,to store and track visits across websites.,Marketing/Tracking
+wplc_email,WP-live chat,to store email address.,Marketing/Tracking
+wplc_name,WP-live chat,to store name data.,Marketing/Tracking
+mc_landing_site,MailChimp,to store which page was visited first.,Marketing/Tracking
+visitor_id*,Pardot,to store a unique user ID.,Marketing/Tracking
+cp_id_*,ConvertPlus,to store a unique user ID.,Marketing/Tracking
+Google Maps API,Google Maps,to read user IP address.,Marketing/Tracking
+_gac_*,Google Ads,to store and track audience reach.,Marketing/Tracking
+google_pub_config,Google Adsense,to provide ad delivery or retargeting.,Marketing/Tracking
+google_ama_config,Google Adsense,with unknown functionality,Marketing/Tracking
+google_ama_settings,Google Adsense,to store performed actions on the website.,Marketing/Tracking
+bk_cartToken,Beeketing,with unknown functionality,Marketing/Tracking
+ex_bk_cart_token_after_checkout,Beeketing,with unknown functionality,Marketing/Tracking
+ex_bk_cartToken,Beeketing,with unknown functionality,Marketing/Tracking
+klarna-instant-shopping-context-id,Klarna,with unknown functionality,Marketing/Tracking
+__unam,ShareThis,to store a unique session ID.,Marketing/Tracking
+onwbchtsessionrandom,OnWebChat,with unknown functionality,Marketing/Tracking
+onwbchttimesVisited,OnWebChat,to store number of visits.,Marketing/Tracking
+onwbchtlastvisit,OnWebChat,to store last visit.,Marketing/Tracking
+onwbchtblocked,OnWebChat,to provide functions across pages.,Marketing/Tracking
+onwbchtclientid,OnWebChat,to store a unique user ID.,Marketing/Tracking
+bk_ccart_ps_*_*_total,Beeketing,to store items in shopping cart.,Marketing/Tracking
+bk_ip_country,Beeketing,to store location data.,Marketing/Tracking
+bk_bkt_saved_track_events,Beeketing,with unknown functionality,Marketing/Tracking
+bk_gs_time,Beeketing,with unknown functionality,Marketing/Tracking
+bk_bkeh,Beeketing,with unknown functionality,Marketing/Tracking
+bk_bk_ce_tracked,Beeketing,with unknown functionality,Marketing/Tracking
+bk-cookie-warning,Beeketing,with unknown functionality,Marketing/Tracking
+ucid,Gigya,with unknown functionality,Marketing/Tracking
+gmid,Gigya,with unknown functionality,Marketing/Tracking
+bk_cart_token_after_checkout,Beeketing,with unknown functionality,Marketing/Tracking
+ZD-currentTime,Zendesk,to store last visit.,Marketing/Tracking
+bkt_session_id,Beeketing,to store a unique session ID.,Marketing/Tracking
+BkOpSession,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_sign_up_viewed,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_viewed,Beeketing,with unknown functionality,Marketing/Tracking
+bk_ss_time,Beeketing,with unknown functionality,Marketing/Tracking
+bk_ss,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_notification,Beeketing,with unknown functionality,Marketing/Tracking
+bkeh,Beeketing,with unknown functionality,Marketing/Tracking
+AMP_TOKEN,AMP,to store a unique user ID.,Marketing/Tracking
+__utmzzses,WP Engine,with unknown functionality,Marketing/Tracking
+MUID,Microsoft Clarity,to store and track visits across websites.,Marketing/Tracking
+lidc,LinkedIn,to store performed actions on the website.,Marketing/Tracking
+bscookie,LinkedIn,to store performed actions on the website.,Marketing/Tracking
+_stid,ShareThis,to store and track audience reach.,Marketing/Tracking
+mailchimp_campaign_id,MailChimp,to store and track the email campaign.,Marketing/Tracking
+mailchimp_email_id,MailChimp,to store and track the email campaign.,Marketing/Tracking
+GPS,YouTube,to store location data.,Marketing/Tracking
+YSC,YouTube,to Store and track interaction.,Marketing/Tracking
+ifso_last_viewed,If So,to store last visit.,Marketing/Tracking
+ifso_page_visits,If So,to store the user's usage history.,Marketing/Tracking
+om-session-start,OptinMonster,to store time of visit.,Marketing/Tracking
+om-session-pageviews,OptinMonster,to store and count pageviews.,Marketing/Tracking
+_gat_gtag_UA_*_1,Google Analytics,to store and track conversions.,Marketing/Tracking
+socialsnap_viewed_*,Social Snap,to store performed actions on the website.,Marketing/Tracking
+session_depth,Google Ads,to store ad display frequency.,Marketing/Tracking
+DigiTrust.v1.identity,Adform,to store a unique user ID.,Marketing/Tracking
+s_vi_dbyx7Fax27zxxen,adobe marketing cloud,with unknown functionality,Marketing/Tracking
+s1,Comscore,with unknown functionality,Marketing/Tracking
+adthrive_refauc,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+bcookie,LinkedIn,to store browser details.,Marketing/Tracking
+li-oatml,LinkedIn,to provide ad delivery or retargeting.,Marketing/Tracking
+li_sugr,LinkedIn,to store browser details.,Marketing/Tracking
+UserMatchHistory,LinkedIn,to provide ad delivery or retargeting.,Marketing/Tracking
+_lfa_*,Leadfeeder,to store and track audience reach.,Marketing/Tracking
+hsfirstvisit,HubSpot,to store time of visit.,Marketing/Tracking
+cbox_last_user_check,ConvertBox,with unknown functionality,Marketing/Tracking
+_cb_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat5,Chartbeat,with unknown functionality,Statistics
+isPushNotificationsEnabled,One Signal,with unknown functionality,Marketing/Tracking
+isOptedOut,One Signal,with unknown functionality,Marketing/Tracking
+rc::c,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+rc::b,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+rc::a,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+Jv_utm_*,Jivochat,to store and track the email campaign.,Marketing/Tracking
+adthrive_rebuildslot,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_referrer,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_hbho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_vbho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+mat_ep,Matelso,to store referrer ID's.,Marketing/Tracking
+adthrive_vscs,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_auorder,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_bidord,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_amzn,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ebho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ggii,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ixlib,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_uetsid,Bing Ads,to store and track visits across websites.,Marketing/Tracking
+prism_*,ActiveCampaign,to Store and track interaction.,Marketing/Tracking
+rl_anonymous_id,RudderStack,with unknown functionality,Marketing/Tracking
+criteo_pt_cdb_bidcachemap,Criteo,with unknown functionality,Marketing/Tracking
+adthrive_vast_to,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_uetvid,Bing Ads,to store and track visits across websites.,Marketing/Tracking
+__tt_embed__mounting,TikTok,to store data on the performance of content.,Marketing/Tracking
+goog_pem_mod,Google Ads,to provide ad delivery or retargeting.,Marketing/Tracking
+adthrive_idho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_pin_unauth,Pinterest,with unknown functionality,Marketing/Tracking
+ads/ga-audiences,Google Ads,to store information for remarketing purposes.,Marketing/Tracking
+__d_pardot,Pardot,to store a unique user ID.,Marketing/Tracking
+brz-showedPopupsInSessionTimeLine,Brizy,to store performed actions on the website.,Marketing/Tracking
+__fb_chat_plugin,Facebook,to Store and track interaction.,Marketing/Tracking
+dpm,adobe marketing cloud,to provide ad delivery or retargeting.,Marketing/Tracking
+adthrive_reqto,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzhb,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzbpvp,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_maxre,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzcvp,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_gaexp_rc,Google Optimize,with unknown functionality,Marketing/Tracking
+rl_user_id,RudderStack,to store a unique user ID.,Marketing/Tracking
+__utmd,Google Analytics,to store and track visitor journeys through the site and classifies them into groups.,Marketing/Tracking
+rl_trait,RudderStack,to store performed actions on the website.,Marketing/Tracking
+vq_utm_medium,Visitor Queue,to store referring website.,Marketing/Tracking
+vq_initial_source,Visitor Queue,to store which page was visited first.,Marketing/Tracking
+vq_utm_source,Visitor Queue,to store referring website.,Marketing/Tracking
+vq_utm_term,Visitor Queue,to store used keyword and search engine.,Marketing/Tracking
+vqa_vid,Visitor Queue,to store a unique user ID.,Marketing/Tracking
+pys_fb_event_id,PixelYourSite,to store information for remarketing purposes.,Marketing/Tracking
+_clck,Microsoft Clarity,to store a unique user ID.,Marketing/Tracking
+brz-showedPopups,Brizy,to store performed actions on the website.,Marketing/Tracking
+webapp_tiktok_privious,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+webapp_extra_data,TikTok,to provide functions across pages.,Marketing/Tracking
+webapp_original_traffic_type,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+guide-login-config,TikTok,"to store a unique user ID, store configuration, store if the user has seen embedded content.",Marketing/Tracking
+__tea_cache_tokens_*,TikTok,"to store a unique session ID, store a unique user ID.",Marketing/Tracking
+pg_pv_time_*,PubGuru,to store and count pageviews.,Marketing/Tracking
+pg_keypress,PubGuru,to store performed actions on the website.,Marketing/Tracking
+pg_ip,PubGuru,to read user IP address.,Marketing/Tracking
+CAN_Store_*,Canddi,to store and track visits across websites.,Marketing/Tracking
+coveo_visitorId,Coveo,to store a unique user ID.,Marketing/Tracking
+s_v_web_id,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+MONITOR_WEB_ID,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+tt_webid,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+tt_webid_v2,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+ttwid,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+webapp_launch_mode,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+pg_beacon,PubGuru,with unknown functionality,Marketing/Tracking
+pg_session_depth,PubGuru,to store number of visits.,Marketing/Tracking
+webapp_session_id,TikTok,"to store a unique session ID, store and track visits across websites.",Marketing/Tracking
+webapp-session-referer,TikTok,to store referring website.,Marketing/Tracking
+__atrfs,AddThis,to provide functions across pages.,Marketing/Tracking
+ad-id,Amazon-adsystem.com,to provide ad delivery or retargeting.,Marketing/Tracking
+ad-privacy,Amazon-adsystem.com,to provide ad delivery or retargeting.,Marketing/Tracking
+rl_page_init_referring_domain,RudderStack,to store referring website.,Marketing/Tracking
+rl_group_id,RudderStack,with unknown functionality,Marketing/Tracking
+rl_group_trait,RudderStack,with unknown functionality,Marketing/Tracking
+rl_page_init_referrer,RudderStack,to store referring website.,Marketing/Tracking
+sqzllocal,Squeezely,to store a unique user ID.,Marketing/Tracking
+sqzl_session_id,Squeezely,to store a unique session ID.,Marketing/Tracking
+kk_leadtag,Kelkoo Salestracking,to store performed actions on the website.,Marketing/Tracking
+et-global-campaign,Goya,to store if a message has been dismissed.,Preferences
+goya_popup,Goya,to store if a message has been dismissed.,Preferences
+e_site-editor,Elementor,to store configuration.,Preferences
+e_globals,Elementor,to store configuration.,Preferences
+brz-sessions,Brizy,to store user preferences.,Preferences
+_webpushrLastVisit,Webpushr,to store time of visit.,Preferences
+bp_ut_session,BuddyPress,to store a unique session ID.,Preferences
+omFoldersClosed,OptinMonster,to store if a message has been dismissed.,Preferences
+omFoldersOptin,OptinMonster,to store if a message has been dismissed.,Preferences
+omFoldersSeen,OptinMonster,to store if a message has been dismissed.,Preferences
+boxzilla_timer,Ibericode,to store time of visit.,Preferences
+_js_datr,Facebook,to store user preferences.,Preferences
+tve_api_mailchimp_optin,Thrive Dashboard,to store user preferences.,Preferences
+of_current_opt,WordPress,to store user preferences.,Preferences
+KC_Configs,Kingcomposer,to store configuration.,Preferences
+wplc_cid,WP-live chat,to store a unique user ID.,Preferences
+_ym_d,Yandex Metrica,to store first visit to the site.,Preferences
+ZD-store,Zendesk,to provide functions across pages.,Preferences
+demPoll_*,Democracy Poll,to store performed actions on the website.,Preferences
+module-manager-time-*,,to store performed actions on the website.,Preferences
+jv_history_*,Jivochat,to store performed actions on the website.,Preferences
+jv_store_*,Jivochat,to store performed actions on the website.,Preferences
+vue-tabs-component.cache*,Vue,to store the user's usage history.,Preferences
+comment_author_email_*,WordPress,to store user preferences.,Preferences
+comment_author_url_*,WordPress,to store user preferences.,Preferences
+comment_author_*,WordPress,to store user preferences.,Preferences
+ibx_wpfomo_notifications,WPfomify,to store if a message has been shown.,Preferences
+pmpro_visit,Paid Membership Pro,to store if a message has been shown.,Preferences
+pll_language,Polylang,to store language settings.,Preferences
+ibx_wpfomo_ip,WPfomify,to read user IP address.,Preferences
+_wpfuuid,WPForms,to store a unique user ID.,Preferences
+messagesUtk,HubSpot,"to store browser details, store performed actions on the website.",Preferences
+hs-messages-is-open,HubSpot,to store if a message has been shown.,Preferences
+mailmunch_second_pageview,MailMunch,"to provide subscription service, store user preferences.",Preferences
+esaf_click,EasyAffiliate,to store referrer ID's.,Statistics (anonymous)
+afwc_campaign,Affiliate for WooCommerce,to store and track the affiliate campaign.,Statistics (anonymous)
+elementor_split_test_client_id,Elementor,to store a unique user ID.,Statistics (anonymous)
+wpf_read_forums,WPForms,to store and count pageviews.,Statistics (anonymous)
+_pk_testcookie*,Matomo,to store and count pageviews.,Statistics (anonymous)
+elementor,Elementor,to store performed actions on the website.,Statistics (anonymous)
+gadwp_wg_default_swmetric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_dimension,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_metric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+_hjIncludedInSample,Hotjar,to store anonymized statistics.,Statistics (anonymous)
+affwp_ref_visit_id,Affiliate WP,to store a unique user ID.,Statistics (anonymous)
+affwp_campaign,Affiliate WP,to store referring website.,Statistics (anonymous)
+affwp_ref,Affiliate WP,to store referrer ID's.,Statistics (anonymous)
+complianz_config,Complianz,to provide a responsive website.,Statistics (anonymous)
+piwik_ignore,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_hsr,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_ses*,Matomo,to store a unique session ID.,Statistics (anonymous)
+_pk_id*,Matomo,to store a unique user ID.,Statistics (anonymous)
+_pk_cvar,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_ref*,Matomo,to store referrer ID's.,Statistics (anonymous)
+PIWIK_SESSID,Matomo,with unknown functionality,Statistics (anonymous)
+gadwp_ir_default_metric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_ir_default_swmetric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_view,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+_cb_svref,Chartbeat,with unknown functionality,Statistics
+_cb_svref_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat4_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat2_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat4,Chartbeat,with unknown functionality,Statistics
+_chartbeat5_expires,Chartbeat,with unknown functionality,Statistics
+_cb_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat5,Chartbeat,with unknown functionality,Statistics
+ifso_visit_counts,If So,to store number of visits.,Statistics
+ifso_viewing_triggers,If So,to store data on the performance of content.,Statistics
+__insp_lml,Inspectlet,with unknown functionality,Statistics
+__insp_norec_sess,Inspectlet,with unknown functionality,Statistics
+__insp_pad,Inspectlet,with unknown functionality,Statistics
+__insp_slim,Inspectlet,with unknown functionality,Statistics
+__insp_targlpt,Inspectlet,with unknown functionality,Statistics
+__insp_targlpu,Inspectlet,with unknown functionality,Statistics
+jv_refer_*,Jivochat,to store referrer ID's.,Statistics
+vuid,Vimeo,to store the user's usage history.,Statistics
+gist-state,Gist,to store and count pageviews.,Statistics
+wistia-video-progress-*,Wistia,to store if the user has seen embedded content.,Statistics
+pys_utm_campaign,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+brz-pagesViews,Brizy,to store which page was visited first.,Statistics
+brz-pagesViewsInSessionTimeLine,Brizy,with unknown functionality,Statistics
+brz-lastVisit,Brizy,to store last visit.,Statistics
+oribi_user_guid,Oribi,with unknown functionality,Statistics
+oribi_session,Oribi,with unknown functionality,Statistics
+gtm4wp_orderid_tracked,Google Tag Manager for Wordpress,with unknown functionality,Statistics
+__insp_mslc,Inspectlet,with unknown functionality,Statistics
+__insp_msld,Inspectlet,with unknown functionality,Statistics
+__insp_ss,Inspectlet,with unknown functionality,Statistics
+is_unique,Statcounter,to store unique visits.,Statistics
+_hjAbsoluteSessionInProgress,Hotjar,to store unique visits.,Statistics
+_first_pageview,Clicky,to store which page was visited first.,Statistics
+statcounter_session,Statcounter,to store a unique session ID.,Statistics
+utm_source,Google Analytics,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+utm_campaign,Google Analytics,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+statcounter_bounce,Statcounter,to store and record bounced visits.,Statistics
+pysTrafficSource,PixelYourSite,to store referring website.,Statistics
+pys_utm_term,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_utm_source,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+scrwidth,,to read screen resolution.,Statistics
+LPV*,Pardot,to store and count pageviews.,Statistics
+pys_utm_medium,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_utm_content,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_landing_page,PixelYourSite,to store which page was visited first.,Statistics
+_hjIncludedInSessionSample,Hotjar,with unknown functionality,Statistics
+_hjIncludedInPageviewSample,Hotjar,with unknown functionality,Statistics
+brz-firstVisit,Brizy,to store which page was visited first.,Statistics
+_gac_UA-*,Google Analytics,to store and count pageviews.,Statistics
+damd,Dailymotion,to store performed actions on the website.,Statistics
+cookiePreferences,Google,Registers cookie preferences of a user,Functional
+CookieConsent [x4],Cookiebot,Registers cookie preferences of a user,Functional
+CookieConsentBulkTicket,Cookiebot,Enables sharing cookie preferences across domains / websites,Functional
+userlang [x2],Cookiebot,Saves language preferences of user for a website,Functional
+cookieconsent_variant,Maxlead,Stores the variant of shown cookie banner,Functional
+cookieconsent_system,Maxlead,Cookie consent system cookie for saving user's cookie opt-in/out choices.,Functional
+cookieconsent_level,Maxlead,Cookie consent system cookie for storing the level of cookie consent.,Functional
+cookieconsent_seen,Maxlead,Used to support the GDPR / AVG compliant cookie consent system,Functional
+CookieConsent,Cookiebot,Stores the user's cookie consent state for the current domain,Functional
+_ga,Google,ID used to identify users,Analytics
+_ga_,Google,ID used to identify users,Analytics
+_gid,Google,ID used to identify users for 24 hours after last activity,Analytics
+_gat,Google,Used to monitor number of Google Analytics server requests when using Google Tag Manager,Analytics
+_dc_gtm_,Google,Used to monitor number of Google Analytics server requests,Analytics
+AMP_TOKEN,Google,Contains a token code that is used to read out a Client ID from the AMP Client ID Service.,Analytics
+_gat_gtag_,Google,Used to set and get tracking data,Analytics
+_gac_,Google,Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.,Marketing
+__utma,Google,ID used to identify users and sessions,Analytics
+__utmt,Google,Used to monitor number of Google Analytics server requests,Analytics
+__utmb,Google,Used to distinguish new sessions and visits. This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie. The cookie is updated every time data is sent to the Google Analytics server.,Analytics
+__utmc,Google,Used only with old Urchin versions of Google Analytics and not with GA.js. Was used to distinguish between new sessions and visits at the end of a session.,Analytics
+__utmz,Google,Contains information about the traffic source or campaign that directed user to the website. The cookie is set when the GA.js javascript is loaded and updated when data is sent to the Google Anaytics server,Analytics
+__utmv,Google,Bevat custom informatie die door de webdeveloper is ingesteld via de _setCustomVar methode in Google Analytics. Deze cookie wordt iedere keer geupdate als er nieuwe gegevens naar de Google Analytics server worden gestuurd. ,Analytics
+__utmx,Google,Used to determine whether a user is included in an A / B or Multivariate test.,Analytics
+__utmxx,Google,Used to determine when the A / B or Multivariate test in which the user participates ends,Analytics
+_GRECAPTCHA,Google,Google reCAPTCHA sets a necessary cookie (_GRECAPTCHA) when executed for the purpose of providing its risk analysis.,Functional
+S1,comScore,Comscore: statistical and analytical data,Analytics
+C1,comScore,Comscore: statistical and analytical data,Analytics
+s_cc,Advertiser's website,Used to determine if browser of user accepts cookies or not,Analytics
+s_sq,Advertiser's website,Used to register the previous link clicked by the user,Analytics
+s_vi,Advertiser's website,Contains a unique ID to identify a user,Analytics
+s_fid,Advertiser's website,Alternative cookie with unique user ID / timestamp when the s_vi cookie can not be set for technical reasons,Analytics
+fid,Advertiser's website,"If other visitor ID methods fail, Adobe sets a fallback cookie or uses a combination of IP address and user agent to identify the visitor.",Analytics
+demdex,Adobe,"Unique value with which Audience Manager can identify a user. Used, among others, for identification, segmentation, modeling and reporting purposes.",Marketing
+dextp,Adobe,Registers the date plus time (timestamp) on which a data synchronization was last performed by the Audience Manager.,Marketing
+dst,Adobe,Used to register a possible error message when sending data to a linked system.,Marketing
+_dp Cookie,Adobe,Used to determine if browser of user accepts cookies or not,Marketing
+aam_uuid,Adobe,Adobe Audience Manager - data management platform uses these cookies to assign a unique ID when users visit a website.,Marketing
+AMCV_,Adobe,Adobe Experience Cloud uses a cookie to store a unique visitor ID that is used across Experience Cloud Solutions.,Marketing
+AMCVS_,Adobe,The AMCVS cookie serves as a flag indicating that the session has been initialized. Its value is always 1 and discontinues when the session has ended.,Marketing
+mbox,Adobe,Adobe Target uses cookies to give website operators the ability to test which online content and offers are more relevant to visitors.,Marketing
+at_check,Adobe,A simple test value used to determine if a visitor supports cookies. Set each time a visitor requests a page.,Functional
+renderid,Adobe,This cookie is needed by the dispatcher (webserver) to distinguish between the different publisher server.,Functional
+s_ppv,Adobe,Stores information on the percentage of the page displayed,Analytics
+s_tp,Adobe,This lets us know how much of the page you viewed.,Analytics
+TPC,Adform,Used to determine if browser of user accepts third party cookies or not,Marketing
+C,Adform,Used to determine if browser of user accepts cookies or not,Marketing
+uid,Adform,Contains a unique ID to identify a user,Marketing
+cid,Adform,Unique value to be able to identify cookies from users (same as uid),Marketing
+GCM,Adform,Checks if a new partner cookie synchronozation is required,Marketing
+CM,Adform,Checks if a new partner cookie synchronozation is required (cookie set by ad server),Marketing
+CM14,Adform,Checks if a new partner cookie synchronozation is required (cookie set during cookie synchronozation ),Marketing
+token,Adform,Security token for opt out functionality,Marketing
+otsid,Adform,Opt out cookie for specific advertiser,Marketing
+adtrc,Adform,Used to determine if browser related information has been collected,Marketing
+SR<RotatorID>,Adform,"Unique value that records info about consecutive ads - includes: total impressions, daily impressions, total clicks, daily clicks, and last impression date",Marketing
+CT<TrackingSetupID>,Adform,Identifies the last click membership for third-party pixels on advertiser's pages,Marketing
+EBFCD<BannerID>,Adform,Registers daily max. number of impressions (frequency cap) for expanding advertisements (expandables),Marketing
+EBFC<BannerID>,Adform,Registers max. total number of impressions (frequency cap) for expanding advertisements (expandables),Marketing
+CFFC<TagID>,Adform,Registers max. number of impressions (frequency cap) for compound banners,Marketing
+DigiTrust.v1.identity,Adform,"Unique value with which the user is identified by DigiTrust, an independent industrial body",Marketing
+lu,Facebook,"Used to record whether the person chose to remain logged in
+
+Contents: User ID and miscellaneous log in information (e.g., number of logins per account, state of the ""remember me"" check box, etc.)",Marketing
+xs,Facebook,"Used in conjunction with the c_user cookie to authenticate your identity to Facebook.
+
+Contents: Session ID, creation time, authentication value, secure session state, caching group ID",Marketing
+c_user,Facebook,"Used in conjunction with the xs cookie to authenticate your identity to Facebook.
+
+Contents: User ID",Marketing
+m_user,Facebook,"Used to authenticate your identity on Facebook's mobile website.
+
+Contents: Email, User ID, authentication value, version, user agent capability, creation time, Facebook version indicator",Marketing
+pl,Facebook,"Used to record that a device or browser logged in via Facebook platform.
+
+Contents: Y/N",Marketing
+dbln,Facebook,"Used to enable device-based logins
+
+Contents: Login authentication values",Marketing
+aks,Facebook,"Determines the login state of a person visiting accountkit.com
+
+Contents: Account kit access token",Marketing
+aksb,Facebook,"Authenticates logins using Account Kit
+
+Contents: Request time value",Marketing
+sfau,Facebook,"Optimizes recovery flow after failed login attempts
+
+Contents: Encrypted user ID, contact point, time stamp, and other login information",Marketing
+ick,Facebook,Stores an encryption key used to encrypt cookies,Marketing
+csm,Facebook,Insecure indicator,Marketing
+s,Facebook,"	
+Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.",Marketing
+datr,Facebook,"Used to prevent creation of fake / spammy accounts. Datr cookie is associated with a browser, not individual people.",Marketing
+sb,Facebook,"Facebook browser identification, authentication, marketing, and other Facebook-specific function cookies.",Marketing
+fr,Facebook,"Contains a unique browser and user ID, used for targeted advertising.",Marketing
+oo,Facebook,Ad optout cookie,Marketing
+ddid,Facebook,Used to open a specific location in an advertiser's app upon installation,Marketing
+locale,Facebook,"This cookie contains the display locale of the last logged in user on this browser. This cookie
+appears to only be set after the user logs out.
+The locale cookie has a lifetime of one week.",Marketing
+_fbp,Facebook,Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers,Marketing
+js_ver,Facebook,Records the age of Facebook javascript files.,Marketing
+rc,Facebook,Used to optimize site performance for advertisers,Marketing
+campaign_click_url,Facebook,Records the Facebook URL that an individual landed on after clicking on an ad promoting Facebook,Marketing
+wd,Facebook,This cookie stores the browser window dimensions and is used by Facebook to optimise the rendering of the page.,Functional
+IDE,Google,"This cookie is used for targeting, analyzing and optimisation of ad campaigns in DoubleClick/Google Marketing Suite ",Marketing
+DSID,Google,"This cookie is used for targeting, analyzing and optimisation of ad campaigns in DoubleClick/Google Marketing Suite ",Marketing
+ID,Google,"This cookie is used for targeting, analyzing and optimisation of ad campaigns in DoubleClick/Google Marketing Suite ",Marketing
+RUL,Google,Used by DoubleClick to determine if the website ad was properly displayed. This is done to make their marketing efforts more efficient.,Marketing
+__gads,Google,"This cookie is used by Google for a variety of purposes (e.g., ensuring Frequency Caps work correctly). It includes AdSense if you have AdSense enabled. This cookie is associated with the DoubleClick for Publishers service from Google. Its purpose is to monitor the showing of advertisements on the site, for which the owner may earn some revenue. The main purpose of this cookie is targeting/advertising.",Marketing
+fl_inst,Platform161,Used to check if Flash plugin is enabled in browser of user.,Marketing
+pvc2,Platform161,Contains information related to ad impressions.,Marketing
+pcc2,Platform161,Contains information related to ad impressions.,Marketing
+trc,Platform161,Contains information related to ad impressions.,Marketing
+tuuid,Platform161,Unique value to identify individual users.,Marketing
+ad2,Platform161,Contains information related to ad impressions.,Marketing
+MR,Microsoft,Used to collect information for analytics purposes.,Marketing
+MUID,Microsoft,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.",Marketing
+MUIDB,Microsoft,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.",Marketing
+MC1,Microsoft,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.",Marketing
+MSFPC,Microsoft,"Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.",Marketing
+_uetsid,Microsoft,This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.,Marketing
+_uetvid,Microsoft,This is a cookie utilised by Microsoft Bing Ads and is a tracking cookie. It allows us to engage with a user that has previously visited our website.,Marketing
+ANON,Microsoft,"Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalization, and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account.",Marketing
+ANONCHK,Microsoft,Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation,Marketing
+CC,Microsoft,Contains a country code as determined from your IP address.,Marketing
+PPAuth,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+MSPAuth,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+MSNRPSAuth,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+KievRPSAuth,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+WLSSC,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+MSPProf,Microsoft,Helps to authenticate you when you sign in with your Microsoft account.,Functional
+MC0,Microsoft,Detects whether cookies are enabled in the browser.,Functional
+MS0,Microsoft,Identifies a specific session.,Functional
+NAP,Microsoft,"Contains an encrypted version of your country, postal code, age, gender, language and occupation, if known, based on your Microsoft account profile.",Marketing
+MH,Microsoft,"Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.",Marketing
+childinfo,Microsoft,Contains information that Microsoft account uses within its pages in relation to child accounts.,Marketing
+kcdob,Microsoft,Contains information that Microsoft account uses within its pages in relation to child accounts.,Marketing
+kcrelid,Microsoft,Contains information that Microsoft account uses within its pages in relation to child accounts.,Marketing
+kcru,Microsoft,Contains information that Microsoft account uses within its pages in relation to child accounts.,Marketing
+pcfm,Microsoft,Contains information that Microsoft account uses within its pages in relation to child accounts.,Marketing
+x-ms-gateway-slice,Microsoft,Identifies a gateway for load balancing.,Functional
+ToptOut,Microsoft,Records your decision not to receive interest-based advertising delivered by Microsoft.,Marketing
+ACH01,Microsoft,Maintains information about which ad and where the user clicked on the ad.,Marketing
+AADSSO,Microsoft,Microsoft Microsoft Online Authentication Cookie,Functional
+brcap,Microsoft,Microsoft Microsoft Online Authentication Cookie,Functional
+SRM_B,Microsoft," Collected user data is specifically adapted to the user or device. The usercan also be followed outside of the loaded website, creating a picture of the visitor's behavior.",Functional
+buid,Microsoft,This cookie is used by Microsoft to securely verify your login information,Functional
+esctx,Microsoft,This cookie is used by Microsoft to securely verify your login information,Functional
+fpc,Microsoft,This cookie is used by Microsoft to securely verify your login information,Functional
+stsservicecookie,Microsoft,Cookie for Azure Active Directory B2C-verification,Functional
+ARRAffinity,Microsoft,"When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that  requests from one visitor's browsing session are always handled by the same server in the cluster.",Functional
+ARRAffinitySameSite,Microsoft,"When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that  requests from one visitor's browsing session are always handled by the same server in the cluster.",Functional
+__AntiXsrfToken,Microsoft,This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website. CSRF attacks exploit the trust that a site has in a user's browser.,Functional
+.ASPXANONYMOUS,Microsoft,Created by ASP.Net. This cookie configures anonymous identification for application authorization. This is required to identify entities that are not authenticated when authorization is required.,Functional
+nSGt-,Microsoft,This cookie is used by Microsoft to securely verify your Sharepoint login information,Functional
+RpsContextCookie,Microsoft,This cookie is used by Microsoft to securely verify your Sharepoint login information,Functional
+ASLBSACORS,Microsoft,Microsoft App Service and Front Door Affinity Cookies. These cookies are used to direct your browser to use the appropriate backend server.,Functional
+ASLBSA,Microsoft,Microsoft App Service and Front Door Affinity Cookies. These cookies are used to direct your browser to use the appropriate backend server.,Functional
+ASPSESSIONID,Microsoft,Browsing session: the asterisks identify an alphanumerical code that varies from session to session in automatic mode.,Functional
+ApplicationGatewayAffinity,Microsoft,This cookie is used by Azure Apps to keep a user session on the same server.,Functional
+ApplicationGatewayAffinityCORS,Microsoft,This cookie is used by Azure Apps to keep a user session on the same server.,Functional
+VisitorStorageGuid,Microsoft,This cookie is used by Azure Apps to keep a user session on the same server.,Functional
+ai_session,Microsoft,This is a unique anonymous session identifier cookie.,Functional
+ai_user,Microsoft,This is a unique user identifier cookie enabling counting of the number of users accessing the application over time.,Functional
+AADNonce.forms,Microsoft,Unique identifier of one authentication session to prevent replay.,Functional
+DcLcid,Microsoft,Saves language preference.,Functional
+guest_id,Twitter,This cookie is set by Twitter to identify and track the website visitor. Registers if a users is signed in the Twitter platform and collects information about ad preferences. ,Marketing
+personalization_id,Twitter,"Unique value with which users can be identified by Twitter. Collected information is used to be personalize Twitter services, including Twitter trends, stories, ads and suggestions.",Marketing
+ct0,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+gt,Twitter,"Twitter uses these cookies to support plugin integration with our website. If you use the Tweet plugin and log into your Twitter account, Twitter will set some of these cookies to remember that you are logged in. Twitter will also use cookies for their own analytics purposes.",Marketing
+N/A,Oracle,Javascript tag used to measure and monitor ad visibilty/viewability and brand safety standards.,Analytics
+N/A,DMA Institute,Javascript tag used to measure and monitor ad visibilty/viewability and brand safety standards.,Analytics
+N/A,Meetrics,Javascript tag used to measure and monitor ad visibilty/viewability and brand safety standards.,Analytics
+__insp_pad,Inspectlet,This cookie contains the page number of the session recording.,Analytics
+__insp_sid,Inspectlet,This cookie contains the ID of the Inspectlet session that is being recorded.,Analytics
+__insp_ref,Inspectlet,The cookie contains the referrer source/URL,Analytics
+__insp_scpt,Inspectlet,This cookie contains an integer that allows us to know if the screen capture was triggered or not.,Analytics
+__insp_nv,Inspectlet,This cookie contains a value that allows Inspectlet to know if this user is a new visitor or a returning visitor.,Analytics
+__insp_wid,Inspectlet,This cookie contains an uniqe user ID provided by the website if set up.,Analytics
+__insp_uid,Inspectlet,This cookie contains random ID assigned to a visitor.,Analytics
+__insp_dct,Inspectlet,Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.,Analytics
+CTK,Indeed,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Analytics
+ctkgen,Indeed,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Analytics
+INDEED_CSRF_TOKEN,Indeed,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Analytics
+jasx_pool_id,Indeed,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Analytics
+pagead/conv/%INTEGER%,Indeed,Contains information related to registering (counting) a job application via a job listing on indeed.com.,Analytics
+tv_spot_tracker,Abovo Media,Contains information about the timeslot of a running TV ad,Analytics
+cookie-consent-io,CookieConsent.io,Registers cookie preferences of a user,Functional
+cookie-consent-io-timestamp,CookieConsent.io,Registers user activity timestamp,Functional
+GPS,Google,Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.,Marketing
+VISITOR_INFO1_LIVE,Google,Tries to estimate the users' bandwidth on pages with integrated YouTube videos.,Marketing
+PREF,Google,"This cookie stores your preferences and other information, in particular preferred language, how many search results you wish to be shown on your page, and whether or not you wish to have Google’s SafeSearch filter turned on.",Functional
+YSC,Google,Registers a unique ID to keep statistics of what videos from YouTube the user has seen.,Functional
+__adm_ui,Admatic,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",Marketing
+__adm_uiex,Admatic,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",Marketing
+__adm_usyncc,Admatic,"Used to identify the visitor across visits and devices. This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+__cfduid,Cloudflare,"The '__cfduid' cookie is set by the CloudFlare service to identify trusted web traffic. It does not correspond to any user id in the web application, nor does the cookie store any personally identifiable",Functional
+__cfruid,Cloudflare,"Used by the content network, Cloudflare, to identify trusted web traffic.",Functional
+__cf_bm,Cloudflare,Cloudflare's bot products identify and mitigate automated traffic to protect your site from bad bots. Cloudflare places the __cf_bm cookie on End User devices that access Customer sites that are protected by Bot Management or Bot Fight Mode. The __cf_bm cookie is necessary for the proper functioning of these bot solutions.,Functional
+__uin_bw,Sonobi,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.",Marketing
+__uir_bw,Sonobi,Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.,Marketing
+__uis,Sonobi,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",Marketing
+HAPLB5S,Sonobi,"Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",Marketing
+_dbefe,Pulsepoint,Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.,Marketing
+_hjid,Hotjar,"Hotjar cookie. This cookie is set when the customer first lands on a page with the Hotjar script. It is used to persist the random user ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.",Analytics
+_hjIncludedInSample,Hotjar,Hotjar cookie. This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.,Analytics
+_hjClosedSurveyInvites,Hotjar,Hotjar cookie. This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown.,Analytics
+_hjDonePolls,Hotjar,Hotjar cookie. This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.,Analytics
+_hjMinimizedPolls,Hotjar,Hotjar cookie. This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.,Analytics
+_hjDoneTestersWidgets,Hotjar,Hotjar cookie. This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.,Analytics
+_hjMinimizedTestersWidgets,Hotjar,Hotjar cookie. This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.,Analytics
+_hjShownFeedbackMessage,Hotjar,This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.,Analytics
+_hjTLDTest,Hotjar,"When the Hotjar script executes we try to determine the most generic cookie path we should use, instead of the page hostname. This is done so that cookies can be shared across subdomains (where applicable). To determine this, we try to store the _hjTLDTest cookie for different URL substring alternatives until it fails. After this check, the cookie is removed.",Functional
+_hjUserAttributesHash,Hotjar,User Attributes sent through the Hotjar Identify API are cached for the duration of the session in order to know when an attribute has changed and needs to be updated.,Functional
+_hjCachedUserAttributes,Hotjar,"This cookie stores User Attributes which are sent through the Hotjar Identify API, whenever the user is not in the sample. These attributes will only be saved if the user interacts with a Hotjar Feedback tool.",Analytics
+_hjLocalStorageTest,Hotjar,"This cookie is used to check if the Hotjar Tracking Script can use local storage. If it can, a value of 1 is set in this cookie. The data stored in_hjLocalStorageTest has no expiration time, but it is deleted immediately after creating it so the expected storage time is under 100ms.",Functional
+_hjptid,Hotjar,"This cookie is set for logged in users of Hotjar, who have Admin Team Member permissions. It is used during pricing experiments to show the Admin consistent pricing across the site.",Functional
+_hjAbsoluteSessionInProgress,Hotjar,The cookie is set so Hotjar can track the beginning of the user's journey for a total session count. It does not contain any identifiable information.,Functional
+_hjFirstSeen,Hotjar,The cookie is set so Hotjar can track the beginning of the user's journey for a total session count. It does not contain any identifiable information.,Functional
+_hjIncludedInPageviewSample,Hotjar,This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's pageview limit.,Functional
+_hjIncludedInSessionSample,Hotjar,This cookie is set to let Hotjar know whether that visitor is included in the data sampling defined by your site's daily session limit,Functional
+_kuid_,Salesforce,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.,Marketing
+_twitter_sess,Twitter,This cookie is set due to Twitter integration and sharing capabilities for the social media.,Marketing
+_gcl_au,Google,Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.,Marketing
+ac_enable_tracking,Active Campaign,This cookie is associated with Active Campaign and is set to confirm that tracking has been enabled for the website. Tracking is used to create reports of our web traffic and improve the user experience of the website.,Marketing
+ASP.NET_SessionId,Microsoft,"General purpose platform session cookie, used by sites written with Miscrosoft .NET based technologies. Usually used to maintain an anonymised user session by the server.",Functional
+ASP.NET_SessionId_Fallback,Microsoft,"Fallback session cookie to support older browsers that haven't implemented the Secure flag, in modern evergreen browsers this cookie is never set as it haven't got the Secure flag.",Functional
+JSESSIONID,Oracle,JSESSIONID is a platform session cookie and is used by sites with JavaServer Pages (JSP). The cookie is used to maintain an anonymous user session by the server.,Functional
+laravel_session,Laravel,Internally laravel uses laravel_session to identify a session instance for a user,Functional
+PHPSESSID,PHP.net,"Cookie generated by applications based on the PHP language. This is a general purpose identifier used to maintain user session variables. It is normally a random generated number, how it is used can be specific to the site, but a good example is maintaining a logged-in status for a user between pages.",Functional
+XSRF-TOKEN,None,This cookie is written to help with site security in preventing Cross-Site Request Forgery attacks.,Functional
+lidc,LinkedIn,"Used by the social networking service, LinkedIn, for tracking the use of embedded services.",Marketing
+bcookie,LinkedIn,Used by LinkedIn to track the use of embedded services.,Marketing
+bscookie,LinkedIn,Used by LinkedIn to track the use of embedded services.,Marketing
+trkCode,LinkedIn,This cookie is used by LinkedIn to support the functionality of adding a panel invite labeled 'Follow Us',Marketing
+trkInfo,LinkedIn,This cookie is used by LinkedIn to support the functionality of adding a panel invite labeled 'Follow Us',Marketing
+li_oatml,LinkedinIn,Collects information about how visitors use our site.,Marketing
+liap,LinkedinIn,Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.,Marketing
+lissc,LinkedinIn,Pending,Marketing
+spectroscopyId,LinkedIn,"These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.",Marketing
+UserMatchHistory,LinkedIn,"These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.",Marketing
+lang,LinkedIn,Used to remember a user's language setting,Functional
+li_gc,LinkedIn,Used to store guest consent to the use of cookies for non-essential purposes,Functional
+li_rm,LinkedIn,Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device,Functional
+AnalyticsSyncHistory,LinkedIn,Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries,Functional
+GCLB,Google,"This cookie is used in context with load balancing - This optimizes the response rate between the visitor and the site, by distributing the traffic load on multiple network links or servers.",Functional
+AWSALB,Amazon Web Services,These cookies enable us to allocate server traffic to make the user experience as smooth as possible. A so-called load balancer is used to determine which server currently has the best availability. The information generated cannot identify you as an individual.,Functional
+AWSALBCORS,Amazon Web Services,"For continued stickiness support with CORS use cases after the Chromium update, we are creating additional stickiness cookies for each of these duration-based stickiness features named AWSALBCORS (ALB).",Functional
+AWSELBCORS,Amazon Web Services,"For continued stickiness support with CORS use cases after the Chromium update, we are creating additional stickiness cookies for each of these duration-based stickiness features named AWSELBCORS (ALB).",Functional
+AWSELB,Amazon Web Services,AWS Classic Load Balancer Cookie: Load Balancing Cookie: Used to map the session to the instance.,Functional
+CMID,Casale Media,"Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.",Marketing
+CMPRO,Casale Media,"Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.",Marketing
+CMPS,Casale Media,"Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads",Marketing
+CMRUM3,Casale Media,"Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.",Marketing
+CMST,Casale Media,"Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.",Marketing
+cookieJartestCookie,Outbrain,Pending,Marketing
+obuid,Outbrain,"Holds the anonymous user's ID. Used for tracking user actions, such as clicks on the recommendations",Marketing
+apnxs,Outbrain,This cookie is set by Outbrain and it is used to analyse technical data about the website,Marketing
+criteo,Outbrain,This cookie is set by Outbrain and it is used to analyse technical data about the website,Marketing
+mdfrc,Outbrain,This cookie is set by Outbrain and it is used to analyse technical data about the website,Marketing
+adrl,Outbrain,This cookie is set by Outbrain and it is used to analyse technical data about the website,Marketing
+ttd,Outbrain,This cookie is set by Outbrain and it is used to analyse technical data about the website,Marketing
+jpxumaster,JustPremium,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+jpxumatched,JustPremium,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+PUBMDCID,PubMatic,Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.,Marketing
+PugT,PubMatic,Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.,Marketing
+Kiyohnl,Kiyoh,Cookies are associated with the use of Kiyoh to collect and display customer reviews,Functional
+id5,ID5,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.",Marketing
+cip,ID5,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+car,ID5,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+callback,ID5,"Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.",Marketing
+cnac,ID5,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+cf,ID5,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.",Marketing
+UIDR,ComScore,"Collects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address. The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.",Marketing
+SEUNCY,semasio.net,Registers a unique ID that identifies the user’s device for return visits.,Marketing
+OAID,OpenX,"This cookie is used by the ad server software to manage which ads are placed on our website, and to capture clicks on those ads. Information is collected in anonymous form, and we do not use this data to deliver specific content, advertising or otherwise, to your browser.",Marketing
+ljt_reader,Federated Media Publishing,"Collects data related to reader interests, context, demographics and other information on behalf of the Lijit platform with the purpose of finding interested users on websites with related content.",Marketing
+rek_content,rekmob.com,Pending,Marketing
+um,ad.360yield.com,To enable the bidding process.,Marketing
+umeh,ad.360yield.com,To enable the bidding process.,Marketing
+BSWtracker,vmg.host,"Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that the visitor is shown the same advertisement.",Marketing
+_rxuuid,1rx.io,"Sets a unique ID for the visitor, with which external advertisers can target the visitor with relevant advertisements. This linking service is provided by third-party advertising hubs, facilitating real-time bidding for advertisers.",Marketing
+AA003,Atlas,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.",Marketing
+ATN,Atlas,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.",Marketing
+tt_viewer,Teads.com,Teads uses a “tt_viewer” cookie to help personalize the video ads you see on our partner websites.,Marketing
+cfid,Adobe ColdFusion,"This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted",Functional
+cftoken,Adobe ColdFusion,"This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted",Functional
+test_cookie,Google,This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.,Functional
+gckp,CXense,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.,Marketing
+um2,visx.net,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.",Marketing
+tuuid_lu,bidswitch.net,"Contains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites. This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.",Marketing
+uu,adscale.de,Used to target ads by registering the user's movements across websites.,Marketing
+betweendigital.com,betweendigital.com,Collects data on visitors' behaviour and interaction - This is used to optimize the website and make advertisement on the website more relevant.,Marketing
+ss,betweendigital.com,Necessary for the functionality of the website's chat-box function.,Functional
+st_csd,seedtag.com,Date of the last cookie-syn,Marketing
+st_cs,seedtag.com,Unique identifiers of DSPs,Marketing
+_gaexp,Google,Used to determine a user's inclusion in an experiment and the expiry of experiments a user has been included in.,Functional
+TestIfCookieP,Smartadserver,SmartAdServer is a remote ad serving system. Sites and Advertisers are using the system to manage the delivery of their online advertising campaigns. They can collect anonymous statistical data on their visitors to follow the delivery of their campaign and to increase their performance.,Marketing
+pid,Smartadserver,SmartAdServer is a remote ad serving system. Sites and Advertisers are using the system to manage the delivery of their online advertising campaigns. They can collect anonymous statistical data on their visitors to follow the delivery of their campaign and to increase their performance.,Marketing
+.AspNetCore.Antiforgery.,Microsoft,Anti-forgery cookie is a security mechanism to defend against cross-site request forgery (CSRF) attacks.,Functional
+unruly_m,Unrulymedia.com,Pending,Marketing
+KRTBCOOKIE_,Pubmatic,Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.,Marketing
+bdswch,Outbrain,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+csync,Smartadserver,Optimises ad display based on the user's movement combined and various advertiser bids for displaying user ads.,Marketing
+lidid,liadm.com,Collects data on visitors' behaviour and interaction - This is used to make advertisement on the website more relevant. The cookie also allows the website to detect any referrals from other websites.,Marketing
+f5_cspm,simage2.pubmatic.com,"This cookie name is associated with the BIG-IP product suite from company F5. It is used to monitor page load speed, as part of site performance monitoring.",Analytics
+tluid,3lift.com,This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.,Marketing
+t_gid,taboola.com,This cookie gives a user who interacts with Taboola Widget a User ID allowing us to target advertisements and content to this specific user ID.,Marketing
+__zlcmid,Zendesk,Live chat widget on Slack contact page (ZopIM),Marketing
+i,OpenX,"Registers user data, such as IP address, geographical location, websites visited and on which advertisements the user has clicked, with the aim of optimizing the display of advertisements based on user relocation on websites that use the same advertising network.",Marketing
+dpm,demdex.net,Pending,Marketing
+__atuvc,AddThis,"This cookie is associated with the AddThis social sharing widget, it stores an updated page share count.",Functional
+__atuvs,AddThis,"This cookie is associated with the AddThis social sharing widget, which serves a similar purpose to other cookies set by the service.",Functional
+ssc,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+uvc,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+loc,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+na_id,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+na_tc,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+ouid,AddThis,AddThis - Cookie related to an AddThis sharing button available on the website,Functional
+DG_HID,Funda,Pending,Marketing
+DG_IID,Funda,Pending,Marketing
+DG_SID,Funda,Pending,Marketing
+DG_UID,Funda,Pending,Marketing
+DG_ZID,Funda,Pending,Marketing
+DG_ZUID,Funda,Pending,Marketing
+fonts-loaded,Funda,This cookie checks and remembers whether you have the font used by funda. Remembering this check makes visiting the website faster.,Functional
+html-classes,Funda,Remembering how the website is displayed to adjust the appearance of the site to the environment and browser used by the user. This ensures that the site loads faster on a subsequent visit.,Functional
+SNLB2,Funda,Pending,Functional
+lz_last_visit,LiveZilla GmbH,"Last Visit (Timestamp), used to determine when the website visitor browsed the website the last time.",Functional
+lz_userid,LiveZilla GmbH,Sets up a unique ID which is used to generate statistical data about the website visitor's usage of the website.,Functional
+lz_visits,LiveZilla GmbH,"Number of visits, is used to identify how often the website visitor already visited the website.",Functional
+.secureclient,AFAS,Pending,Functional
+.securesession,AFAS,Pending,Functional
+.stateflags,AFAS,Pending,Functional
+.auth,AFAS,Pending,Functional
+advst_uid_11,Adxcore,Pending,Marketing
+DISPATCHER,Adxcore,Pending,Marketing
+DSP_UID,Fidelity-media.com,Pending,Marketing
+picreel_tracker__visited,Picreel,"Used for statistical purposes when counting the number of pages, the user visited",Analytics
+picreel_tracker__first_visit,Picreel,"Used for statistical purposes, keeping the date of the first visit",Analytics
+picreel_tracker__page_views,Picreel,Pending,Analytics
+picreel_new_price,Picreel,Pending,Analytics
+__auc,Trustpilot,Used to track and report information to the Alexa analytics,Analytics
+ajs_user_id,Trustpilot," This cookie helps track visitor usage, events, target marketing, and can also measure application performance and stability.",Analytics
+ajs_anonymous_id,Trustpilot,Used for Analytics and help count how many people visit a certain site by tracking if you have visited before,Analytics
+ajs_group_id,Trustpilot,Track visitor usage and events within the website,Analytics
+1P_JAR,Google,These cookies are set via embedded youtube-videos. They register anonymous statistical data on for example how many times the video is displayed and what settings are used for playback.,Marketing
+CONSENT,Google,Google cookie consent tracker,Functional
+ads_prefs,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+auth_token,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+csrf_same_site,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+csrf_same_site_set,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+dnt,Twitter,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website.",Marketing
+eu_cn,Twitter,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website.",Marketing
+external_referer,Twitter,"Our Website uses Twitter buttons to allow our visitors to follow our promotional Twitter feeds, and sometimes embed feeds on our Website.",Marketing
+kdt,Twitter,"These are third party Twitter cookies. These cookies enable users, if they wish, to login to their Twitter account share content from our websites with their friends. These cookies do not allow us access to your accounts or provide us with any confidential information relating to your accounts. These cookies also allow a news feed of tweets to appear on the website.",Marketing
+remember_checked_on,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. These cookies do not provide us with any confidential information relating to your account.",Marketing
+rweb_optin,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. These cookies do not provide us with any confidential information relating to your account.",Marketing
+syndication_guest_id,Twitter,Used to collect information about users browsing behaviour for marketing purposes including digital display and social media advertising.,Marketing
+twid,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+tfw_exp,Twitter,"These cookies enable us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites. They cookies do not provide us with any confidential information relating to your account.",Marketing
+__asc,Trustpilot,A cookie set by Trustpilot if you click the read more widget,Analytics
+__insp_norec_sess,Inspectlet,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.,Analytics
+__insp_slim,Inspectlet,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.,Analytics
+__insp_targlpt,Inspectlet,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.,Analytics
+__insp_targlpu,Inspectlet,Inspectlet uses cookies to keep track of session information. These cookies are needed to accurately understand how visitors are navigating the website.,Analytics
+__RequestVerificationToken,Microsoft,"This is an anti-forgery cookie set by web applications built using ASP.NET MVC technologies. It is designed to stop unauthorised posting of content to a website, known as Cross-Site Request Forgery.",Functional
+__stid,ShareThis,"The __stid cookie is set as part of the ShareThis service and monitors user-activity, e.g. Web pages viewed, navigation from page to page, time spent on each page etc.",Analytics
+__uin_mm,Sonobi,These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.,Marketing
+__uir_mm,Sonobi,These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.,Marketing
+_cc_aud,Lotame,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising. ",Marketing
+_cc_cc,Lotame,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising. ",Marketing
+_cc_id,Lotame,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.",Marketing
+ab,Neustar,This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.,Marketing
+bkdc,Oracle,"Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.",Marketing
+bku,Oracle,"Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.",Marketing
+everest_g_v2,Everest Technologies,"Created after a user initially clicks a client's ad, and used to map the current and subsequent clicks with other events on the client's website",Marketing
+mt_misc,MediaMath,MediaMath uses this cookie to hold attributes about the browser for fraud prevention and other technical optimizations.,Marketing
+mt_mop,MediaMath,MediaMath uses this cookie to synchronize the visitor ID with a limited number of trusted exchanges and data partners,Marketing
+pl_user_id,PowerLinks,This cookie registers data on the visitor. The information is used to optimize advertisement relevance.,Marketing
+pxrc,Tower Data,This cookie registers non-personal data on the visitor. The information is used to optimize advertisement relevance.,Marketing
+rlas3,Tower Data,"Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.",Marketing
+TapAd_DID,Tapad,"Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.",Marketing
+TapAd_TS,Tapad,"Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.",Marketing
+TDCPM,The Tradedesk,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.,Marketing
+TDID,The Tradedesk,Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.,Marketing
+uid-bp-,FreeWheel,Pending,Marketing
+uuidc,MediaMath,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.",Marketing
+zc,Zeotap,Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.,Marketing
+amplitude_id,Trustpilot,These cookies are used by the TrustPilot service to identify you and enable you to leave reviews of our products and services.,Marketing
+csrf-canary,Trustpilot,These cookies are used by the TrustPilot service to identify you and enable you to leave reviews of our products and services. ,Functional
+3pi,ID5,"Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.",Marketing
+am-uid,Admixer,This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.,Marketing
+_cc_dc,Lotame,"Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.",Marketing
+bkpa,Oracle,"Used to present the visitor with relevant content and advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.",Marketing
+_ljtrtb_,SOVRN,"These cookies are used temporarily when multiple partners pass us their ID simultaneously. To avoid technical conflicts that arise from accessing the ljtrtb cookie for multiple partners at the same time, we store each partner’s ID in a separate cookie and then consolidate these IDs into the ljtrtb cookie when it’s available.",Marketing
+ljtrtb,SOVRN,Enables us to help our advertising partners make decisions about displaying an advertisement to you. We store the ID that each partner uses to identify you and pass that information to the partner when a website requests an advertisement from us.,Marketing
+uuid,MediaMath,"Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.",Marketing
+_pinterest_cm,Pinterest,Pinterest cookie ensures that you can share our website pages via Pinterest by means of the 'share' button,Functional
+_pinterest_sess,Pinterest,"session cookie (expires after your session) which collects anonymous data about a user's visit to the website, such as the number of visits, average time spent on the site and which pages have been loaded in order to personalise and improve the Pinterest service.",Functional
+_pin_unauth,Pinterest,Registers a unique ID that identifies and recognizes the user. Is used for targeted advertising.,Marketing
+_pinterest_ct_ua,Pinterest,This cookieis a third party cookie which groups actions for users who cannot be identified by Pinterest.,Marketing
+sessionFunnelEventLogged,Pinterest,A generic technical cookie used for storing user session identifier in web applications,Marketing
+_routing_id,Pinterest,Allows users to share pictures via Pinterest / the Pin It button. Pinterest can collect statistical information about usage of their service.,Marketing
+Nop.customer,nopCommerce,Customer cookie. Used to identifier guest customers.,Functional
+NopCommerce.RecentlyViewedProducts,nopCommerce,Recently viewed products cookie. Stores a list of the recently viewed products,Functional
+NOPCOMMERCE.AUTH,nopCommerce,Forms authentication cookie. Used for authenticating registered customers.,Functional
+tsrvid,FeedbackCompany,Feedback company review cookie,Functional
+SEARCH_SAMESITE,Google,SameSite prevents the browser from sending this cookie along with cross-site requests. The main goal is mitigate the risk of cross-origin information leakage. It also provides some protection against cross-site request forgery attacks.,Functional
+AID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+SID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+HSID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+APISID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+SAPISID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+SSID,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+SIDCC,Google,"Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.",Marketing
+OTZ,Google,Aggregate analysis of website visitors,Marketing
+ANID,Google,Google uses this cookies to make advertising more engaging to users and more valuable to publishers and advertisers,Marketing
+DV,Google,This cookies is used to collect website statistics and track conversion rates and Google ad personalisation,Marketing
+NID,Google,This cookies is used to collect website statistics and track conversion rates and Google ad personalisation,Marketing
+form_key,Magento,A security measure that appends a random string to all form submissions to protect the data from Cross-Site Request Forgery (CSRF).,Functional
+mage-cache-sessid,Magento,"The value of this cookie triggers the cleanup of local cache storage. When the cookie is removed by the backend application, the Admin cleans up local storage, and sets the cookie value to true.",Functional
+mage-cache-storage,Magento,Local storage of visitor-specific content that enables ecommerce functions.,Functional
+mage-cache-storage-section-invalidation,Magento,Forces local storage of specific content sections that should be invalidated.,Functional
+mage-messages,Magento,"Tracks error messages and other notifications that are shown to the user, such as the cookie consent message, and various error messages. The message is deleted from the cookie after it is shown to the shopper.",Functional
+mage-translation-file-version,Magento,Tracks the version of translations in local storage. Used when Translation Strategy is configured as Dictionary (Translation on Storefront side).,Functional
+mage-translation-storage,Magento,Stores translated content when requested by the shopper. Used when Translation Strategy is configured as Dictionary (Translation on Storefront side).,Functional
+product_data_storage,Magento,Stores configuration for product data related to Recently Viewed / Compared Products.,Functional
+recently_compared_product,Magento,Stores product IDs of recently compared products.,Functional
+recently_compared_product_previous,Magento,Stores product IDs of previously compared products for easy navigation.,Functional
+recently_viewed_product,Magento,Stores product IDs of recently viewed products for easy navigation.,Functional
+recently_viewed_product_previous,Magento,Stores product IDs of recently previously viewed products for easy navigation.,Functional
+user_allowed_save_cookie,Magento,Indicates if a customer is allowed to use cookies.,Functional
+external_no_cache,Magento,A flag that indicates if caching is disabled.,Functional
+persistent_shopping_cart,Magento,Stores the key (ID) of persistent cart to make it possible to restore the cart for an anonymous shopper.,Functional
+stf,Magento,Records the time messages are sent by the SendFriend (Email a Friend) module.,Functional
+pollN,Magento,A poll ID that indicates if a vote has occurred.,Functional
+frontend,Magento,Session ID,Functional
+guest-view,Magento,Allows guests to edit their orders.,Functional
+mage-banners-cache-storage,Magento,Stores banner content locally to improve performance.,Functional
+searchReport-log,Magento,"Magento, used to log information about searching",Functional
+private_content_version,Magento,"Appends a random, unique number and time to pages with customer content to prevent them from being cached on the server.",Functional
+X-Magento-Vary,Magento,X-Magento-Vary cookie is used by Magento 2 system to highlight that version of a page requested by a user has been changed. It allows having different versions of the same page stored in cache e.g. Varnish.,Functional
+section_data_ids,Magento,"Stores customer-specific information related to shopper-initiated actions such as display wish list, checkout information, etc.",Functional
+private_content_version,Magento,"Appends a random, unique number and time to pages with customer content to prevent them from being cached on the server.",Functional
+dsps:,PowerLinks Media Limited,Service to display targeted advertising to visitors.,Marketing
+TapAd_3WAY_SYNCS,Tapad,Pending,Marketing
+_mb,Vuble,Used in context with video-advertisement. The cookie limits the number of times a visitor is shown the same advertisement-content. The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.,Marketing
+wordpress_test_cookie,Wordpress,Cookie set by WordPress to check if the cookies are enabled on the browser to provide appropriate user experience to the users,Functional
+componentType,Joomla!,"componentType is a session cookie, used for correct recording the type of the page (frontpage, single page, blog etc)",Functional
+componentStyle,Joomla!,"componentStyle is a session cookie, used for setting the proper template in compliance with visited type of the page",Functional
+nrid,Joomla!,"This cookie is used to remember a user's choice about cookies on the website. Where users have previously indicated a preference, that user’s preference will be stored in this cookie.",Functional
+sat_track,Adobe,The sat_track cookie is a part of Adobe Analytics. It controls the enabling and disabling of cookies and whether they are loaded onto the site.,Functional
+cookieconsent_status,Osano,This cookie is used to remember if you have consented to the use of cookies on this website.,Functional
+cookieconsent_page,Osano,Page where the user complies to the cookie consent,Functional
+koitk,Sharpspring,Collects data on visitors behavior and interaction - This is used to optimize the website and make advertisement on the website more relevant.,Marketing
+__ss_referrer,Sharpspring,"This cookie contains information about where the visitor came from, called the source for the visit.",Marketing
+__ss_tk,Sharpspring,This is Sharspring’s token cookie which enables user tracking. It ensures that the visit to website is connected to the user independent of the session and the source.,Marketing
+__ss,Sharpspring,This cookie is storing the session ID for your visit. It is used in combination with _ss_tk to group website visits in reports for a single user.,Marketing
+_pk_id,Matomo,Used to store a few details about the user such as the unique visitor ID,Analytics
+_pk_ref,Matomo,"Used to store the attribution information, the referrer initially used to visit the website",Analytics
+_pk_ses,Matomo,Short lived cookies used to temporarily store data for the visit,Analytics
+_pk_cvar,Matomo,Short lived cookies used to temporarily store data for the visit,Analytics
+_pk_hsr,Matomo,Short lived cookies used to temporarily store data for the visit,Analytics
+_pk_testcookie,Matomo,Cookie is created and should be then directly deleted (used to check whether the visitor’s browser supports cookies),Analytics
+mtm_consent,Matomo,Cookie is created with no expiry date to forever remember that consent was given by the user.,Analytics
+_wepublishGa,WePublish,ID used to identify users,Analytics
+_wepublishGa_gid,WePublish,ID used to identify users for 24 hours after last activity 24 hours,Analytics
+OptanonConsent,OneTrust,"This cookie is set by the cookie compliance solution from OneTrust. It stores information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the user’s browser, when consent is not given. The cookie has a normal lifespan of one year, so that returning visitors to the site will have their preferences remembered. It contains no information that can identify the site visitor.",Functional
+optimizelyEndUserId,Optimizely,Stores a visitor's unique Optimizely identifier. It's a combination of a timestamp and random number. No other information about you or your visitors is stored inside.,Marketing
+optimizelyRedirectData,Optimizely,"After Optimizely has executed a redirect experiment, stores various data from the original page so that Optimizely still has access to it on the new page.",Marketing
+optimizelyDomainTestCookie,Optimizely,"When Optimizely loads a URL, the snippet places the cookie to get the current domain, for the purpose of whether cross-domain syncing is possible. If successful, the cookie is immediately removed. ",Marketing
+optimizelyOptOut,Optimizely,Stores a boolean indicating whether the visitor has opted out of participating in Optimizely-powered experimentation.,Marketing
+wwwchannelme_z_sid,Channel.me,The cookie is used when using the co-browsing feature.,Functional
+app_ts,Ortec,Used by adscience.nl to display remarketing campaigns.,Marketing
+viewer,Ortec,Used by adscience.nl to measure visitor numbers and information and use it to optimize marketing campaigns.,Marketing
+spx_ts,Ortec,These cookies ensure that relevant advertisements are displayed on external websites.,Marketing
+adx_ts,Ortec,These cookies ensure that relevant advertisements are displayed on external websites.,Marketing
+id_ts,Ortec,These cookies ensure that relevant advertisements are displayed on external websites.,Marketing
+euconsent,LiveRamp,Cookie compliance check,Marketing
+SSR-caching,Wix.com,Indicates how a site was rendered,Functional
+smSession,Wix.com,Identifies logged in site members,Functional
+svSession,Wix.com,Identifies unique visitors and tracks a visitor’s sessions on a site,Marketing
+ForceFlashSite,Wix.com,When viewing a mobile site (old mobile under m.domain.com) it will force the server to display the non-mobile version and avoid redirecting to the mobile site,Functional
+hs,Wix.com,Security,Functional
+bSession,Wix.com,Used for system effectiveness measurement,Functional
+TS01,Wix.com,Used for security and anti-fraud reasons,Functional
+_ab,Shopify.com,Used in connection with access to admin.,Functional
+_secure_session_id,Shopify.com,Used in connection with navigation through a storefront.,Functional
+Cart,Shopify.com,Used in connection with shopping cart.,Functional
+cart_sig,Shopify.com,Used in connection with shopping cart.,Functional
+cart_ts,Shopify.com,Used in connection with checkout.,Functional
+checkout_token,Shopify.com,Used in connection with checkout.,Functional
+Secret,Shopify.com,Used in connection with checkout.,Functional
+Secure_customer_sig,Shopify.com,Used in connection with customer login.,Functional
+storefront_digest,Shopify.com,Used in connection with customer login.,Functional
+_shopify_u,Shopify.com,Used to facilitate updating customer account information.,Functional
+_tracking_consent,Shopify.com,Tracking preferences.,Marketing
+_landing_page,Shopify.com,Track landing pages.,Marketing
+_orig_referrer,Shopify.com,Track landing pages.,Marketing
+_s,Shopify.com,Shopify analytics.,Analytics
+_shopify_fs,Shopify.com,Shopify analytics.,Analytics
+_shopify_s,Shopify.com,Shopify analytics.,Analytics
+_shopify_sa_p,Shopify.com,Shopify analytics relating to marketing & referrals.,Marketing
+_shopify_sa_t,Shopify.com,Shopify analytics relating to marketing & referrals.,Marketing
+_shopify_uniq,Shopify.com,Shopify analytics.,Analytics
+_shopify_visit,Shopify.com,Shopify analytics.,Analytics
+_shopify_y,Shopify.com,Shopify analytics.,Analytics
+_y,Shopify.com,Shopify analytics.,Analytics
+tracked_start_checkout,Shopify.com,Shopify analytics relating to checkout.,Analytics
+ki_r,Shopify.com,Shopify analytics.,Analytics
+ki_t,Shopify.com,Shopify analytics.,Analytics
+_Brochure_session,Shopify.com,Used in connection with browsing through site.,Analytics
+__hs_opt_out,HubSpot,This cookie is used by the opt-in privacy policy to remember not to ask the visitor to accept cookies again.,Functional
+__hs_do_not_track,HubSpot,This cookie can be set to prevent the tracking code from sending any information to HubSpot.,Functional
+__hs_initial_opt_in,HubSpot,This cookie is used to prevent the banner from always displaying when visitors are browsing in strict mode.,Functional
+hs_ab_test,HubSpot,This cookie is used to consistently serve visitors the same version of an A/B test page they’ve seen before.,Functional
+hs-messages-is-open,HubSpot,This cookie is used to determine and save whether the chat widget is open for future visits.,Functional
+hs-messages-hide-welcome-message,HubSpot,This cookie is used to prevent the chat widget welcome message from appearing again for one day after it is dismissed.,Functional
+__hsmem,HubSpot,This cookie is set when visitors log in to a HubSpot-hosted site.,Functional
+hs-membership-csrf,HubSpot,This cookie is used to ensure that content membership logins cannot be forged.,Functional
+hs_langswitcher_choice,HubSpot,This cookie is used to save the visitor's selected language choice when viewing pages in multiple languages.,Functional
+__hstc,HubSpot,The main cookie for tracking visitors.,Marketing
+hubspotutk,HubSpot,This cookie keeps track of a visitor's identity. It is passed to HubSpot on form submission and used when deduplicating contacts.,Marketing
+__hssc,HubSpot,This cookie keeps track of sessions.,Marketing
+__hssrc,HubSpot,"Whenever HubSpot changes the session cookie, this cookie is also set to determine if the visitor has restarted their browser.",Marketing
+messagesUtk,HubSpot,"This cookie is used to recognize visitors who chat with you via the chatflows tool. If the visitor leaves your site before they're added as a contact, they will have this cookie associated with their browser.",Marketing
+renderCtx,Salesforce,Used to deliver requested pages and content based on a user's navigation.,Functional
+pctrk,Salesforce,Used to count page views by unauthenticated users against license usage.,Analytics
+force-stream,Salesforce,Used to properly route server requests within Salesforce infrastructure for sticky sessions.,Functional
+sfdc-stream,Salesforce,Used to properly route server requests within Salesforce infrastructure for sticky sessions.,Functional
+BrowserId_sec,Salesforce,Used to log secure browser sessions/visits for internal-only product analytics.,Functional
+force-proxy-stream,Salesforce,Used to ensure client requests hit the same proxy hosts and are more likely to retrieve content from cache.,Functional
+BrowserId,Salesforce,Used to log browser sessions/visits for internal-only product analytics.,Functional
+QCQQ,Salesforce,Used to detect the official login page for Forced Login POST detection.,Functional
+sid_Client,Salesforce,Used to validate orgid and userid on the client side.,Functional
+idccsrf,Salesforce,Used for SSO authentication as CSRF protection.,Functional
+rsid,Salesforce,Used for an admin user to 'log in as' one of their org user.,Functional
+rsid2,Salesforce,Used for an admin user to 'log in as' one of their org portal user.,Functional
+RRetURL,Salesforce,Used for 'log in as' to return to original page.,Functional
+RRetURL2,Salesforce,Used for portal 'log in as' to return to original page.,Functional
+alohaEpt,Salesforce,Used to log page load EPT (Experience Page Time) for Visualforce (Classic UI) pages.,Functional
+clientSrc,Salesforce,Used to validate the IP from where a user logs in.,Functional
+oinfo,Salesforce,"Used to track the State, Edition and orgID of a customer's org.",Marketing
+autocomplete,Salesforce,Used to determine whether the browser remembers a user’s login username.,Functional
+inst,Salesforce,Used to optimize routing to the user's instance.,Functional
+expid_,Salesforce,Used to render pages based on specified brand.,Marketing
+disco,Salesforce,Used to verify the last Salesforce org that was accessed on the same browser for session discovery.,Marketing
+oid,Salesforce,Used to redirect a user to the correct Salesforce org and assist the user for the next login.,Functional
+vuid,Vimeo,This first party cookie created by Vimeo is used to assign a Vimeo Analytics unique id.,Analytics
+Player,Vimeo,This first party cookie created by Vimeo is used to remember user’s player mode preferences.,Functional
+continuous_play_v3,Vimeo,Used to keep track of whether continuous play is on or not for a user,Functional
+__stripe_mid,Stripe,Fraud prevention and detection,Functional
+__stripe_sid,Stripe,Fraud prevention and detection,Functional
+m,Stripe,Set by payment provider stripe.com to process payments,Functional
+_gat_pro,Snapwidget,Allows Snapwidget to offer anonymous analytics about how the visitors are using your widgets,Functional
+woocommerce_cart_hash,WooCommerce,Helps WooCommerce determine when cart contents/data changes.,Functional
+woocommerce_items_in_cart,WooCommerce,Helps WooCommerce determine when cart contents/data changes.,Functional
+wp_woocommerce_session_,WooCommerce,Contains a unique code for each customer so that it knows where to find the cart data in the database for each customer.,Functional
+woocommerce_recently_viewed,WooCommerce,Powers the Recent Viewed Products widget,Functional
+edgebucket,Reddit,Used by Reddit to deliver advertising,Marketing
+initref,Reddit,Used by Reddit to deliver advertising,Marketing
+incap_ses_,Imperva,This cookie is set to allow a visitor to receive site content from one out of multiple servers as the visitor browses the site. This allows the visitor's session to be maintained.,Functional
+nlbi_,Imperva,Incapsula DDoS Protection and Web Application Firewall: Load balancing cookie. To ensure requests by a client are sent to the same origin server.,Functional
+visid_incap_,Imperva,"This cookie is from the incapsula CDN and helps us with reliability, security and the performance of our site.",Functional
+sp_t,Spotify,Required to ensure the functionality of the integrated Spotify plugin. This does not result in any cross-site functionality.,Functional
+sp_landing,Spotify,Required to ensure the functionality of the integrated Spotify plugin. This does not result in any cross-site functionality.,Functional
+anj,Xandr,The anj cookie contains data denoting whether a cookie ID is synced with our partners. ID syncing enables our partners to use their data from outside the Platform on the Platform. ,Marketing
+uuid2,Xandr,This cookie contains a unique randomly-generated value that enables the Platform to distinguish browsers and devices.,Marketing
+cc-,Intershop,References a cart for anonymous users,Functional
+pgid-org-,Intershop,Hash of personalization information. Used to cache pages or snippets for users with same personalization information,Functional
+SecureSessionID-,Intershop,Reference to authenticated user,Functional
+CMSCsrfCookie,Kentico,Store's a security token that the system uses to validate all form data submitted via POST requests. Helps protect against Cross site request forgery.,Functional
+CMSCookieLevel,Kentico,Specifies which cookies are allowed by the visitor.,Functional
+CMSLandingPageLoaded,Kentico,Indicates that the landing page has already been visited and the Landing page activity is not logged again for the current visitor. Expires after 20 minutes and the expiration period of the key is renewed every time the website is accessed again.,Analytics
+CMSPreferredCulture,Kentico,Stores the visitor's preferred content culture.,Functional
+CMSUserPage,Kentico,"Stores the IDs (DocumentID, NodeID) of the last visited page. Used for logging landing and exit page web analytics and activities.",Analytics
+CurrentContact,Kentico,Stores the GUID of the contact related to the current site visitor. Used to track activities on the website.,Analytics
+VisitorStatus,Kentico,Indicates if the visitor is new or returning. Used for tracking the visitors statistic in Web analytics.,Analytics
+sc_at,SnapChat,Used to identify a visitor across multiple domains.,Marketing
+_scid,SnapChat,Used to help identify a visitor.,Marketing
+X-AB,sc-static.net,This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.,Functional
+_vwo_uuid_v2,Visual Website Optimizer,Used to track visitor movements anonymously.,Functional
+_vis_opt_s,Visual Website Optimizer,This cookie detects if you are new or returning to a particular test.,Functional
+_vis_opt_test_cookie,Visual Website Optimizer,This is a temporary session cookie generated to detect if the cookies are enabled on the user browser or not.,Functional
+_vis_opt_exp_,Visual Website Optimizer,This cookie is generated when a goal is created.,Functional
+zc_consent,ZOHO,Determines whether the user has accepted the cookie consent box.,Functional
+ZCAMPAIGN_CSRF_TOKEN,ZOHO,This cookie is used to distinguish between humans and bots.,Functional
+zc_show,ZOHO,Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.,Marketing
+zc_cu_exp,ZOHO,Contains the expiration date for the cookie with its name.,Functional
+zc_loc,ZOHO,Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.,Marketing
+wa_ul,WhatsApp,Used to access the service it provides.,Functional
+wa_lang_pref,WhatsApp,Used by WhatsApp to save language preferences,Functional
+pa_rubicon_ts,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+pa_google_ts,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+pa_twitter_ts,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+pa_yahoo_ts,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+pa_openx_ts,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+pa_uid,Perfect Audience,This cookie is set by Perfect Audience and is used for advertising purposes based on user behavior data.,Marketing
+mailmunch_second_pageview,MailMunch,Used for tracking by the Mailmunch mailing list software,Marketing
+_mailmunch_visitor_id,MailMunch,This cookie is set by MailMunch which is email collection and email marketing platform.,Marketing
+tk_ai,Jetpack,"Stores a randomly generated, anonymous ID. It is only used in the admin area and is used for general analytics tracking.",Analytics
+tPHG-PS,Partnerize,"Partnerize’s tracking cookie, deployed either upon a user’s clicking of a link on a partner website, or upon the loading of a customer's image to a partner website.",Marketing
+digitalAudience,Digital Audience,"Digital Audience uses cookies to improve the effectiveness of digital platforms, thanks to online recognition mechanisms.",Marketing
+has_js,Drupal CMS,Drupal uses this cookie to indicate whether or not the visitors browser has JavaScript enabled.,Functional
+_omappvs,Optinmonster,Cookie is used to identify returning visitors,Marketing
+_omappvp,Optinmonster,Cookie is used to identify returning visitors,Marketing
+_lfa,Leadfeeder,"Leadfeeder cookie collects the behavioral data of all website visitors. This includes; pages viewed, visitor source and time spent on the site",Marketing
+SnapABugHistory,SnapEngage,This cookie is associated with live chat software from SnapEngage. It identifies a visitor to enable a history of engagement to be recorded.,Marketing
+SnapABugUserAlias,SnapEngage,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.,Functional
+SnapABugVisit,SnapEngage,This cookie is associated with live chat software from SnapEngage. It identifies a new user session.,Functional
+SnapABugRef,SnapEngage,This cookie is associated with live chat software from SnapEngage. It records the landing page and origin of a visitor.,Marketing
+audience,SpotX,Sync audience data between buyers and sellers.,Marketing
+yith_wcwl_session_,Yithemes.com,YITH WooCommerce Wishlist plugin uses cookies in order to correctly store user wishlists,Functional
+A3,Yahoo,Ads targeting cookie for Yahoo,Marketing
+APID,Yahoo,"Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.",Marketing
+APIDTS,Yahoo,This is a Yahoo! Cookie used in the targeting of relevant adverts and content on the Yahoo! platform.,Marketing
+IDSYNC,Yahoo,Identifies if the cookie-data needs to be updated in the visitor's browser - This is determined through third-party ad-serving-companies.,Marketing
+INGRESSCOOKIE,NGINX,"Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.",Functional
+AlteonP,Radware,This cookie is set by the load balancers and allows us to evenly balance the number of users across the web servers that we use.,Functional
+cref,Quantcast,"Contains data on user navigation, interaction and time spent on the website and its sub-pages – This data is used to optimise the relevance of advertisements and for statistical purposes.",Marketing
+mc,Quantcast,Tracking of users and measure and improve performance and supports personalisation,Marketing
+d,Quantcast,Tracking of users and measure and improve performance and supports personalisation,Marketing
+iutk,Issuu,Recognises the user's device and what Issuu documents have been read.,Marketing
+cookielawinfo-checkbox-necessary,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category 'Necessary'.,Functional
+cookielawinfo-checkbox-non-necessary,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category 'Non Necessary'.,Functional
+viewed_cookie_policy,WebToffee,The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.,Functional
+cookielawinfo-checkbox-marketing,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Marketing'.,Functional
+cookielawinfo-checkbox-analytics,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Analytics'.,Functional
+cookielawinfo-checkbox-performance,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Performance'.,Functional
+cookielawinfo-checkbox-others,WebToffee,This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category 'Other'.,Functional
+__qca,Quantcast,"This cookie is set by Quantcast, who present targeted advertising. Stores browser and HTTP request information.",Marketing
+stg_traffic_source_priority,Piwik,Stores the type of traffic source that explains how the visitor reached your website.,Analytics
+stg_last_interaction,Piwik,Determines whether the last visitor's session is still in progress or a new session has started.,Analytics
+stg_returning_visitor,Piwik,Determines if the visitor has already been to your website — they are returning visitors.,Analytics
+stg_externalReferrer,Piwik,Stores an URL of a website that referred a visitor to your website.,Analytics
+__sqra,Sooqr,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.,Functional
+__sqrb,Sooqr,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.,Functional
+__sqrc,Sooqr,Tracks the user's interaction with the website's search-bar-function. This data can be used to present the user with relevant products or services.,Functional
+nmstat,Siteimprove,"This cookie is used to help record the visitor's use of the website. It is used to collect statistics about site usage such as when the visitor last visited the site. This information is then used to improve the user experience on the website. This Siteimprove Analytics cookie contains a randomly generated ID used to recognize the browser when a visitor reads a page. The cookie contains no personal information and is used only for web analytics. It is also used to track the sequence of pages a visitor looks at during a visit to the site. This information can be used to reduce user journeys, and enable visitors to find relevant information quicker.",Analytics
+sp,Snowplow,Stores a server-side collector generated unique identifier for a user that is sent with all subsequent tracking event events. Can be used as a first party cookie is the collector is on the same domain as the site.,Analytics
+_sp_id.,Snowplow,"Stores user information that is created when a user first visits a site and updated on subsequent visits. It is used to identify users and track the users activity across a domain. This cookie stores a unique identifier for each user, a unique identifier for the users current session, the number of visits a user has made to the site, the timestamp of the users first visit, the timestamp of their previous visit and the timestamp of their current visit.",Analytics
+_sp_ses.,Snowplow,Used to identify if the user is in an active session on a site or if this is a new session for a user (i.e. cookie doesn’t exist or has expired).,Analytics
+AUTH_SESSION_ID,Keycloak,ID of current authentication session.,Functional
+KC_RESTART,Keycloak,Internal cookie from Keycloak.,Functional
+KC_START,Keycloak,Internal cookie from Keycloak.,Functional
+KEYCLOAK_IDENTITY,Keycloak,ID of the current user.,Functional
+KEYCLOAK_LOCALE,Keycloak,Language of the interface.,Functional
+KEYCLOAK_REMEMBER _ME,Keycloak,Internal cookie from Keycloak.,Functional
+KEYCLOAK_SESSION,Keycloak,ID of the current browser session,Functional
+_abck,Akamai,This cookie is used to analyse traffic to determine if it is automated traffic generated by IT systems or a human user,Functional
+CRAFT_CSRF_TOKEN,CraftCMS,Facilitates protection against cross-site request forgeries. This helps to safeguard data as it is submitted through forms on the website.,Functional
+CraftSessionId,CraftCMS,Craft relies on PHP sessions to maintain sessions across web requests. That is done via the PHP session cookie. Craft names that cookie 'CraftSessionId' by default. This cookie will expire as soon as the session expires.,Functional
+ci_session,CodeIgniter,Cookie to track the users logged in state and access level to restricted pages.,Functional
+__lc_cid,Livechat,Necessary for the functionality of the website's chat-box function.,Functional
+__lc_cst,Livechat,Necessary for the functionality of the website's chat-box function.,Functional
+__lc2_cid,Livechat,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.,Functional
+__lc2_cst,Livechat,Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter.,Functional
+__livechat,Livechat,Used to hide the user's personal customisation of LiveChat.,Functional
+BVBRANDID,Bazaar Voice,BVBRANDID is a persistent cookie that allows Bazaarvoice to track website analytics data such as how often you visit the site and allocate it to the same website visitor.,Analytics
+BVBRANDSID,Bazaar Voice,This cookie allows internal Bazaarvoice web analytics to be correlated to the same user browsing session for interactions within a particular client domain.,Analytics
+BVID,Bazaar Voice,Allows internal Bazaarvoice web analytics to be correlated to the same user for interactions across the Bazaarvoice network.,Marketing
+BVSID,Bazaar Voice,Allows internal Bazaarvoice web analytics to be correlated to the same user browsing session for interactions across the Bazaarvoice network.,Marketing
+_li_id,Leadinfo,"These cookies enable us to get insights about the business use of our website, based on IP addresses of the website visitors.",Marketing
+_li_ses,Leadinfo,"These cookies enable us to get insights about the business use of our website, based on IP addresses of the website visitors.",Marketing
+CAKEPHP,CakePHP,A cookie controller used to manage other Cookies,Functional
+wp-wpml_current_language,WPML,This cookie is used to track the language preference fo the user,Functional
+_flowbox,Flowbox,Used to differentiate between users and sessions and collecting statistics on the viewing behaviour for Instagram posts displayed on the website.,Functional
+acalltracker,Adcalls,"Adcalls call tracking: ID, phone number",Marketing
+acalltrackersession,Adcalls,"This cookie stores a unique identifier, so that it can be tracked which session the visitor is in.",Functional
+acalltrackerreferrer,Adcalls,"This cookie is set as soon as the AdCalls JavaScript is loaded. The cookie is used to store the referrer of the visitor as quickly as possible, so that it cannot be lost. As soon as the JavaScript has been executed, this cookie is immediately deleted.",Analytics
+excludecalltracking,Adcalls,"This cookie is set as soon as the visitor - for whatever reason - is not measured, so that we do not take any further actions.",Functional
+acalltrackernumber,Adcalls,This cookie stores the phone number for the session that is active.,Marketing
+wordpress_google_apps_login,WP-Glogin,Used for secure log in to the web site with a Google account.,Functional
+ckies_functional,Jimdo,Opt-out for functional cookies,Functional
+ckies_necessary,Jimdo,Confirms that other necessary cookies get set,Functional
+ckies_performance,Jimdo,Opt-out for performance cookies,Functional
+ckies_marketing,Jimdo,Opt-out for marketing/third party/consent based cookies,Functional
+ClickAndChange,Jimdo,Session Cookie for Creator CMS,Functional
+pll_language,Polylang,Saves the chosen language.,Functional
+browserupdateorg,Browser-Update.org,Stores information if user dismissed notification about outdated browser,Functional
+TawkConnectionTime,Tawk.to Chat,This cookie is used to determine the connection duration of tawk sessions.,Functional
+tawkUUID,Tawk.to Chat,This cookie is used to collect information about how the visitor handles the live chat function on the website.,Analytics
+TawkCookie,Tawk.to Chat,Main Tawk.to cookie.,Functional
+__tawkuuid,Tawk.to Chat,Tawk.to cookie used to distinguish users.,Functional
+stx_user_id,Sharetrough,Delivering targeted and relevant content,Marketing
+dc,BetweenDigital,This cookie is used for advertising purposes,Marketing
+sqzl_abs,Squeezely,A cookie used by Squeezely,Marketing
+sqzl_consent,Squeezely,Stores the user's cookie consent state for the current domain,Functional
+sqzl_session_id,Squeezely,A cookie used by Squeezely,Marketing
+sqzl_vw,Squeezely,A cookie used by Squeezely,Marketing
+sqzllocal,Squeezely,This is a cookie from the service Squeezely. It helps us with registering which pages you have visited and with sending you personalized ads,Marketing
+belco-anonymous-id,Belco,"This cookie enables you to make use of the chat-function of our customer service-tool, so we can help you anytime.",Functional
+belco-cookies,Belco,"This cookie enables you to make use of the chat-function of our customer service-tool, so we can help you anytime.",Functional
+ABTasty,ABTasty,"This cookie sends all test data (visitorID, test and variant IDs, timestamps).",Analytics
+ABTastySession,ABTasty,This cookie allows us to identify a unique session. It allows us to determine that a new session has begun for a given user.,Analytics
+BCSessionID,Blueconic.com,Unique identifier for the BlueConic profile.,Marketing
+BCTempID,Blueconic.com,"Temporary unique identifier for the BlueConic profile, removed after BCSessionID is created.",Marketing
+BCPermissionLevel,Blueconic.com,Opt-in level (PERSONAL|ANONYMOUS|DO_NOT_TRACK),Functional
+BCReferrerOverrule,Blueconic.com,Stores a custom bcChannelIdentifier as referrer. For these channels the actual referrer points to the website and not the overrule. The overrule would be lost if not stored in this cookie.,Marketing
+BCRefusedObjectives,Blueconic.com,Used to store the identifiers of BlueConic Objectives that were explicitly refused.,Marketing
+BCRevision,Blueconic.com,"Used to store requests that are sent to BlueConic, but haven't returned yet. On the next page view, if BCRevision still contains values, those requests are sent again, to prevent data loss. This information is now stored in localStorage; when this fails, the cookie solution is used as fallback.",Marketing
+BCTracking,Blueconic.com,Used for tracking the channel of an external tracker.,Marketing
+__adal_ca,Adalyser.com,"Stores which advertising campaign drove a user to visit, stores traffic source and campaign data.",Marketing
+__adal_cw,Adalyser.com,"Ties back conversion events to earlier visits, stores a visit timestamp.",Marketing
+__adal_id,Adalyser.com,"Uniquely identify a device, stores a generated Device ID.",Marketing
+__adal_ses,Adalyser.com,"Determines whether there is an active session and which conversions have taken place in this session to prevent duplicates, stores a list of events in this session.",Marketing

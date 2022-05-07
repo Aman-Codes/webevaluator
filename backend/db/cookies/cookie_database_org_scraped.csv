@@ -1,0 +1,954 @@
+cookie_name,Placed_by,Functionality,purpose
+zrdn_unit_type,Zip Recipes,to store configuration.,Functional
+paoc_popup_sess_cookie,Popup Anything,to provide a responsive website.,Functional
+drts-voting-bookmark-post,Directories Pro,to provide persistent item display functionality.,Functional
+wpe_country,WP Engine,to store location data.,Functional
+uael_visitor,Ultimate Elementor,to store first visit to the site.,Functional
+nitropack_apwarning,Nitropack,with unknown functionality,Functional
+nitroCachedPage,Nitropack,to provide load balancing functionality.,Functional
+24230wpqa_post_stats*,WPQA Form Builder,with unknown functionality,Functional
+c_cerber_*,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+OptanonChoice,OneTrust,to store cookie consent preferences.,Functional
+__racplx*,Ruler Analytics,to provide functions across pages.,Functional
+cmplz_rt_id,Complianz,to store anonymized statistics.,Functional
+cmplz_rt_choice,Complianz,to store if a message has been dismissed.,Functional
+stonlyWidget_triggerShown_*,Stonly,to store if a message has been shown.,Functional
+cmplz_rt_event_*,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_consent_status,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_statistics-anonymous,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_preferences,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_statistics,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_marketing,Complianz,to store cookie consent preferences.,Functional
+cmplz_rt_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+cmplz_statistics,Complianz,to store cookie consent preferences.,Functional
+cmplz_preferences,Complianz,to store cookie consent preferences.,Functional
+cmplz_consent_status,Complianz,to store cookie consent preferences.,Functional
+cmplz_statistics-anonymous,Complianz,to store cookie consent preferences.,Functional
+cmplz_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+cmplz_functional,Complianz,to store cookie consent preferences.,Functional
+csrf_session_id,TikTok,to provide protection against hackers.,Functional
+tt_csrf_token,TikTok,to provide protection against hackers.,Functional
+_abck,TikTok,to provide protection against hackers.,Functional
+wa_lang_pref,WhatsApp,to store language settings.,Functional
+wa_ul,WhatsApp,to provide access.,Functional
+storeApiNonce,WooCommerce,to provide functions across pages.,Functional
+optimizelyOptOut,Optimizely,to store cookie consent preferences.,Functional
+webapp-newuser,TikTok,to store first visit to the site.,Functional
+autoplay-config,TikTok,to store configuration.,Functional
+webapp-video-mute,TikTok,to store configuration.,Functional
+ct_screen_info,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+ct_has_scrolled,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+rl_cookie_test,RudderStack,to read if cookies can be placed.,Functional
+_hjSessionRejected,Hotjar,to provide load balancing functionality.,Functional
+_learn_press_session_*,LearnPress,"to store a unique session ID, store a unique user ID.",Functional
+pg_height,PubGuru,to read screen resolution.,Functional
+pg_width,PubGuru,to read screen resolution.,Functional
+acgroupswithpersist,PHP,to provide persistent item display functionality.,Functional
+fm_cookie_*,10Web,to store information related to the contact form.,Functional
+pitchprint_sessId,PitchPrint,to store a unique session ID.,Functional
+debug_vis_opt_exp_*,Visual Website Optimizer,to provide functions across pages.,Functional
+debug_vis_opt_test_cookie,Visual Website Optimizer,to provide functions across pages.,Functional
+crisp-clientsocket*,Crisp Live Chat,to store the status of the chat.,Functional
+pardot,Pardot,to store and track if the browser tab is active.,Functional
+googlesitekit_*,Google Site Kit,to provide admin functions.,Functional
+google_classroom_popup,Masterstudy,to provide a responsive website.,Functional
+pi_opt_in*,Pardot,to store privacy preferences.,Functional
+uael-timer-recinterval-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-recStartTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+intercom.intercom-state-*,Intercom Messenger,to provide functions across pages.,Functional
+cmplzFormValues,Complianz,with unknown functionality,Functional
+cmplz_layout,Complianz,to read screen resolution.,Functional
+cmplz_id,Complianz,to store anonymized statistics.,Functional
+__stripe_sid,Stripe,to provide fraud prevention.,Functional
+*__stripe_,Stripe,to provide fraud prevention.,Functional
+__stripe_mid,Stripe,to provide fraud prevention.,Functional
+PHPSESSID,PHP,to provide functions across pages.,Functional
+ts,Dailymotion,with unknown functionality,Functional
+hist,Dailymotion,to store the user's usage history.,Functional
+*_wordpress_,WordPress,to Store logged in users.,Functional
+cmplz_choice,Complianz,to store if a message has been dismissed.,Functional
+actppresence,Facebook,to store and track if the browser tab is active.,Functional
+hppsession,Adyen,with unknown functionality,Functional
+aelia_cs_selected_currency,Aelia,to store currency settings.,Functional
+__atuvc,AddThis,to store performed actions on the website.,Functional
+__atuvs,AddThis,to store performed actions on the website.,Functional
+No longer active,Complianz,to store cookie consent preferences.,Functional
+cmplz_event_*,Complianz,to store cookie consent preferences.,Functional
+complianz_policy_id,Complianz,to store accepted cookie policy ID.,Functional
+complianz_consent_status,Complianz,to store cookie consent preferences.,Functional
+cookieconsent_status,,to store cookie consent preferences.,Functional
+_hjMinimizedPolls,Hotjar,to store if a message has been dismissed.,Functional
+_hjDonePolls,Hotjar,to store performed actions on the website.,Functional
+_hjClosedSurveyInvites,Hotjar,to store if a message has been shown.,Functional
+__lc_visitor_id*,LiveChat,to store a unique user ID.,Functional
+wpfront-notification-bar-landingpage,WP Front,to provide functions across pages.,Functional
+No longer active,CloudFlare,to provide the identification of trusted web traffic.,Functional
+CONSENT,Google Ads Optimization,to store cookie consent preferences.,Functional
+HSID,Google Ads Optimization,to provide fraud prevention.,Functional
+has_js,Criteo,to provide functions across pages.,Functional
+csm,Facebook,to provide fraud prevention.,Functional
+_icl_current_admin_language_*,WPML,to store language settings.,Functional
+_icl_current_language,WPML,to store language settings.,Functional
+jetpackState,JetPack,to provide functions across pages.,Functional
+__zlcstore,Zopim,to store the status of the chat.,Functional
+__zlcprivacy,Zopim,to store cookie consent preferences.,Functional
+__zlcmid,Zopim,to store a unique user ID.,Functional
+_vis_opt_test_cookie,Visual Website Optimizer,to read if cookies can be placed.,Functional
+_vis_opt_s,Visual Website Optimizer,to store unique visits.,Functional
+_vis_opt_out,Visual Website Optimizer,to store user preferences.,Functional
+_hjDoneTestersWidgets,Hotjar,to store performed actions on the website.,Functional
+woocommerce_cart_*,WooCommerce,to store items in shopping cart.,Functional
+wpe-auth,WP Engine,to Store logged in users.,Functional
+__hssc,HubSpot,to store anonymized statistics.,Functional
+viewed_cookie_policy,GDPR Cookie Consent,to store if a message has been shown.,Functional
+wfCBLBypass,Wordfence,to provide access.,Functional
+wf_loginalerted_*,Wordfence,to provide protection against hackers.,Functional
+wfwaf-authcookie*,Wordfence,to read to determine if the user is logged in.,Functional
+wpml_admin_referer_url,WPML,to store last requested URL.,Functional
+wpml_referer_url,WPML,to store last requested URL.,Functional
+wpml_browser_redirect_test,WPML,to read if cookies can be placed.,Functional
+ssupp.chatid,Smartsupp,to store a unique session ID.,Functional
+ssupp.vid,Smartsupp,to store a unique user ID.,Functional
+AWSELB,Amazon Application Load Balancer,to provide load balancing functionality.,Functional
+vchideactivationmsg_vc11,Visual Composer,to store a version number for updates.,Functional
+tve_leads_unique,Thrive Leads,to store if the user has seen embedded content.,Functional
+twk-*,Tawk,with unknown functionality,Functional
+CookieConsent,CookieBot,to store cookie consent preferences.,Functional
+store_notice*,WooCommerce,to store if a message has been dismissed.,Functional
+woocommerce_recently_viewed,WooCommerce,to store performed actions on the website.,Functional
+woocommerce_items_in_cart,WooCommerce,to store items in shopping cart.,Functional
+gdpr_consent,Crazy Egg,to store cookie consent preferences.,Functional
+moove_gdpr_popup,GDPR Cookie Compliance,to store cookie consent preferences.,Functional
+_lscache_vary,Litespeed,to Provide the prevention of cached pages.,Functional
+ac_enable_tracking,ActiveCampaign,to store cookie consent preferences.,Functional
+ssupp.position,Smartsupp,to store configuration.,Functional
+ssupp.unreaded,Smartsupp,to store if a message has been shown.,Functional
+ssupp.message,Smartsupp,to store performed actions on the website.,Functional
+ssupp.barclicked,Smartsupp,to store the status of the chat.,Functional
+ssupp.opened,Smartsupp,to store the status of the chat.,Functional
+ssupp.group,Smartsupp,to store the status of the chat.,Functional
+cart_ts,Shopify,with unknown functionality,Functional
+cart_sig,Shopify,with unknown functionality,Functional
+Cart,Shopify,with unknown functionality,Functional
+_secure_session_id,Shopify,with unknown functionality,Functional
+_orig_referrer,Shopify,with unknown functionality,Functional
+_ab,Shopify,with unknown functionality,Functional
+__adroll_post_consent_css,Adroll,with unknown functionality,Functional
+__adroll_post_consent_html,Adroll,with unknown functionality,Functional
+__adroll_consent_paramas,Adroll,with unknown functionality,Functional
+__consent,,with unknown functionality,Functional
+qtrans_front_language,Q Translate,to store language settings.,Functional
+catAccCookies,GDPR Cookie Consent Banner,to store cookie consent preferences.,Functional
+intercom-session-*,Intercom Messenger,with unknown functionality,Functional
+intercom-id-*,Intercom Messenger,with unknown functionality,Functional
+maxmegamenu.themeeditor,Max Mega Menu,with unknown functionality,Functional
+__paypal_storage__,PayPal,to store account details.,Functional
+storefront_digest,Shopify,with unknown functionality,Functional
+Secure_customer_sig,Shopify,with unknown functionality,Functional
+Secret,Shopify,with unknown functionality,Functional
+checkout_token,Shopify,with unknown functionality,Functional
+ct_sfw_pass_key,CleanTalk Spam Protect,to provide spam protection.,Functional
+amazon-pay-connectedAuth,Amazon Pay,with unknown functionality,Functional
+incap_ses_*,Incapsula,with unknown functionality,Functional
+wp-reset-tabs,WP_Reset,with unknown functionality,Functional
+DYAMAR_POLL_*_VOTED,Dyamar Polls,to store performed actions on the website.,Functional
+pvc_visits,Posts View Counter,to store and count pageviews.,Functional
+wp-donottrack_feed,WP Do Not Track,with unknown functionality,Functional
+privacy_embeds,Avada Privacy Bar,to store user preferences.,Functional
+qtrans_edit_language,Q Translate,to store language settings.,Functional
+qtrans_admin_language,Q Translate,to store language settings.,Functional
+wpr-show-sidebar,WP Rocket,to store user preferences.,Functional
+wpr-*,WP Rocket,with unknown functionality,Functional
+ct_ps_timestamp,CleanTalk Spam Protect,to store time of visit.,Functional
+ct_timezone,CleanTalk Spam Protect,to store time of visit.,Functional
+ct_pointer_data,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+ct_fkp_timestamp,CleanTalk Spam Protect,to store time of visit.,Functional
+pbct_visible_fields_count,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_visible_fields,CleanTalk Spam Protect,with unknown functionality,Functional
+ct_checkjs,CleanTalk Spam Protect,to store dynamic variables from the browser.,Functional
+apbct_site_landing_ts,CleanTalk Spam Protect,with unknown functionality,Functional
+wd,Facebook,to read screen resolution.,Functional
+_hjShownFeedbackMessage,Hotjar,to store if a message has been shown.,Functional
+dont_track_me,WP Do Not Track,to store 'do not track' signals.,Functional
+wordpress_*,WordPress,with unknown functionality,Functional
+bp-activity-oldestpage,BuddyPress,to provide a responsive website.,Functional
+et-editor-available-post-*,Divi (Elegant Themes),with unknown functionality,Functional
+_wpas_session,Awesome Support,to provide functions across pages.,Functional
+uncodeAI_screen,Uncode,to read screen resolution.,Functional
+uncodeAI_images,Uncode,to provide a responsive website.,Functional
+uncodeAI_css,Uncode,to read screen resolution.,Functional
+auto_saved_sql,phpMyAdmin,with unknown functionality,Functional
+_gat_UA-*,Google Analytics,with unknown functionality,Functional
+wordpress_test_cookie,WordPress,to read if cookies can be placed.,Functional
+wp-api-schema-model*,WordPress,with unknown functionality,Functional
+wp-settings-time-*,WordPress,to store user preferences.,Functional
+wp-settings-*,WordPress,to store user preferences.,Functional
+Phpstorm-*,PhpStorm,with unknown functionality,Functional
+gmw-settings-tabs,Google Maps Widget,with unknown functionality,Functional
+MATOMO_SESSID,Matomo,to provide fraud prevention.,Functional
+wp-autosave-*,WordPress,to store performed actions on the website.,Functional
+cf_*_id,CloudFlare,with unknown functionality,Functional
+edd_items_in_cart,Easy Digital Downloads,to store items in shopping cart.,Functional
+wp-saving-post,WordPress,to store a post in the editor.,Functional
+cookie_notice_accepted,Cookie Notice for GDPR,to read if cookies can be placed.,Functional
+persist:hs-beacon-*,Help Scout,to store if a message has been shown.,Functional
+wp_woocommerce_session_*,WooCommerce,to store performed actions on the website.,Functional
+cmplz_user_data,Complianz,to determine which cookie banner to show.,Functional
+WP_DATA_USER_*,WordPress,to store user preferences.,Functional
+wpgmza-api-consent-given,WP Google Maps,to store cookie consent preferences.,Functional
+wordpress_logged_in_*,WordPress,to Store logged in users.,Functional
+themify-builder-tabs,Themify,with unknown functionality,Functional
+HS:Beacon:TopArticles:*,Shortpixel,to read user IP address.,Functional
+gdpr[allowed_cookies],GDPR Cookie Consent,to store cookie consent preferences.,Functional
+sc_anonymous_id,SoundCloud,to provide functions across pages.,Functional
+duo_secure_wordpress_auth_cookie,Duo Two-Factor Authentication,with unknown functionality,Functional
+zilla_likes_*,ZillaLikes,with unknown functionality,Functional
+paypal,PayPal,to provide fraud prevention.,Functional
+autoptimize_feed,Autoptimize,to store user preferences.,Functional
+itsec_interstitial_browser,iThemes Security,to provide fraud prevention.,Functional
+sclocale,SoundCloud,to store language settings.,Functional
+cacher-requests-Date,OnlineAfspraken,with unknown functionality,Functional
+dao-Bookable,OnlineAfspraken,with unknown functionality,Functional
+dao-AppTypeGroup,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-AppTypeGroup,OnlineAfspraken,with unknown functionality,Functional
+dao-Apptype,OnlineAfspraken,with unknown functionality,Functional
+PSecwid__*taxSettings,Ecwid,to store currency settings.,Functional
+PSecwid__*__taxIdPStaxId,Ecwid,to store currency settings.,Functional
+_jid,wpDiscuz,to Store logged in users.,Functional
+wp_consent_*,WordPress,to store cookie consent preferences.,Functional
+SS_deltaBuffer,,to provide a smoother scrolling experience.,Functional
+cacher-requests-Subscription,OnlineAfspraken,with unknown functionality,Functional
+dao-SubscriptionType,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-SubscriptionType,OnlineAfspraken,with unknown functionality,Functional
+dao-Voucher,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Voucher,OnlineAfspraken,with unknown functionality,Functional
+dao-GiftCard,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-GiftCard,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Apptype,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Resource,OnlineAfspraken,with unknown functionality,Functional
+dao-Date,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Booking-Capacity-Group,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Mailing-MailingList,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Mailing-MailingListSegment,OnlineAfspraken,with unknown functionality,Functional
+dao-Booking-Capacity-Group,OnlineAfspraken,with unknown functionality,Functional
+dao-Productgroup*,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Productgroup,OnlineAfspraken,with unknown functionality,Functional
+dao-Appointment,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Appointment,OnlineAfspraken,with unknown functionality,Functional
+dao-Product*,OnlineAfspraken,with unknown functionality,Functional
+cacher-requests-Product,OnlineAfspraken,with unknown functionality,Functional
+uael-modal-popup-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-modal-popup-*,Ultimate Elementor,to provide functions across pages.,Functional
+etfb-autosave-*,Divi (Elegant Themes),to store a post in the editor.,Functional
+wsc_*_ignoreAllCapsWords,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreWordsWithNumbers,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreWordsWithMixedCases,Yoast,to store performed actions on the website.,Functional
+wsc_*_lang,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreDomainNames,Yoast,to store performed actions on the website.,Functional
+wsc_*_ignoreAllCapsWords,Yoast,to store performed actions on the website.,Functional
+driftt_wmd,Drift,to store if a message has been dismissed.,Functional
+cerber_groove_x_*,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+woocommerce_current_currency,WooCommerce,to store currency settings.,Functional
+_icl_current_admin_language_*,WPML,to store language settings.,Functional
+No longer active,Wordfence,to provide fraud prevention.,Functional
+wc_cart_created,WooCommerce,to store performed actions on the website.,Functional
+HS:Beacon:TopArticles://shortpixel.helpscoutdocs.com,Shortpixel,to read user IP address.,Functional
+amp-store:*,AMP,to store browser details.,Functional
+wc_fragments_*,WooCommerce,with unknown functionality,Functional
+wc_cart_hash_*,WooCommerce,to store items in shopping cart.,Functional
+googtrans,Google Translate,to store language settings.,Functional
+jv_callback_ping_response_*,Jivochat,to store configuration.,Functional
+jv_invitation_time_*,Jivochat,to store time of visit.,Functional
+wp-rest-enabled-ping,WPML,to provide a test whether the WordPress REST API is enabled and publicly accessible.,Functional
+cookielawinfo-checkbox-necessary,GDPR Cookie Consent,to read if cookies can be placed.,Functional
+__lc.visitor_id*,LiveChat,to store a unique user ID.,Functional
+woocommerce_cart_hash,WooCommerce,to store items in shopping cart.,Functional
+wpSGCacheBypass,SiteGround,with unknown functionality,Functional
+wp-wpml_current_admin_language_*,WPML,to store language settings.,Functional
+SERVERID*,HAProxy,to provide load balancing functionality.,Functional
+twk_*,Tawk,with unknown functionality,Functional
+_iub_cs-*,iubenda Cookie Solution,to store cookie consent preferences.,Functional
+googlesitekit::total-notifications,Google Site Kit,to provide admin functions.,Functional
+googlesitekit_modules:*,Google Site Kit,to provide admin functions.,Functional
+wpgdprc-consent-*,WP GDPR Compliance,to store cookie consent preferences.,Functional
+borlabsCookie,Admin,with unknown functionality,Functional
+liveAgentPageTime_*,LiveAgent,with unknown functionality,Functional
+visitor_id*-hash,Pardot,to provide protection against hackers.,Functional
+wp-wpml_current_language,WPML,to store language settings.,Functional
+itsec-hb-login-*,iThemes Security,to provide the hiding of the WordPress login URL.,Functional
+cerber_groove,Cerber Security & Anti-Spam,to provide protection against hackers.,Functional
+simcaseCurrencyConverterCachedCurrency*,,to store currency settings.,Functional
+SGPBShowingLimitationDomain*,PopUp Builder,to store if a message has been shown.,Functional
+themify_builder_clipboard_content,Themify,with unknown functionality,Functional
+vcc_element*,Visual Composer,with unknown functionality,Functional
+HS:Beacon:Suggestions:id:*,Help Scout,with unknown functionality,Functional
+uncodeAI.screen,Uncode,to read screen resolution.,Functional
+uncodeAI.css,Uncode,with unknown functionality,Functional
+uncodeAI.images,Uncode,with unknown functionality,Functional
+kalium_acfpro_gm_tab_*,Advanced Custom Fields,to provide functions across pages.,Functional
+cto_lwid,Criteo,to provide admin functions.,Functional
+cp-userdata-config_activepill_sliders_,Admin,with unknown functionality,Functional
+complianz_id,Complianz,to store cookie consent preferences.,Functional
+complianz_scan_token,Complianz,with unknown functionality,Functional
+DataTables*,NPM,with unknown functionality,Functional
+vchideactivationmsg,Visual Composer,to store a version number for updates.,Functional
+current_cur,,to store currency settings.,Functional
+_hjMinimizedTestersWidgets,Hotjar,to store if a message has been dismissed.,Functional
+ct-ultimate-gdpr-cookie,GDPR Cookie Consent,to store cookie consent preferences.,Functional
+No longer active,Wordfence,to provide fraud prevention.,Functional
+msLocalStorageTest_*,,to read if cookies can be placed.,Functional
+lepelementor_license_cookie,Elementor,to store account details.,Functional
+apbct_cookies_test,CleanTalk Spam Protect,to read if cookies can be placed.,Functional
+apbct_page_hits,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_prev_referer,CleanTalk Spam Protect,to store referrer ID's.,Functional
+apbct_timestamp,CleanTalk Spam Protect,with unknown functionality,Functional
+apbct_visible_fields_count,CleanTalk Spam Protect,with unknown functionality,Functional
+cp-impression-added-forcp_id_*,ConvertPlus,to store if a message has been dismissed.,Functional
+wmc_current_currency,Woo Multi Currency,to store currency settings.,Functional
+beeketing_currency,Beeketing,to store currency settings.,Functional
+uncode_privacy[consent_types,Uncode,to store cookie consent preferences.,Functional
+et-pb-recent-items-colors,Divi (Elegant Themes),to provide functions across pages.,Functional
+aiowps_cookie_test_*,All In One WP Security & Firewall,with unknown functionality,Functional
+qbStartCount,Quriobot,to store last visit.,Functional
+asColorPicker_palettes_*,amazingSurge,to provide functions across pages.,Functional
+jv_enter_*,Jivochat,to store first visit to the site.,Functional
+wsc_*_userID,Yoast,to store performed actions on the website.,Functional
+wsc_*_password,Yoast,to store performed actions on the website.,Functional
+themify_builder_docked,Themify,with unknown functionality,Functional
+w3tc_logged_*,W3 Total Cache,to Provide the prevention of cached pages.,Functional
+algoliasearch-client-js,Algolia,with unknown functionality,Functional
+gfc_HTTP_REFERER,Rocketgenius,with unknown functionality,Functional
+uncode_privacy[privacy_bar,Uncode,with unknown functionality,Functional
+X-Mapping-*,Riverbed,to provide load balancing functionality.,Functional
+onwbchtSound,OnWebChat,to store user preferences.,Functional
+wplc_minimize,WP-live chat,to store if a message has been dismissed.,Functional
+the7-options-preview-device,The7 Theme,with unknown functionality,Functional
+cookielawinfo-checkbox-non-necessary,GDPR Cookie Consent,to read if cookies can be placed.,Functional
+remember_web_*,Laravel php framework,to store user preferences.,Functional
+themify_popup_page_view,Themify,with unknown functionality,Functional
+et-pb-recent-items-font_family,Divi (Elegant Themes),to provide functions across pages.,Functional
+gfc_elementor_library,Rocketgenius,with unknown functionality,Functional
+gfc_customize_autosaved,Rocketgenius,with unknown functionality,Functional
+gfc_customize_messenger_channel,Rocketgenius,with unknown functionality,Functional
+gfc_complianz_scan_token,Rocketgenius,with unknown functionality,Functional
+gfc_ver,Rocketgenius,with unknown functionality,Functional
+gfc_elementor-preview,Rocketgenius,with unknown functionality,Functional
+gfc_listing_type,Rocketgenius,with unknown functionality,Functional
+gfc_preview_nonce,Rocketgenius,with unknown functionality,Functional
+gfc_customize_theme,Rocketgenius,with unknown functionality,Functional
+gfc_tab,Rocketgenius,with unknown functionality,Functional
+xf_edit_style_id,XenForo,to store user preferences.,Functional
+dt_cut_page,The7 Theme,with unknown functionality,Functional
+amazon-pay-abtesting-apa-migration,Amazon Pay,with unknown functionality,Functional
+themify_builder_lightbox_frontend_pos_size,Themify,with unknown functionality,Functional
+tb_visual_templates,Themify,with unknown functionality,Functional
+tb_form_templates_,Themify,with unknown functionality,Functional
+metaslider-vuex*,Metaslider,with unknown functionality,Functional
+_hjSessionResumed,Hotjar,with unknown functionality,Functional
+MCPopupClosed,MailChimp,to store if a message has been dismissed.,Functional
+gfc_gf_page,Rocketgenius,with unknown functionality,Functional
+gt_auto_switch,Google Translate,to provide translations.,Functional
+uncode_privacy,Uncode,to store cookie consent preferences.,Functional
+themify_builder_docked_left,Themify,with unknown functionality,Functional
+themify_builder_lightbox_backend_pos_size,Themify,with unknown functionality,Functional
+tinv_wishlistkey,Template Invaders,with unknown functionality,Functional
+xf_session,XenForo,with unknown functionality,Functional
+xf_session_admin,XenForo,with unknown functionality,Functional
+xf_session_install,XenForo,with unknown functionality,Functional
+xf_user,XenForo,to Store logged in users.,Functional
+xf_notice_dismiss,XenForo,to store if a message has been dismissed.,Functional
+local_storage_support_test,Twitter,to provide load balancing functionality.,Functional
+wordpress_sec_*,WordPress,"to provide protection against hackers, store account details.",Functional
+VISITOR_INFO1_LIVE,YouTube,to provide bandwidth estimations.,Functional
+likebtn_vote*,Likebtn,to store likes of comments or posts.,Functional
+likebtn_count*,Likebtn,to store likes of comments or posts.,Functional
+CEBlack,Cherry Framework,to provide admin functions.,Functional
+ZD-settings,Zendesk,to store user preferences.,Functional
+beeketing_cart_fragments_init,Beeketing,to store items in shopping cart.,Functional
+roundcube_sessauth,Roundcube,with unknown functionality,Functional
+mp_beeketing,Beeketing,with unknown functionality,Functional
+_hjRecordingEnabled,Hotjar,with unknown functionality,Functional
+rtk_currencies,WP Engine,to store currency settings.,Functional
+ssupp_vid,Smartsupp,to store a unique user ID.,Functional
+ssupp_visits,Smartsupp,to store number of visits.,Functional
+ssupp.visits,Smartsupp,to store number of visits.,Functional
+__smListBuilderOptOut,Sumo,with unknown functionality,Functional
+__smWelcomeMatShown,Sumo,with unknown functionality,Functional
+__smSmartBarOptOut,Sumo,with unknown functionality,Functional
+__smSmartbarShown,Sumo,with unknown functionality,Functional
+tourmaster-tour-*,Tour Master,to store performed actions on the website.,Functional
+uael-timer-seconds-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-hours-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-distance-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-minutes-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-cdTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-evgInt-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-firstTime-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-time-to-run-*,Ultimate Elementor,to provide functions across pages.,Functional
+uael-timer-days-*,Ultimate Elementor,to provide functions across pages.,Functional
+tb_panel_closed,Tablepress,with unknown functionality,Functional
+_tb_t_ppg,Taboola,with unknown functionality,Functional
+_tb_sess_r,Taboola,with unknown functionality,Functional
+trc_cookie_storage,Taboola,to store a unique user ID.,Functional
+klaClosedPopup,Klaviyo,to store if a message has been dismissed.,Functional
+ifso_is_first_use,If So,to store first use.,Functional
+thx_global_guid,LexisNexis,to provide fraud prevention.,Functional
+thx_guid,LexisNexis,to provide fraud prevention.,Functional
+persist:hs-beacon-message-*,Help Scout,to store if a message has been shown.,Functional
+ast_checkout_form,Themehigh,with unknown functionality,Functional
+_wcml_booking_currency,Weglot,to store currency settings.,Functional
+Trengo_panelState,Trengo,to store the status of the chat.,Functional
+Trengo_Visitor,Trengo,to store the status of the chat.,Functional
+Trengo_Session,Trengo,to store the status of the chat.,Functional
+Trengo_VisitorToken,Trengo,with unknown functionality,Functional
+wfacp_form_values,Build WooFunnels,with unknown functionality,Functional
+wfacp_checkout_page_id,Build WooFunnels,with unknown functionality,Functional
+wf-scan-issue-expanded-*,Wordfence,to provide the identification of trusted web traffic.,Functional
+bp-notifications,BuddyPress,to store user preferences.,Functional
+bp_user-registered,BuddyPress,with unknown functionality,Functional
+bp_user-role,BuddyPress,with unknown functionality,Functional
+tm_pb_templates_settings_date,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_field,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video_slider_item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_posts,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_post_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_testimonial,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_form,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_section,,with unknown functionality,Functional
+ssupp_chatid,Smartsupp,to store a unique session ID.,Functional
+Trengo_widgetClosedTime,Trengo,to store the status of the chat.,Functional
+tm_pb_templates_tm_pb_text,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_swiper,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_column,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_counters,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_brands_showcase_module,,with unknown functionality,Functional
+tm_pb_templates_settings_product_version,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_social_media_follow,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video_slider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_brands_showcase_module__item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_map_pin,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_countdown_timer,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_map,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_toggle,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_button,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_blog,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_video,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_divider,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_circle_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_image,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_accordion,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_row,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_pricing_tables,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_row_inner,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_tabs,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_accordion_item,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_number_counter,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_taxonomy,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_booked_calendar,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_projects_terms,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_icon,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_contact_form_7,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_testi,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_projects,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_link_box,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_team,,with unknown functionality,Functional
+tm_pb_clipboard_type,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_cherry_services,,with unknown functionality,Functional
+csshero_is_on,CssHero,with unknown functionality,Functional
+asgarosforum_unique_id,Asgaros Forum,to provide functions across pages.,Functional
+asgarosforum_unread_exclude,Asgaros Forum,to store if a message has been shown.,Functional
+asgarosforum_unread_cleared,Asgaros Forum,to store if a message has been shown.,Functional
+cf_use_ob,CloudFlare,with unknown functionality,Functional
+cf_ob_info,CloudFlare,with unknown functionality,Functional
+cbox_first_page_popup_was_closed,ConvertBox,to store if a message has been dismissed.,Functional
+cbox_second_page_popup_was_closed,ConvertBox,to store if a message has been dismissed.,Functional
+tm_pb_templates_tm_pb_booked_appointments,,with unknown functionality,Functional
+tm_pb_templates_tm_pb_booked_login,,with unknown functionality,Functional
+jv_mframe_protected,Jivochat,to provide a responsive website.,Functional
+paypalplus_session_v2,PayPal,to store payment method.,Functional
+buttonizer-first-visit,Buttonizer,to store first visit to the site.,Functional
+ls_smartpush,Litespeed,with unknown functionality,Functional
+BizographicsOptOut,LinkedIn,to store privacy preferences.,Functional
+fusionPanel,Fusion Theme,with unknown functionality,Functional
+linkedin_oauth_,LinkedIn,to provide functions across pages.,Functional
+buttonizer_live_groups_opened,Buttonizer,to provide functions across pages.,Functional
+tinymce-custom-colors,TinyMCE,with unknown functionality,Functional
+yasr_visitor_vote_cookie,Yasr - Yet Another Stars Rating,with unknown functionality,Functional
+mirage_cache_manifest,CloudFlare,with unknown functionality,Functional
+mirage_network_connection,CloudFlare,with unknown functionality,Functional
+cdp-cookies-plugin-wp,Cookie Notice for GDPR,to store cookie consent preferences.,Functional
+mtsnb_lastvisited,WP Notification bar,to store last visit.,Functional
+mtsnb_lastvisit_posts,WP Notification bar,to store if a message has been shown.,Functional
+mtsnb_seen_*,WP Notification bar,to store if a message has been shown.,Functional
+ecwid_is_safari,Ecwid,to store browser details.,Functional
+et-editor-available-post,Divi (Elegant Themes),with unknown functionality,Functional
+wp-youtube-lyte_feed,WP YouTube Lyte,to store if a message has been shown.,Functional
+the7-options-preview-url,The7 Theme,with unknown functionality,Functional
+bookly-cst-info-fields,Bookly,with unknown functionality,Functional
+bookly-cst-full-name,Bookly,with unknown functionality,Functional
+bookly-cst-first-name,Bookly,with unknown functionality,Functional
+bookly-cst-email,Bookly,with unknown functionality,Functional
+bookly_cal_tab_id,Bookly,with unknown functionality,Functional
+bookly-cst-phone,Bookly,with unknown functionality,Functional
+bookly_cal_view,Bookly,with unknown functionality,Functional
+gtm4wp_orderid_cookie_expire,Google Tag Manager for Wordpress,with unknown functionality,Functional
+gtm4wp_last_weatherstatus,Google Tag Manager for Wordpress,with unknown functionality,Functional
+olark-next-convo-id,Olark,with unknown functionality,Functional
+joomla_user_state,Joomla,with unknown functionality,Functional
+wmc_current_currency_old,Woo Multi Currency,to store currency settings.,Functional
+revslider-sharing-addon-notice,Slider Revolution,with unknown functionality,Functional
+happylocaltimezone,WeDevs,to store time of visit.,Functional
+bookly-cst-additional-address,Bookly,with unknown functionality,Functional
+bookly-cst-country,Bookly,with unknown functionality,Functional
+bookly-cst-street,Bookly,with unknown functionality,Functional
+bookly-cst-city,Bookly,with unknown functionality,Functional
+bookly-cst-postcode,Bookly,with unknown functionality,Functional
+bookly-cst-last-name,Bookly,with unknown functionality,Functional
+fl-cache-app-state-*,Beaver Builder,with unknown functionality,Functional
+_webpushrPromptAction,Webpushr,to store user preferences.,Functional
+wpsi*,WP Search Insights,with unknown functionality,Functional
+uvc,AddToAny,to provide load balancing functionality.,Functional
+qm-container-width,Query Monitor,with unknown functionality,Functional
+litespeed_tab,Litespeed,with unknown functionality,Functional
+toggle_data_id_*,,to provide functions across pages.,Functional
+ZRDN_UserGUID,Zip Recipes,to store a unique user ID.,Functional
+zrdnDashboardDefaultsSet,Zip Recipes,"to store configuration, store settings.",Functional
+optimizely_data$$pending_events,Optimizely,with unknown functionality,Functional
+jwplayer.mute,JW Player,with unknown functionality,Functional
+No longer active,Complianz,to store cookie consent preferences.,Functional
+__cfruid,CloudFlare,with unknown functionality,Functional
+cmplz_marketing,Complianz,to store cookie consent preferences.,Functional
+hasConsented,All in One WP Migration,to store privacy preferences.,Functional
+_webpushrEndPoint,Webpushr,to store user preferences.,Functional
+statcounter_config,Statcounter,with unknown functionality,Functional
+_uetsid_exp,Bing Ads,with unknown functionality,Functional
+wpfront-notification-bar-keep-closed,WP Front,to provide functions across pages.,Functional
+fl-cache-updater-*,Beaver Builder,with unknown functionality,Functional
+HW_seenItems*,Headway Widget,with unknown functionality,Functional
+HW_readItems*,Headway Widget,with unknown functionality,Functional
+woodmart_cookies_1,Woodmart,to store cookie consent preferences.,Functional
+__cf_bm,CloudFlare,with unknown functionality,Functional
+SIDCC,Google Maps,to provide the identification of trusted web traffic.,Functional
+ameliaToken,Amelia,to Store logged in users.,Functional
+ameliaUserEmail,Amelia,to Store logged in users.,Functional
+displayedCookiesNotification,Several,to store cookie consent preferences.,Functional
+hasConsent,All in One WP Migration,to store privacy preferences.,Functional
+TrengoWidget_is_chatting,Trengo,to store the status of the chat.,Functional
+webmailsession,cpanel,to provide the identification of trusted web traffic.,Functional
+qm-filter-db_queries-component,Query Monitor,to store configuration.,Functional
+woodmart_popup_*,Woodmart,to store if a message has been shown.,Functional
+woozone-debugbar-row-height,WZone,with unknown functionality,Functional
+mat_tel,Matelso,to store settings.,Functional
+ameliaRangePast,Amelia,to provide functions across pages.,Functional
+ameliaRangeFuture,Amelia,to provide functions across pages.,Functional
+wpe_is_consent_required,WP Engine,with unknown functionality,Functional
+fl-builder-settings-tab,Beaver Builder,with unknown functionality,Functional
+bc.visitor_token,,with unknown functionality,Functional
+jwplayer.bandwidthEstimate,JW Player,with unknown functionality,Functional
+openSnippets,Post Snippets,to provide functions across pages.,Functional
+ct-ultimate-gdpr-cookie-level,,with unknown functionality,Functional
+cache-sprite-plyr,,with unknown functionality,Functional
+shouldRedirect,,with unknown functionality,Functional
+wsc_connected_once,Yoast,to store performed actions on the website.,Functional
+wsc_widget_last_closed,Yoast,to store performed actions on the website.,Functional
+wsc_session_started_at,Yoast,to store performed actions on the website.,Functional
+wsc_last_activity_at,Yoast,to store performed actions on the website.,Functional
+wsc_page_views,Yoast,to store performed actions on the website.,Functional
+wsc_dictionary_cache,Yoast,to store performed actions on the website.,Functional
+wsc_user_dictionary,Yoast,to store performed actions on the website.,Functional
+googlepersonalization,QuantCast,to store cookie consent preferences.,Functional
+timezone,cpanel,to provide timezone.,Functional
+jwplayerLocalId,JW Player,with unknown functionality,Functional
+buddypanel,BuddyPress,to store performed actions on the website.,Functional
+cpsession,cpanel,with unknown functionality,Functional
+loginpress_bg,LoginPress,to provide functions across pages.,Functional
+fpd-storage,Fancy Product Designer,to store configuration.,Functional
+bid_1_password_protected_auth,,with unknown functionality,Functional
+fail_url,,with unknown functionality,Functional
+joinchat_hashes,Join.chat,to store performed actions on the website.,Functional
+joinchat_views,Join.chat,to store and count pageviews.,Functional
+joinchat_country_code,Join.chat,to store location data.,Functional
+adthrive_amzn_hold_load,AdThrive,to provide load balancing functionality.,Functional
+jwplayer.volume,JW Player,with unknown functionality,Functional
+jwplayer.bitrateSelection,JW Player,with unknown functionality,Functional
+jwplayer.qualityLabel,JW Player,with unknown functionality,Functional
+drts-entity-view-list-layout-*,Directories Pro,to store and read layout.,Functional
+wsc_user_dictionary_name,Yoast,to store performed actions on the website.,Functional
+_webpushrBellNotification,Webpushr,to store settings.,Functional
+jdgm_vote_count_down_*,Judge.me,to store performed actions on the website.,Functional
+jdgm_vote_submitted_*,Judge.me,to provide fraud prevention.,Functional
+jdgm_vote_count_up_*,Judge.me,to store performed actions on the website.,Functional
+ts_c,PayPal,to provide fraud prevention.,Functional
+ts,PayPal,to provide fraud prevention.,Functional
+__tt_embed__storage_test,TikTok,to read if cookies can be placed.,Functional
+aHistoryArticles,oxid,to store items in shopping cart.,Functional
+AKA_A2,Akamai,with unknown functionality,Functional
+cmplz_tcf_consent_all,Complianz,to store cookie consent preferences.,Functional
+cmplz_tcf_consent,Complianz,to store cookie consent preferences.,Functional
+cookiehub,Cookiehub,to store cookie consent preferences.,Functional
+wplmi_active_tab,WP Last Modified Info,to store performed actions on the website.,Functional
+debug_vis_preview_*,Visual Website Optimizer,to provide functions across pages.,Functional
+ti_wishlist_data_*,WooCommerce,to store user preferences.,Functional
+_hjTLDTest,Hotjar,with unknown functionality,Functional
+zrdnFormValues,Zip Recipes,with unknown functionality,Functional
+_calendly_session,Calendly,to store user preferences.,Functional
+_uetvid_exp,Bing Ads,with unknown functionality,Functional
+na_tc,AddThis,to store dynamic variables from the browser.,Marketing/Tracking
+na_id,AddThis,to store the user's usage history.,Marketing/Tracking
+mus,AddThis,to provide functions across pages.,Marketing/Tracking
+loc,AddThis,to store location data.,Marketing/Tracking
+cw_id,AddThis,to store the user's usage history.,Marketing/Tracking
+uvc,AddThis,to store and track visits across websites.,Marketing/Tracking
+at-rand,AddThis,to provide functions across pages.,Marketing/Tracking
+at-lojson-cache-wp-*,AddThis,to provide functions across pages.,Marketing/Tracking
+cw_id,AddThis,to Store and track interaction.,Marketing/Tracking
+Google Fonts API,Google Fonts,to read user IP address.,Marketing/Tracking
+SID,Google Ads Optimization,"to provide ad delivery or retargeting, provide fraud prevention.",Marketing/Tracking
+NID,Google Ads Optimization,"to provide ad delivery or retargeting, store user preferences.",Marketing/Tracking
+PREF,YouTube,to store user preferences.,Marketing/Tracking
+_fbp,Facebook,to store and track visits across websites.,Marketing/Tracking
+datr,Facebook,to provide fraud prevention.,Marketing/Tracking
+c_user,Facebook,to store a unique user ID.,Marketing/Tracking
+sb,Facebook,to store browser details.,Marketing/Tracking
+*_fbm_,Facebook,to store account details.,Marketing/Tracking
+at-lojson-cache-ra-*,AddThis,to provide functions across pages.,Marketing/Tracking
+ouid,AddThis,to store a unique user ID.,Marketing/Tracking
+X-LI-IDC,LinkedIn,to provide functions across pages.,Marketing/Tracking
+gig_hasGmid,Gigya,with unknown functionality,Marketing/Tracking
+IDE,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+_drt_,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+___gads,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+id,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+ar_v4,Google DoubleClick,to store and track conversions.,Marketing/Tracking
+DSID,Google DoubleClick,to store user preferences.,Marketing/Tracking
+idIDE,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+SNID,Google Ads Optimization,to provide ad delivery or retargeting.,Marketing/Tracking
+_beeketing_cart_token,Beeketing,with unknown functionality,Marketing/Tracking
+__hstc,HubSpot,to store time of visit.,Marketing/Tracking
+__ar_v4,Google DoubleClick,to store and track conversions.,Marketing/Tracking
+__qca,QuantCast,to store and track audience reach.,Marketing/Tracking
+_stgmap,ShareThis,to store and track audience reach.,Marketing/Tracking
+_stamap,ShareThis,to store and track audience reach.,Marketing/Tracking
+stacxiommap,ShareThis,to store and track audience reach.,Marketing/Tracking
+stdlxmap,ShareThis,to store and track audience reach.,Marketing/Tracking
+__stid,ShareThis,to store and track audience reach.,Marketing/Tracking
+metrics_token,Twitter,to store if the user has seen embedded content.,Marketing/Tracking
+CMID,Casale Media,with unknown functionality,Marketing/Tracking
+wistia,Wistia,to store performed actions on the website.,Marketing/Tracking
+__adroll_v4,Adroll,with unknown functionality,Marketing/Tracking
+__adroll_fpc,Adroll,with unknown functionality,Marketing/Tracking
+__adroll,Adroll,with unknown functionality,Marketing/Tracking
+u,Crazy Egg,with unknown functionality,Marketing/Tracking
+s,Crazy Egg,with unknown functionality,Marketing/Tracking
+_ceg.u,Crazy Egg,with unknown functionality,Marketing/Tracking
+calltrk_session_id_*,CallRail,with unknown functionality,Marketing/Tracking
+calltrk_referrer,CallRail,with unknown functionality,Marketing/Tracking
+No longer active,Jilt,to store a unique user ID.,Marketing/Tracking
+_gcl_au,Google Adsense,to store and track conversions.,Marketing/Tracking
+fbm*,Facebook,to store account details.,Marketing/Tracking
+xs,Facebook,to store a unique session ID.,Marketing/Tracking
+fr,Facebook,to provide ad delivery or retargeting.,Marketing/Tracking
+act,Facebook,to Store logged in users.,Marketing/Tracking
+acalltrackerreferrer,AdCalls,to store referrer ID's.,Marketing/Tracking
+CMST,,with unknown functionality,Marketing/Tracking
+CMPS,,with unknown functionality,Marketing/Tracking
+CMPRO,Casale Media,with unknown functionality,Marketing/Tracking
+hubspotutk,HubSpot,to store and track a visitor's identity.,Marketing/Tracking
+Chatra.referrer,Chatra,to store referrer ID's.,Marketing/Tracking
+Chatra.lastPageViewAt,Chatra,to store and count pageviews.,Marketing/Tracking
+Chatra.hostedItems,Chatra,to store browser details.,Marketing/Tracking
+mailchimp_cart_previous_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp_cart_current_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp_user_previous_email,MailChimp,with unknown functionality,Marketing/Tracking
+mailchimp_user_email,MailChimp,with unknown functionality,Marketing/Tracking
+mailchimp.cart.previous_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+mailchimp.cart.current_email,MailChimp,to store information for remarketing purposes.,Marketing/Tracking
+Drift.Targeting.currentPageViewStarted,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.numberOfSessions,Drift,to store number of visits.,Marketing/Tracking
+Drift.Targeting.numberOfVisits,Drift,to store number of visits.,Marketing/Tracking
+Drift.Targeting.lastVisit,Drift,to store last visit.,Marketing/Tracking
+Drift.Targeting.firstVisit,Drift,to store time of visit.,Marketing/Tracking
+DFTT_LEAD_HAS_PREV_IDENTIFIED,Drift,to store email address.,Marketing/Tracking
+DFTT_END_USER_PREV_BOOTSTRAPPED,Drift,to store last visit.,Marketing/Tracking
+driftt_sid,Drift,to store a unique session ID.,Marketing/Tracking
+driftt_aid,Drift,to store a unique user ID.,Marketing/Tracking
+Chatra.clientId,Chatra,to store a unique user ID.,Marketing/Tracking
+Drift.Targeting.referrerDomain,Drift,to store referrer ID's.,Marketing/Tracking
+Drift.Targeting.searchTerm,Drift,to store used keyword and search engine.,Marketing/Tracking
+Drift.Targeting.currentReferrer,Drift,to store referrer ID's.,Marketing/Tracking
+google_experiment_mod*,Google Ads Optimization,to store and track visits across websites.,Marketing/Tracking
+Drift.Targeting.previousPage,Drift,to store and count pageviews.,Marketing/Tracking
+Drift.Targeting.originalReferrer,Drift,to store referrer ID's.,Marketing/Tracking
+Drift.Targeting.activeSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.previousSessionEndedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.previousSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+Drift.Targeting.currentSessionStartedAt,Drift,to store time of visit.,Marketing/Tracking
+actppresence,Instagram,to store ad display frequency.,Marketing/Tracking
+cto_bundle,Criteo,to provide functions across pages.,Marketing/Tracking
+mixpanel_distinct_id,Mixpanel,"to store a unique user ID, store account details.",Marketing/Tracking
+google_adsense_settings,Google Adsense,to provide ad delivery or retargeting.,Marketing/Tracking
+__gads,Google DoubleClick,to provide ad delivery or retargeting.,Marketing/Tracking
+liveAgentPage_*,LiveAgent,to store and count pageviews.,Marketing/Tracking
+google_pem_mod,Google Ads,to provide ad delivery or retargeting.,Marketing/Tracking
+__utmv,Google Analytics,with unknown functionality,Marketing/Tracking
+_fbc,Facebook,to store last visit.,Marketing/Tracking
+criteo_pt_cdb_bidcache_*,Criteo,to store and track visits across websites.,Marketing/Tracking
+wplc_email,WP-live chat,to store email address.,Marketing/Tracking
+wplc_name,WP-live chat,to store name data.,Marketing/Tracking
+mc_landing_site,MailChimp,to store which page was visited first.,Marketing/Tracking
+visitor_id*,Pardot,to store a unique user ID.,Marketing/Tracking
+cp_id_*,ConvertPlus,to store a unique user ID.,Marketing/Tracking
+Google Maps API,Google Maps,to read user IP address.,Marketing/Tracking
+_gac_*,Google Ads,to store and track audience reach.,Marketing/Tracking
+google_pub_config,Google Adsense,to provide ad delivery or retargeting.,Marketing/Tracking
+google_ama_config,Google Adsense,with unknown functionality,Marketing/Tracking
+google_ama_settings,Google Adsense,to store performed actions on the website.,Marketing/Tracking
+bk_cartToken,Beeketing,with unknown functionality,Marketing/Tracking
+ex_bk_cart_token_after_checkout,Beeketing,with unknown functionality,Marketing/Tracking
+ex_bk_cartToken,Beeketing,with unknown functionality,Marketing/Tracking
+klarna-instant-shopping-context-id,Klarna,with unknown functionality,Marketing/Tracking
+__unam,ShareThis,to store a unique session ID.,Marketing/Tracking
+onwbchtsessionrandom,OnWebChat,with unknown functionality,Marketing/Tracking
+onwbchttimesVisited,OnWebChat,to store number of visits.,Marketing/Tracking
+onwbchtlastvisit,OnWebChat,to store last visit.,Marketing/Tracking
+onwbchtblocked,OnWebChat,to provide functions across pages.,Marketing/Tracking
+onwbchtclientid,OnWebChat,to store a unique user ID.,Marketing/Tracking
+bk_ccart_ps_*_*_total,Beeketing,to store items in shopping cart.,Marketing/Tracking
+bk_ip_country,Beeketing,to store location data.,Marketing/Tracking
+bk_bkt_saved_track_events,Beeketing,with unknown functionality,Marketing/Tracking
+bk_gs_time,Beeketing,with unknown functionality,Marketing/Tracking
+bk_bkeh,Beeketing,with unknown functionality,Marketing/Tracking
+bk_bk_ce_tracked,Beeketing,with unknown functionality,Marketing/Tracking
+bk-cookie-warning,Beeketing,with unknown functionality,Marketing/Tracking
+ucid,Gigya,with unknown functionality,Marketing/Tracking
+gmid,Gigya,with unknown functionality,Marketing/Tracking
+bk_cart_token_after_checkout,Beeketing,with unknown functionality,Marketing/Tracking
+ZD-currentTime,Zendesk,to store last visit.,Marketing/Tracking
+bkt_session_id,Beeketing,to store a unique session ID.,Marketing/Tracking
+BkOpSession,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_sign_up_viewed,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_viewed,Beeketing,with unknown functionality,Marketing/Tracking
+bk_ss_time,Beeketing,with unknown functionality,Marketing/Tracking
+bk_ss,Beeketing,with unknown functionality,Marketing/Tracking
+bk_spop_notification,Beeketing,with unknown functionality,Marketing/Tracking
+bkeh,Beeketing,with unknown functionality,Marketing/Tracking
+AMP_TOKEN,AMP,to store a unique user ID.,Marketing/Tracking
+__utmzzses,WP Engine,with unknown functionality,Marketing/Tracking
+MUID,Microsoft Clarity,to store and track visits across websites.,Marketing/Tracking
+lidc,LinkedIn,to store performed actions on the website.,Marketing/Tracking
+bscookie,LinkedIn,to store performed actions on the website.,Marketing/Tracking
+_stid,ShareThis,to store and track audience reach.,Marketing/Tracking
+mailchimp_campaign_id,MailChimp,to store and track the email campaign.,Marketing/Tracking
+mailchimp_email_id,MailChimp,to store and track the email campaign.,Marketing/Tracking
+GPS,YouTube,to store location data.,Marketing/Tracking
+YSC,YouTube,to Store and track interaction.,Marketing/Tracking
+ifso_last_viewed,If So,to store last visit.,Marketing/Tracking
+ifso_page_visits,If So,to store the user's usage history.,Marketing/Tracking
+om-session-start,OptinMonster,to store time of visit.,Marketing/Tracking
+om-session-pageviews,OptinMonster,to store and count pageviews.,Marketing/Tracking
+_gat_gtag_UA_*_1,Google Analytics,to store and track conversions.,Marketing/Tracking
+socialsnap_viewed_*,Social Snap,to store performed actions on the website.,Marketing/Tracking
+session_depth,Google Ads,to store ad display frequency.,Marketing/Tracking
+DigiTrust.v1.identity,Adform,to store a unique user ID.,Marketing/Tracking
+s_vi_dbyx7Fax27zxxen,adobe marketing cloud,with unknown functionality,Marketing/Tracking
+s1,Comscore,with unknown functionality,Marketing/Tracking
+adthrive_refauc,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+bcookie,LinkedIn,to store browser details.,Marketing/Tracking
+li-oatml,LinkedIn,to provide ad delivery or retargeting.,Marketing/Tracking
+li_sugr,LinkedIn,to store browser details.,Marketing/Tracking
+UserMatchHistory,LinkedIn,to provide ad delivery or retargeting.,Marketing/Tracking
+_lfa_*,Leadfeeder,to store and track audience reach.,Marketing/Tracking
+hsfirstvisit,HubSpot,to store time of visit.,Marketing/Tracking
+cbox_last_user_check,ConvertBox,with unknown functionality,Marketing/Tracking
+_cb_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat5,Chartbeat,with unknown functionality,Statistics
+isPushNotificationsEnabled,One Signal,with unknown functionality,Marketing/Tracking
+isOptedOut,One Signal,with unknown functionality,Marketing/Tracking
+rc::c,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+rc::b,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+rc::a,Google reCAPTCHA,to read and filter requests from bots.,Marketing/Tracking
+Jv_utm_*,Jivochat,to store and track the email campaign.,Marketing/Tracking
+adthrive_rebuildslot,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_referrer,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_hbho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_vbho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+mat_ep,Matelso,to store referrer ID's.,Marketing/Tracking
+adthrive_vscs,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_auorder,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_bidord,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_amzn,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ebho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ggii,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_ixlib,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_uetsid,Bing Ads,to store and track visits across websites.,Marketing/Tracking
+prism_*,ActiveCampaign,to Store and track interaction.,Marketing/Tracking
+rl_anonymous_id,RudderStack,with unknown functionality,Marketing/Tracking
+criteo_pt_cdb_bidcachemap,Criteo,with unknown functionality,Marketing/Tracking
+adthrive_vast_to,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_uetvid,Bing Ads,to store and track visits across websites.,Marketing/Tracking
+__tt_embed__mounting,TikTok,to store data on the performance of content.,Marketing/Tracking
+goog_pem_mod,Google Ads,to provide ad delivery or retargeting.,Marketing/Tracking
+adthrive_idho,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_pin_unauth,Pinterest,with unknown functionality,Marketing/Tracking
+ads/ga-audiences,Google Ads,to store information for remarketing purposes.,Marketing/Tracking
+__d_pardot,Pardot,to store a unique user ID.,Marketing/Tracking
+brz-showedPopupsInSessionTimeLine,Brizy,to store performed actions on the website.,Marketing/Tracking
+__fb_chat_plugin,Facebook,to Store and track interaction.,Marketing/Tracking
+dpm,adobe marketing cloud,to provide ad delivery or retargeting.,Marketing/Tracking
+adthrive_reqto,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzhb,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzbpvp,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_maxre,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+adthrive_lzcvp,AdThrive,to store information for remarketing purposes.,Marketing/Tracking
+_gaexp_rc,Google Optimize,with unknown functionality,Marketing/Tracking
+rl_user_id,RudderStack,to store a unique user ID.,Marketing/Tracking
+__utmd,Google Analytics,to store and track visitor journeys through the site and classifies them into groups.,Marketing/Tracking
+rl_trait,RudderStack,to store performed actions on the website.,Marketing/Tracking
+vq_utm_medium,Visitor Queue,to store referring website.,Marketing/Tracking
+vq_initial_source,Visitor Queue,to store which page was visited first.,Marketing/Tracking
+vq_utm_source,Visitor Queue,to store referring website.,Marketing/Tracking
+vq_utm_term,Visitor Queue,to store used keyword and search engine.,Marketing/Tracking
+vqa_vid,Visitor Queue,to store a unique user ID.,Marketing/Tracking
+pys_fb_event_id,PixelYourSite,to store information for remarketing purposes.,Marketing/Tracking
+_clck,Microsoft Clarity,to store a unique user ID.,Marketing/Tracking
+brz-showedPopups,Brizy,to store performed actions on the website.,Marketing/Tracking
+webapp_tiktok_privious,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+webapp_extra_data,TikTok,to provide functions across pages.,Marketing/Tracking
+webapp_original_traffic_type,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+guide-login-config,TikTok,"to store a unique user ID, store configuration, store if the user has seen embedded content.",Marketing/Tracking
+__tea_cache_tokens_*,TikTok,"to store a unique session ID, store a unique user ID.",Marketing/Tracking
+pg_pv_time_*,PubGuru,to store and count pageviews.,Marketing/Tracking
+pg_keypress,PubGuru,to store performed actions on the website.,Marketing/Tracking
+pg_ip,PubGuru,to read user IP address.,Marketing/Tracking
+CAN_Store_*,Canddi,to store and track visits across websites.,Marketing/Tracking
+coveo_visitorId,Coveo,to store a unique user ID.,Marketing/Tracking
+s_v_web_id,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+MONITOR_WEB_ID,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+tt_webid,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+tt_webid_v2,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+ttwid,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+webapp_launch_mode,TikTok,to store if the user has seen embedded content.,Marketing/Tracking
+pg_beacon,PubGuru,with unknown functionality,Marketing/Tracking
+pg_session_depth,PubGuru,to store number of visits.,Marketing/Tracking
+webapp_session_id,TikTok,"to store a unique session ID, store and track visits across websites.",Marketing/Tracking
+webapp-session-referer,TikTok,to store referring website.,Marketing/Tracking
+__atrfs,AddThis,to provide functions across pages.,Marketing/Tracking
+ad-id,Amazon-adsystem.com,to provide ad delivery or retargeting.,Marketing/Tracking
+ad-privacy,Amazon-adsystem.com,to provide ad delivery or retargeting.,Marketing/Tracking
+rl_page_init_referring_domain,RudderStack,to store referring website.,Marketing/Tracking
+rl_group_id,RudderStack,with unknown functionality,Marketing/Tracking
+rl_group_trait,RudderStack,with unknown functionality,Marketing/Tracking
+rl_page_init_referrer,RudderStack,to store referring website.,Marketing/Tracking
+sqzllocal,Squeezely,to store a unique user ID.,Marketing/Tracking
+sqzl_session_id,Squeezely,to store a unique session ID.,Marketing/Tracking
+kk_leadtag,Kelkoo Salestracking,to store performed actions on the website.,Marketing/Tracking
+et-global-campaign,Goya,to store if a message has been dismissed.,Preferences
+goya_popup,Goya,to store if a message has been dismissed.,Preferences
+e_site-editor,Elementor,to store configuration.,Preferences
+e_globals,Elementor,to store configuration.,Preferences
+brz-sessions,Brizy,to store user preferences.,Preferences
+_webpushrLastVisit,Webpushr,to store time of visit.,Preferences
+bp_ut_session,BuddyPress,to store a unique session ID.,Preferences
+omFoldersClosed,OptinMonster,to store if a message has been dismissed.,Preferences
+omFoldersOptin,OptinMonster,to store if a message has been dismissed.,Preferences
+omFoldersSeen,OptinMonster,to store if a message has been dismissed.,Preferences
+boxzilla_timer,Ibericode,to store time of visit.,Preferences
+_js_datr,Facebook,to store user preferences.,Preferences
+tve_api_mailchimp_optin,Thrive Dashboard,to store user preferences.,Preferences
+of_current_opt,WordPress,to store user preferences.,Preferences
+KC_Configs,Kingcomposer,to store configuration.,Preferences
+wplc_cid,WP-live chat,to store a unique user ID.,Preferences
+_ym_d,Yandex Metrica,to store first visit to the site.,Preferences
+ZD-store,Zendesk,to provide functions across pages.,Preferences
+demPoll_*,Democracy Poll,to store performed actions on the website.,Preferences
+module-manager-time-*,,to store performed actions on the website.,Preferences
+jv_history_*,Jivochat,to store performed actions on the website.,Preferences
+jv_store_*,Jivochat,to store performed actions on the website.,Preferences
+vue-tabs-component.cache*,Vue,to store the user's usage history.,Preferences
+comment_author_email_*,WordPress,to store user preferences.,Preferences
+comment_author_url_*,WordPress,to store user preferences.,Preferences
+comment_author_*,WordPress,to store user preferences.,Preferences
+ibx_wpfomo_notifications,WPfomify,to store if a message has been shown.,Preferences
+pmpro_visit,Paid Membership Pro,to store if a message has been shown.,Preferences
+pll_language,Polylang,to store language settings.,Preferences
+ibx_wpfomo_ip,WPfomify,to read user IP address.,Preferences
+_wpfuuid,WPForms,to store a unique user ID.,Preferences
+messagesUtk,HubSpot,"to store browser details, store performed actions on the website.",Preferences
+hs-messages-is-open,HubSpot,to store if a message has been shown.,Preferences
+mailmunch_second_pageview,MailMunch,"to provide subscription service, store user preferences.",Preferences
+esaf_click,EasyAffiliate,to store referrer ID's.,Statistics (anonymous)
+afwc_campaign,Affiliate for WooCommerce,to store and track the affiliate campaign.,Statistics (anonymous)
+elementor_split_test_client_id,Elementor,to store a unique user ID.,Statistics (anonymous)
+wpf_read_forums,WPForms,to store and count pageviews.,Statistics (anonymous)
+_pk_testcookie*,Matomo,to store and count pageviews.,Statistics (anonymous)
+elementor,Elementor,to store performed actions on the website.,Statistics (anonymous)
+gadwp_wg_default_swmetric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_dimension,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_metric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+_hjIncludedInSample,Hotjar,to store anonymized statistics.,Statistics (anonymous)
+affwp_ref_visit_id,Affiliate WP,to store a unique user ID.,Statistics (anonymous)
+affwp_campaign,Affiliate WP,to store referring website.,Statistics (anonymous)
+affwp_ref,Affiliate WP,to store referrer ID's.,Statistics (anonymous)
+complianz_config,Complianz,to provide a responsive website.,Statistics (anonymous)
+piwik_ignore,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_hsr,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_ses*,Matomo,to store a unique session ID.,Statistics (anonymous)
+_pk_id*,Matomo,to store a unique user ID.,Statistics (anonymous)
+_pk_cvar,Matomo,with unknown functionality,Statistics (anonymous)
+_pk_ref*,Matomo,to store referrer ID's.,Statistics (anonymous)
+PIWIK_SESSID,Matomo,with unknown functionality,Statistics (anonymous)
+gadwp_ir_default_metric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_ir_default_swmetric,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+gadwp_wg_default_view,Google Analytics Dashboard for WP,to store and count pageviews.,Statistics (anonymous)
+_cb_svref,Chartbeat,with unknown functionality,Statistics
+_cb_svref_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat4_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat2_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat4,Chartbeat,with unknown functionality,Statistics
+_chartbeat5_expires,Chartbeat,with unknown functionality,Statistics
+_cb_expires,Chartbeat,with unknown functionality,Statistics
+_chartbeat5,Chartbeat,with unknown functionality,Statistics
+ifso_visit_counts,If So,to store number of visits.,Statistics
+ifso_viewing_triggers,If So,to store data on the performance of content.,Statistics
+__insp_lml,Inspectlet,with unknown functionality,Statistics
+__insp_norec_sess,Inspectlet,with unknown functionality,Statistics
+__insp_pad,Inspectlet,with unknown functionality,Statistics
+__insp_slim,Inspectlet,with unknown functionality,Statistics
+__insp_targlpt,Inspectlet,with unknown functionality,Statistics
+__insp_targlpu,Inspectlet,with unknown functionality,Statistics
+jv_refer_*,Jivochat,to store referrer ID's.,Statistics
+vuid,Vimeo,to store the user's usage history.,Statistics
+gist-state,Gist,to store and count pageviews.,Statistics
+wistia-video-progress-*,Wistia,to store if the user has seen embedded content.,Statistics
+pys_utm_campaign,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+brz-pagesViews,Brizy,to store which page was visited first.,Statistics
+brz-pagesViewsInSessionTimeLine,Brizy,with unknown functionality,Statistics
+brz-lastVisit,Brizy,to store last visit.,Statistics
+oribi_user_guid,Oribi,with unknown functionality,Statistics
+oribi_session,Oribi,with unknown functionality,Statistics
+gtm4wp_orderid_tracked,Google Tag Manager for Wordpress,with unknown functionality,Statistics
+__insp_mslc,Inspectlet,with unknown functionality,Statistics
+__insp_msld,Inspectlet,with unknown functionality,Statistics
+__insp_ss,Inspectlet,with unknown functionality,Statistics
+is_unique,Statcounter,to store unique visits.,Statistics
+_hjAbsoluteSessionInProgress,Hotjar,to store unique visits.,Statistics
+_first_pageview,Clicky,to store which page was visited first.,Statistics
+statcounter_session,Statcounter,to store a unique session ID.,Statistics
+utm_source,Google Analytics,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+utm_campaign,Google Analytics,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+statcounter_bounce,Statcounter,to store and record bounced visits.,Statistics
+pysTrafficSource,PixelYourSite,to store referring website.,Statistics
+pys_utm_term,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_utm_source,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+scrwidth,,to read screen resolution.,Statistics
+LPV*,Pardot,to store and count pageviews.,Statistics
+pys_utm_medium,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_utm_content,PixelYourSite,to Provide parameters to URLs to identify the campaigns that refer traffic.,Statistics
+pys_landing_page,PixelYourSite,to store which page was visited first.,Statistics
+_hjIncludedInSessionSample,Hotjar,with unknown functionality,Statistics
+_hjIncludedInPageviewSample,Hotjar,with unknown functionality,Statistics
+brz-firstVisit,Brizy,to store which page was visited first.,Statistics
+_gac_UA-*,Google Analytics,to store and count pageviews.,Statistics
+damd,Dailymotion,to store performed actions on the website.,Statistics

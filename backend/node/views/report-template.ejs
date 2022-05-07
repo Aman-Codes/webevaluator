@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table{
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+table, th, td {
+  border: 1px solid black;
+	font-size: 5px;
+	text-align : center;
+}
+th, td {
+	max-width: 100px;
+	overflow-wrap: anywhere;
+	word-wrap: break-word;
+}
+.successText {
+	color: green;
+}
+.failText {
+	color: red;
+}
+.warningText {
+	color: #ffc107;
+}
+.successBg {
+	background: green;
+}
+.failBg {
+	background: red;
+}
+.warningBg {
+	background: #ffc107;
+}
+.infoBg {
+	background: #0dcaf0;
+}
+img {
+	max-width: 90vw;
+	margin: auto;
+	align-items: center;
+	align-content: center;
+}
+.head_div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	display: flex;
+}
+.score_div {
+	text-align: center;
+	margin: auto;
+	padding: 30px;
+	display: flex !important;
+}
+.score_val {
+	margin: auto;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.score_ssl {
+	color: #7bc043;
+	margin: 0;
+	cursor: pointer;
+	display: block;
+	font-size: 2.5em;
+}
+.score_cookie {
+	color: #fe4a49;
+	margin: 0;
+	cursor: pointer;
+	display: block;
+	font-size: 2.5em;
+}
+.score_ada {
+	color: #fed766;
+	margin: 0;
+	cursor: pointer;
+	display: block;
+	font-size: 2.5em;
+}
+.score_text {
+	color: #fe4a49;
+	margin: 0;
+	cursor: pointer;
+	display: block;
+	font-size: 2.5em;
+}
+.score_border {
+	padding: 20px;
+	border: 2px solid red;
+	border-radius: 50%;
+	width: 90px;
+	border-color: #5B44BA;
+	margin-bottom: 15px;
+	margin: auto;
+}
+.para {
+	color: #5B44BA;
+	margin: 0;
+	cursor: pointer;
+	display: block;
+	font-size: 1.5em;
+}
+</style>
+</head>
+<body>
+<div>
+	<div>
+	<h1>Web Accessibility Report</h1>
+	<b>URL:</b> <%= url %>
+	<div class="head_div">
+		<div class="score_div">
+			<div class="score_val">
+				<div class="score_border">
+					<p class="score_ssl">
+						<% if(allData[5]?.value){ %>
+							100
+						<% }else{ %>
+							0
+						<% }%>
+					</p>
+				</div>
+				<p class="para">SSL Score</p>
+			</div>
+			<div class="score_val">
+				<div class="score_border">
+					<p class="score_cookie">
+						<% if (allData[0]?.value?.consentAsked && allData[0]?.value?.denyConsent) { %>
+							100
+						<% }else if(allData[0]?.value?.consentAsked || allData[0]?.value?.denyConsent) { %>
+							50
+						<% } else{ %>
+							0
+						<% } %>
+					</p>
+				</div>
+				<p class="para">Cookie Score</p>
+			</div>
+			<div class="score_val">
+				<div class="score_border">
+					<p class="score_text">
+						<%= (1000 - allData[1]?.value?.Section508?.length
+            - allData[1]?.value?.WCAG2A?.length
+						- allData[1]?.value?.WCAG2AA?.length
+						- allData[1]?.value?.WCAG2AAA?.length)/10 %>
+					</p>
+				</div>
+				<p class="para">WCAG Score</p>
+			</div>
+			<div class="score_val">
+				<div class="score_border">
+					<p class="score_text">
+						<%= (100 - allData[2]?.value?.error?.length - allData[2]?.value?.warning?.length) %>
+					</p>
+				</div>
+				<p class="para">Accessibility Score</p>
+			</div>
+		</div>
+	</div>
+	<h2>SSL Certificates:</h2>
+	<table>
+		<tr>
+			<th>Serial Number</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_sn  %></td>
+		</tr>
+		<tr>
+			<th>Host</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.host  %></td>
+		</tr>
+		<tr>
+			<th>TCP Port</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.tcp_port  %></td>
+		</tr>
+		<tr>
+			<th>Issued To</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issued_to  %></td>
+		</tr>
+		<tr>
+			<th>Issued Organization</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issued_o  %></td>
+		</tr>
+		<tr>
+			<th>Issuer Country</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issuer_c  %></td>
+		</tr>
+		<tr>
+			<th>Issuer Organization</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issuer_o  %></td>
+		</tr>
+		<tr>
+			<th>Issuer Organizational Unit</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issuer_ou  %></td>
+		</tr>
+		<tr>
+			<th>Issuer Common Name</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.issuer_cn  %></td>
+		</tr>
+		<tr>
+			<th>Serial Number</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_sn  %></td>
+		</tr>
+		<tr>
+			<th>SHA1</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_sha1  %></td>
+		</tr>
+		<tr>
+			<th>Algorithm</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_alg  %></td>
+		</tr>
+		<tr>
+			<th>Version</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_ver  %></td>
+		</tr>
+		<tr>
+			<th>Valid From</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.valid_from  %></td>
+		</tr>
+		<tr>
+			<th>Valid Till</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.valid_till  %></td>
+		</tr>
+		<tr>
+			<th>Days Left</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.days_left  %></td>
+		</tr>
+		<tr>
+			<th>Grade</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.grade  %></td>
+		</tr>
+		<tr>
+			<th>Poodle Vulnerability</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.poodle_vuln  %></td>
+		</tr>
+		<tr>
+			<th>Heartbleed Vulnerability</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.heartbleed_vuln  %></td>
+		</tr>
+		<tr>
+			<th>Heartbeat Vulnerability</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.heartbeat_vuln  %></td>
+		</tr>
+		<tr>
+			<th>Freak Vulnerability</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.freak_vuln  %></td>
+		</tr>
+		<tr>
+			<th>Logjam Vulnerability</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.logjam_vuln  %></td>
+		</tr>
+		<tr>
+			<th>Drown Vulnerable</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.drownVulnerable  %></td>
+		</tr>
+		<tr>
+			<th>DNS Names</th>
+			<td><%= allData[5]?.value[Object.keys(allData[5]?.value)[0]]?.cert_sans  %></td>
+		</tr>
+	</table>
+	<br />
+	<h2>Cookies:</h2>
+	<p>
+		Cookies consent asked: <% if (allData[0]?.value?.consentAsked) { %>
+		<span class="successText">Yes</span> <% } else { %> 
+		<span class="failText">No</span> <% } %>
+		<br/>
+		Cookies consent deny option present: <% if (allData[0]?.value?.denyConsent) { %> 
+		<span class="successText">Yes</span> <% } else { %>
+		<span class="failText">No</span> <% } %>
+	</p>
+	<strong>Initial cookies:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Name</th>
+			<th>Value</th>
+			<th>Domain</th>
+			<th>Path</th>
+			<th>Expires</th>
+			<th>Size</th>
+			<th>HTTP Only</th>
+			<th>Secure</th>
+			<th>Session</th>
+			<th>Same Party</th>
+			<th>Source Scheme</th>
+			<th>Source Port</th>
+			<th>Placed By</th>
+			<th>Functionality</th>
+			<th>Purpose</th>
+		</tr>
+		<% allData[0]?.value?.initialCookies?.forEach((cookie, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= cookie.name %></td>
+				<td><%= cookie.value %></td>
+				<td><%= cookie.domain %></td>
+				<td><%= cookie.path %></td>
+				<td><%= cookie.expires %></td>
+				<td><%= cookie.size %></td>
+				<td><%= cookie.httpOnly %></td>
+				<% if (cookie.secure) {%>
+					<td class="successBg"><%= cookie.secure %></td>
+				<% } else {%>
+					<td class="failBg"><%= cookie.secure %></td>
+				<% } %>
+				<td><%= cookie.session %></td>
+				<td><%= cookie.sameParty %></td>
+				<td><%= cookie.sourceScheme %></td>
+				<td><%= cookie["source Port"] %></td>
+				<td><%= cookie.info.placed_by %></td>
+				<td><%= cookie.info.functionality %></td>
+				<td><%= cookie.info.purpose %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>Cookies after consent accepted:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Name</th>
+			<th>Value</th>
+			<th>Domain</th>
+			<th>Path</th>
+			<th>Expires</th>
+			<th>Size</th>
+			<th>HTTP Only</th>
+			<th>Secure</th>
+			<th>Session</th>
+			<th>Same Party</th>
+			<th>Source Scheme</th>
+			<th>Source Port</th>
+			<th>Placed By</th>
+			<th>Functionality</th>
+			<th>Purpose</th>
+		</tr>
+		<% allData[0]?.value?.consentAcceptedCookies?.forEach((cookie, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= cookie.name %></td>
+				<td><%= cookie.value %></td>
+				<td><%= cookie.domain %></td>
+				<td><%= cookie.path %></td>
+				<td><%= cookie.expires %></td>
+				<td><%= cookie.size %></td>
+				<td><%= cookie.httpOnly %></td>
+				<% if (cookie.secure) {%>
+					<td class="successBg"><%= cookie.secure %></td>
+				<% } else {%>
+					<td class="failBg"><%= cookie.secure %></td>
+				<% } %>
+				<td><%= cookie.session %></td>
+				<td><%= cookie.sameParty %></td>
+				<td><%= cookie.sourceScheme %></td>
+				<td><%= cookie["source Port"] %></td>
+				<td><%= cookie.info.placed_by %></td>
+				<td><%= cookie.info.functionality %></td>
+				<td><%= cookie.info.purpose %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>Cookies after consent denied:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Name</th>
+			<th>Value</th>
+			<th>Domain</th>
+			<th>Path</th>
+			<th>Expires</th>
+			<th>Size</th>
+			<th>HTTP Only</th>
+			<th>Secure</th>
+			<th>Session</th>
+			<th>Same Party</th>
+			<th>Source Scheme</th>
+			<th>Source Port</th>
+			<th>Placed By</th>
+			<th>Functionality</th>
+			<th>Purpose</th>
+		</tr>
+		<% allData[0]?.value?.consentDeniedCookies?.forEach((cookie, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= cookie.name %></td>
+				<td><%= cookie.value %></td>
+				<td><%= cookie.domain %></td>
+				<td><%= cookie.path %></td>
+				<td><%= cookie.expires %></td>
+				<td><%= cookie.size %></td>
+				<td><%= cookie.httpOnly %></td>
+				<% if (cookie.secure) {%>
+					<td class="successBg"><%= cookie.secure %></td>
+				<% } else {%>
+					<td class="failBg"><%= cookie.secure %></td>
+				<% } %>
+				<td><%= cookie.session %></td>
+				<td><%= cookie.sameParty %></td>
+				<td><%= cookie.sourceScheme %></td>
+				<td><%= cookie["source Port"] %></td>
+				<td><%= cookie.info.placed_by %></td>
+				<td><%= cookie.info.functionality %></td>
+				<td><%= cookie.info.purpose %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+
+	<h2>Security Headers:</h2>
+	<strong>Missing:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Missing</th>
+		</tr>
+		<% allData[6]?.value[url]?.missing?.forEach((row, index) => { %> 
+			<tr>
+				<td><%= index + 1 %></td>
+				<td class="failBg"><%= row %></td>
+			</tr>
+		<% }) %>
+	</table>
+    <br />
+
+	<strong>Present:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Name</th>
+			<th>Value</th>
+		</tr>
+		<% Object.keys(allData[6]?.value[url]?.present)?.forEach((row, index) => { %> 
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= row %></td>
+				<td><%= allData[6]?.value[url]?.present[row] %></td>
+			</tr>
+		<% }) %>
+	</table>
+    <br />
+
+	<h2>Web Content Accessibility Guidelines:</h2>
+	<strong>WCAG2A:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Type</th>
+			<th>Message</th>
+			<th>Element</th>
+			<th>Success Criterion</th>
+			<th>Suggested Techniques</th>
+		</tr>
+		<% allData[1]?.value?.WCAG2A?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<% if (row.type == "error") {%>
+					<td class="failBg"><%= row.type %></td>
+				<% } else if (row.type == "warning") {%>
+					<td class="warningBg"><%= row.type %></td>
+				<% } else {%>
+					<td class="infoBg"><%= row.type %></td>
+				<% } %>
+				<td><%= row.message %></td>
+				<td><%= row.element?.substr(0, 20) %></td>
+				<td><%= row.msgInfo[0]?.["Success Criterion"]?.join(" \n") %></td>
+				<td><%= row.msgInfo[1]?.["Suggested Techniques"]?.join(" \n") %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>WCAG2AA:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Type</th>
+			<th>Message</th>
+			<th>Element</th>
+			<th>Success Criterion</th>
+			<th>Suggested Techniques</th>
+		</tr>
+		<% allData[1]?.value?.WCAG2AA?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<% if (row.type == "error") {%>
+					<td class="failBg"><%= row.type %></td>
+				<% } else if (row.type == "warning") {%>
+					<td class="warningBg"><%= row.type %></td>
+				<% } else {%>
+					<td class="infoBg"><%= row.type %></td>
+				<% } %>
+				<td><%= row.message %></td>
+				<td><%= row.element?.substr(0, 20) %></td>
+				<td><%= row.msgInfo[0]?.["Success Criterion"]?.join(" \n") %></td>
+				<td><%= row.msgInfo[1]?.["Suggested Techniques"]?.join(" \n") %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>WCAG2AAA:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Type</th>
+			<th>Message</th>
+			<th>Element</th>
+			<th>Success Criterion</th>
+			<th>Suggested Techniques</th>
+		</tr>
+		<% allData[1]?.value?.WCAG2AAA?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<% if (row.type == "error") {%>
+					<td class="failBg"><%= row.type %></td>
+				<% } else if (row.type == "warning") {%>
+					<td class="warningBg"><%= row.type %></td>
+				<% } else {%>
+					<td class="infoBg"><%= row.type %></td>
+				<% } %>
+				<td><%= row.message %></td>
+				<td><%= row.element?.substr(0, 20) %></td>
+				<td><%= row.msgInfo[0]?.["Success Criterion"]?.join(" \n") %></td>
+				<td><%= row.msgInfo[1]?.["Suggested Techniques"]?.join(" \n") %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>Section 508:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Type</th>
+			<th>Message</th>
+			<th>Element</th>
+			<th>Section</th>
+		</tr>
+		<% allData[1]?.value?.Section508?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<% if (row.type == "error") {%>
+					<td class="failBg"><%= row.type %></td>
+				<% } else if (row.type == "warning") {%>
+					<td class="warningBg"><%= row.type %></td>
+				<% } else {%>
+					<td class="infoBg"><%= row.type %></td>
+				<% } %>
+				<td><%= row.message %></td>
+				<td><%= row.element?.substr(0, 40) %></td>
+				<td><%= row.msgInfo[0]?.Section %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<h2>Other Accessibility Checks:</h2>
+	<strong class="failText">Errors:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Selector</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Count</th>
+		</tr>
+		<% allData[2]?.value?.error?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= row.selector %></td>
+				<td><%= row.name %></td>
+				<td><%= row.description %></td>
+				<td><%= row.count %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong class="warningText">Warnings:</strong>
+	<table>
+		<tr>
+			<th>S. No.</th>
+			<th>Selector</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Count</th>
+		</tr>
+		<% allData[2]?.value?.warning?.forEach((row, index) => {  %>
+			<tr>
+				<td><%= index + 1 %></td>
+				<td><%= row.selector %></td>
+				<td><%= row.name %></td>
+				<td><%= row.description %></td>
+				<td><%= row.count %></td>
+			</tr>
+		<% }) %>
+	</table>
+	<br/>
+	<strong>Website look for low vision:</strong>
+	<img src="http://localhost:5000/<%= allData[3]?.value %>" alt="Website look for low vision"/>
+	<br />
+	<strong>Website look for color blind:</strong>
+	<img src="http://localhost:5000/<%= allData[4]?.value %>" alt="Website look for color blind"/>
+	
+	</div>
+</div>
+</body>
+</html>
