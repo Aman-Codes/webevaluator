@@ -1,0 +1,23 @@
+# Source code
+.git*
+.dockerignore
+Dockerfile*
+docker-compose*
+*.md
+.github
+.gitignore
+
+# Dependency directory
+node_modules
+npm-debug.log
+
+# Logs
+logs
+*.log
+
+# VS Code
+.vscode
+
+# ENV
+.env
+.example.env

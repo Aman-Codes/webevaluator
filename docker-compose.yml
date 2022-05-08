@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  backend-go:
+    build:
+      context: ./backend/go
+      dockerfile: Dockerfile
+    container_name: backend-go
+    volumes:
+      - ./backend/go/:/usr/app
+    ports:
+      - "${BACKEND_GO_PORT}:${BACKEND_GO_PORT}"
+
+  backend-node:
+    build:
+      context: ./backend/node
+      dockerfile: Dockerfile
+    container_name: backend-node
+    environment:
+      - MONGODB_URL
+    volumes:
+      - ./backend/node/:/usr/app
+    ports:
+      - "${BACKEND_NODE_PORT}:${BACKEND_NODE_PORT}"
+
+  backend-python:
+    build:
+      context: ./backend/python/security_header
+      dockerfile: Dockerfile
+    container_name: backend-python
+    volumes:
+      - ./backend/python/security_header/:/app
+    ports:
+      - "${BACKEND_PYTHON_PORT}:${BACKEND_PYTHON_PORT}"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    depends_on:
+      - backend-go
+      - backend-node
+      - backend-python
+    volumes:
+      - ./frontend/:/usr/app
+    ports:
+      - "${FRONTEND_PORT}:${FRONTEND_PORT}"
