@@ -1,6 +1,8 @@
 package router
 
 import (
+	"os"
+
 	"github.com/Aman-Codes/backend/go/pkg/invoke"
 	"github.com/Aman-Codes/backend/go/pkg/log"
 	"github.com/Aman-Codes/backend/go/pkg/sendRequest"
@@ -90,6 +92,9 @@ func Router() {
 			"data":   data,
 		})
 	})
-
-	router.Run(":8080")
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+	router.Run(":" + port)
 }

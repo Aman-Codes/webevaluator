@@ -35,7 +35,7 @@ const Report = () => {
   const [header, setHeader] = useState(null);
   const tableRef = useRef(null);
   const [sslScore, setSslScore] = useState(null);
-  const [cookieScore, setCookieScore] = useState(null);
+  // const [cookieScore, setCookieScore] = useState(null);
   const [wcagScore, setWcagScore] = useState(null);
   const [accessScore, setAccessScore] = useState(null);
   const [headerScore, setHeaderScore] = useState(null);
@@ -133,7 +133,6 @@ const Report = () => {
   });
   useEffect(() => {
     setMapping((prev) => {
-      console.log("ssl inside useEffect is ", ssl);
       return {
         ...prev,
         1: {
@@ -289,39 +288,52 @@ const Report = () => {
     Promise.allSettled(promiseList)
       .then((data) => {
         console.log(data);
-        // console.log("header is", header);
+        console.log("header is", header);
         setSslScore(data[0].value ? 100 : 0);
-        setCookieScore(
-          // eslint-disable-next-line no-nested-ternary
-          data[2].value.data.consentAsked && data[2].value.data.denyConsent
-            ? 100
-            : data[2].value.data.consentAsked || data[2].value.data.denyConsent
-            ? 50
+        // setCookieScore(
+        //   // eslint-disable-next-line no-nested-ternary
+        //   data[2]?.value?.data?.consentAsked &&
+        //     data[2]?.value?.data?.denyConsent
+        //     ? 100
+        //     : data[2]?.value?.data?.consentAsked ||
+        //       data[2]?.value?.data?.denyConsent
+        //     ? 50
+        //     : 0
+        // );
+        setWcagScore(
+          data[4]?.value?.result?.Section508?.length
+            ? data[4].value.result.Section508.length +
+                data[4].value.result.WCAG2A.length +
+                data[4].value.result.WCAG2AA.length +
+                data[4].value.result.WCAG2AAA.length
             : 0
         );
-        setWcagScore(
-          data[4].value.result.Section508.length +
-            data[4].value.result.WCAG2A.length +
-            data[4].value.result.WCAG2AA.length +
-            data[4].value.result.WCAG2AAA.length
-        );
         setAccessScore(
-          data[3].value.data.error.length + data[3].value.data.warning.length
+          data[3]?.value?.data?.error?.length
+            ? data[3].value.data.error.length +
+                data[3].value.data.warning.length
+            : 0
         );
         setHeaderScore(
-          100 - Object.values(data[5].value)[0].missing.length * 10
+          data[5]?.value
+            ? 100 - Object.values(data[5].value)[0].missing.length * 10
+            : 0
         );
-        setMissingHeaders(Object.values(data[5].value)[0].missing);
-        console.log(Object.values(data[5].value)[0].missing);
-        console.log(missingHeaders);
-        console.log(header);
+        setMissingHeaders(
+          data[5]?.value ? Object.values(data[5].value)[0].missing : []
+        );
       })
       .catch((error) => {
-        console.error(error);
+        // setSslScore(0);
+        // setCookieScore(0);
+        // setWcagScore(0);
+        // setAccessScore(0);
+        // setHeaderScore(0);
+        // setMissingHeaders([]);
+        console.error("error occured is", error);
       });
     setMapping([]);
   }, []);
-  console.log("cookieScore", cookieScore);
   const classes = useStyles();
   return (
     <div className={classes.root}>
@@ -330,7 +342,7 @@ const Report = () => {
       </div>
       <div className={classes.head_div}>
         <div className={classes.score_div}>
-          {sslScore ? (
+          {sslScore !== null ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
                 <p className={classes.score_ssl}>{sslScore}</p>
@@ -354,7 +366,7 @@ const Report = () => {
               <Loader />
             </div>
           )} */}
-          {wcagScore ? (
+          {wcagScore !== null ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
                 <p className={classes.score_text}>{(1000 - wcagScore) / 10}</p>
@@ -366,7 +378,7 @@ const Report = () => {
               <Loader />
             </div>
           )}
-          {accessScore ? (
+          {accessScore !== null ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
                 <p className={classes.score_ada}>{100 - accessScore}</p>
@@ -378,7 +390,7 @@ const Report = () => {
               <Loader />
             </div>
           )}
-          {headerScore ? (
+          {headerScore !== null ? (
             <div className={classes.score_val}>
               <div className={classes.score_border}>
                 <p className={classes.score_text}>{headerScore}</p>

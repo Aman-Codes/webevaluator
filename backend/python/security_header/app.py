@@ -5,6 +5,11 @@ from sslscan import SSLChecker
 from urllib.parse import urlparse
 app = Flask(__name__)
 
+@app.route('/status', methods=["GET"])
+@cross_origin(supports_credentials=True)
+def home():
+    return 'Server is running'
+
 @app.route('/securityheader', methods=["POST"])
 @cross_origin(supports_credentials=True)
 def securityheader():    
@@ -18,10 +23,9 @@ def securityheader():
 @cross_origin(supports_credentials=True)
 def ssl():
     input_json = request.get_json(force=True)
-    url=input_json['URL']    
+    url=input_json['URL'] 
     parsed_uri = urlparse(url)
     result = '{uri.scheme}://{uri.netloc}/'.format(uri=parsed_uri)
-    print(result)
     args = {'hosts': [result]}
     result=SSLChecker().show_result(SSLChecker().get_args(json_args=args))
     return result
