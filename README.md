@@ -127,13 +127,13 @@ The front end is created in React.js and Material UI. All the reports are displa
 
 ## Usage or Working Demo
 
-![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/main/1.png)
+![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/master/1.png)
 
-![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/main/2.jpeg)
+![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/master/2.jpeg)
 
-![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/main/3.jpeg)
+![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/master/3.jpeg)
 
-![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/main/4.jpeg)
+![image](https://raw.githubusercontent.com/Aman-Codes/webevaluator/master/4.jpeg)
 
 ## Contributing Guidelines
 
@@ -217,11 +217,11 @@ upstream	git@github.com:Aman-Codes/webevaluator.git (push)
 
 ### Method 2 (not recommended): Setup services independently
 
-For Linux based systems refer to [LinuxInstallation.md](https://github.com/Aman-Codes/webevaluator/blob/main/LinuxInstallation.md) and for Windows refer to [WindowsInstallation.md](https://github.com/Aman-Codes/webevaluator/blob/main/WindowsInstallation.md)
+For Linux based systems refer to [LinuxInstallation.md](https://github.com/Aman-Codes/webevaluator/blob/master/LinuxInstallation.md) and for Windows refer to [WindowsInstallation.md](https://github.com/Aman-Codes/webevaluator/blob/master/WindowsInstallation.md)
 
 ### Sample Report
 
-See the [sample report](https://github.com/Aman-Codes/webevaluator/blob/main/sampleReport.pdf) generated from the tool.
+See the [sample report](https://github.com/Aman-Codes/webevaluator/blob/master/sampleReport.pdf) generated from the tool.
 
 ### References
 
