@@ -1,9 +1,16 @@
 # WebEvaluator - An Automated Website Tester
 
+[![Slack Channel](https://img.shields.io/badge/slack-webevaluator-blue.svg?longCache=true&logo=slack)](https://join.slack.com/t/webevaluator/shared_invite/zt-1i6rwnif9-hPh9fyg4ZZSpfI79d4hfbA)
+[![Docker Pulls](https://img.shields.io/docker/pulls/webevaluator/webevaluator.github.io.svg)](https://hub.docker.com/r/webevaluator/webevaluator.github.io)
+[![GitHub stars](https://img.shields.io/github/stars/Aman-Codes/webevaluator?style=social)](https://github.com/Aman-Codes/webevaluator/stargazers)
+
 ## Introduction
 
 This is an advanced web crawling tool that will not only discover the active URLs within the website but also provide information about SSL certificate compliance, Cookie checker and ADA compliance and details about the security headers.
-Source Code available at: https://github.com/Aman-Codes/webevaluator
+
+## Deployed Link
+https://webevaluator.github.io/
+
 ## Implementation Details
 
 #### Crawler

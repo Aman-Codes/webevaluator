@@ -1,6 +1,18 @@
 version: "3.9"
 
 services:
+
+  mongodb_container:
+    image: mongo:latest
+    container_name: mongodb_container
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: rootpassword
+    ports:
+      - "${MONGODB_PORT}:27017"
+    volumes:
+      - mongodb_container:/data/db
+  
   backend-go:
     build:
       context: ./backend/go
@@ -9,19 +21,21 @@ services:
     volumes:
       - ./backend/go/:/usr/app
     ports:
-      - "${BACKEND_GO_PORT}:${BACKEND_GO_PORT}"
+      - "${BACKEND_GO_PORT}:8080"
 
   backend-node:
     build:
       context: ./backend/node
       dockerfile: Dockerfile
     container_name: backend-node
+    depends_on:
+      - mongodb_container
     environment:
       - MONGODB_URL
     volumes:
       - ./backend/node/:/usr/app
     ports:
-      - "${BACKEND_NODE_PORT}:${BACKEND_NODE_PORT}"
+      - "${BACKEND_NODE_PORT}:5000"
 
   backend-python:
     build:
@@ -31,7 +45,7 @@ services:
     volumes:
       - ./backend/python/security_header/:/app
     ports:
-      - "${BACKEND_PYTHON_PORT}:${BACKEND_PYTHON_PORT}"
+      - "${BACKEND_PYTHON_PORT}:8000"
 
   frontend:
     build:
@@ -45,4 +59,7 @@ services:
     volumes:
       - ./frontend/:/usr/app
     ports:
-      - "${FRONTEND_PORT}:${FRONTEND_PORT}"
+      - "${FRONTEND_PORT}:3000"
+
+volumes:
+  mongodb_container:
