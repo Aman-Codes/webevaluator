@@ -1,4 +1,4 @@
-[
+const cookies = [
   {
     "cookie_name": "zrdn_unit_type",
     "placed_by": "Zip Recipes",
@@ -9839,4 +9839,6 @@
     "functionality": "Determines whether there is an active session and which conversions have taken place in this session to prevent duplicates, stores a list of events in this session.",
     "purpose": "Marketing"
   }
-]
+];
+
+module.exports = cookies;

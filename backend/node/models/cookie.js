@@ -15,4 +15,4 @@ const CookieSchema = new mongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("cookie", CookieSchema);
+module.exports = mongoose.model("cookie", CookieSchema, "cookies");

@@ -2,6 +2,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const path = require("path");
 const cors = require("cors");
+const cookieModel = require("./models/cookie");
+const cookieData = require("./data/cookies");
 
 const app = express();
 require("dotenv").config();
@@ -17,9 +19,15 @@ const db = process.env.MONGODB_URL || "mongodb://localhost/webcrawler";
 mongoose
   .connect(db, {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
+    useUnifiedTopology: true
   })
-  .then(() => console.log("Mongoose connected.."))
+  .then(() => console.log("Mongoose connected with db",db))
+  .then(() => cookieModel.countDocuments())
+  .then(count => {
+    if(!count) {
+      return cookieModel.insertMany(cookieData);
+    }
+  })
   .catch((err) => console.log(err));
 
 // use routes
