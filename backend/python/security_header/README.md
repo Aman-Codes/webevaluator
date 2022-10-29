@@ -1,6 +1,28 @@
-# Security Header Check
+# Flask Backend
 
-Run app.py as flask app
+This repo contains the flask backend server code which by default runs locally on the port 8000.
+
+## Deployed Link
+https://flask-backend-aman-codes.vercel.app/status
+
+## Pre-requisites
+
+Your machine should have Python3 installed to use it locally.
+
+## Installation
+
+To install all the dependencies run
+
+```
+pip install -r requirements.txt
+```
+
+To start the server locally run
+```
+python3 app.py
+```
+
+## Security Header
 
 Send URL as POST data on `http://localhost:8000/securityheader` just as below:
 
@@ -37,8 +59,6 @@ will give results as follows:
 
 
 # SSL Checker API
-
-Run app.py as flask app
 
 Send URL as POST data on `http://localhost:8000/ssl` just as below:
 
