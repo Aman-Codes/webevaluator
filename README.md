@@ -6,7 +6,14 @@
 
 ## Introduction
 
-This is an advanced web crawling tool that will not only discover the active URLs within the website but also provide information about SSL certificate compliance, Cookie checker and ADA compliance and details about the security headers.
+Every year tech giants face billion dollar lawsuits against them in the United States of America and the European Union as their website is incompatible with the American with Disability Act (ADA) or the General Data Protection Regulation (GDPR), respectively. So we created a tool named WebEvaluator, ( https://webevaluator.github.io/ ) to help website developers find compliance issues and warnings in their website and it also suggests ways to fix them.
+Its features are:
+- A super fast crawler written in Go that could process more than 1000 requests/second/core. It looks for URLs in all the HTML, CSS, JavaScript, and sitemap.xml files.
+- SSL certificate compliance agent checks for the certificate's validity and analyzes the SSL certificate for security issues.
+- Cookie checker agent checks whether cookie consent is asked, deny cookie option is present and it also categorizes all the cookies stored by the website into groups like Advertisement, Analytics, Necessary, Functional, and Others.
+- ADA compliance agent looks for various issues on the website, which could make it difficult for people with special needs to access it. It also suggests ways to fix those errors.
+- Security headers agent verifies that all the required security headers are present.
+- Report generation agent creates a detailed downloadable report in pdf/csv format with a score for each category of analysis.
 
 ## Deployed Link
 https://webevaluator.github.io/
